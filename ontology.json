@@ -1,0 +1,244 @@
+{
+    "class_context-course_name": [
+        "intro_programming",
+        "data_structures",
+        "discrete_math",
+        "calculus_i",
+        "calculus_ii",
+        "linear_algebra",
+        "statistics",
+        "general_chemistry",
+        "general_physics",
+        "academic_writing",
+        "other"
+    ],
+    "class_context-course_department": [
+        "cs",
+        "math",
+        "statistics",
+        "chemistry",
+        "physics",
+        "biology",
+        "economics",
+        "education",
+        "english",
+        "other"
+    ],
+    "class_context-course_level": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "500_plus"
+    ],
+    "class_context-term": [
+        "fall",
+        "spring",
+        "summer",
+        "winter"
+    ],
+    "class_context-week": [
+        "week_1",
+        "week_2",
+        "week_3",
+        "week_4",
+        "week_5",
+        "week_6",
+        "week_7",
+        "week_8",
+        "week_9",
+        "week_10",
+        "week_11",
+        "week_12",
+        "week_13",
+        "week_14",
+        "week_15",
+        "week_16"
+    ],
+    "class_summary-average_gpa": [
+        "0-1",
+        "1-2",
+        "2-3",
+        "3-4",
+        "unknown"
+    ],
+    "class_summary-grade_trend": [
+        "improving",
+        "stable",
+        "declining",
+        "polarized",
+        "unknown"
+    ],
+    "class_summary-common_assignment_type_issue": [
+        "homework",
+        "quiz",
+        "project",
+        "lab",
+        "midterm",
+        "final",
+        "essay",
+        "presentation",
+        "participation",
+        "none",
+        "mixed",
+        "unknown"
+    ],
+    "class_summary-flagged_student_count": [
+        "0",
+        "1_2",
+        "3_5",
+        "6_10",
+        "11_plus",
+        "unknown"
+    ],
+    "class_summary-summary_scope": [
+        "whole_class",
+        "flagged_students_only",
+        "specific_group"
+    ],
+    "student_query-student_identifier_type": [
+        "student_id",
+        "full_name",
+        "first_name",
+        "email",
+        "anonymous_label",
+        "none"
+    ],
+    "student_query-predicted_grade_filter": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "f",
+        "below_d",
+        "below_c",
+        "below_b",
+        "any",
+        "unknown"
+    ],
+    "student_query-assignment_issue_filter": [
+        "missing_homework",
+        "missing_quizzes",
+        "missing_projects",
+        "missing_labs",
+        "missing_multiple",
+        "late_work",
+        "no_issue",
+        "any",
+        "unknown"
+    ],
+    "student_status-student_reference": [
+        "student_id",
+        "student_name",
+        "anonymous_student"
+    ],
+    "student_status-grade_trend": [
+        "improving",
+        "stable",
+        "declining",
+        "fluctuating",
+        "unknown"
+    ],
+    "student_status-assignment_type": [
+        "homework",
+        "quiz",
+        "project",
+        "lab",
+        "midterm",
+        "final",
+        "essay",
+        "presentation",
+        "participation",
+        "multiple",
+        "none",
+        "unknown"
+    ],
+    "student_status-missing_assignments_count": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4_or_more",
+        "unknown"
+    ],
+    "student_status-failure_risk": [
+        "low",
+        "medium",
+        "high",
+        "critical"
+    ],
+    "student_status-failure_risk_reason": [
+        "academic_underpreparedness",
+        "missing_work",
+        "poor_attendance",
+        "low_engagement",
+        "time_management",
+        "motivation",
+        "mental_health_concern",
+        "financial_pressure",
+        "family_responsibility",
+        "health_issue",
+        "language_barrier",
+        "unclear",
+        "other"
+    ],
+    "intervention-target_scope": [
+        "single_student",
+        "multiple_students",
+        "flagged_students",
+        "whole_class"
+    ],
+    "intervention-intervention_type": [
+        "check_in_message",
+        "office_hours_invitation",
+        "study_plan",
+        "practice_materials",
+        "deadline_extension",
+        "makeup_assignment",
+        "tutoring_referral",
+        "advising_referral",
+        "counseling_referral",
+        "disability_services_referral",
+        "peer_support",
+        "attendance_warning",
+        "progress_monitoring",
+        "monitor_only",
+        "escalate_to_instructor",
+        "escalate_to_advisor",
+        "whole_class_review_session",
+        "whole_class_reminder",
+        "other"
+    ],
+    "intervention-intervention_goal": [
+        "improve_engagement",
+        "recover_missing_work",
+        "improve_concept_mastery",
+        "improve_exam_performance",
+        "reduce_failure_risk",
+        "support_wellbeing",
+        "clarify_expectations",
+        "connect_to_resources",
+        "improve_attendance",
+        "other"
+    ],
+    "intervention-priority": [
+        "low",
+        "medium",
+        "high",
+        "critical"
+    ],
+    "intervention-contact_mode": [
+        "email",
+        "lms_message",
+        "in_class",
+        "office_hours",
+        "virtual_meeting",
+        "advisor_referral",
+        "whole_class_announcement",
+        "no_contact"
+    ],
+    "intervention-follow_up_needed": [
+        "yes",
+        "no"
+    ]
+}
