@@ -1,0 +1,54 @@
+course_id,total_components,pct_threshold_hit,components_needed,approx_week,accuracy_at_hit,components_at_threshold,atrisk_pct_threshold_hit,atrisk_approx_week,atrisk_precision_at_hit,atrisk_components,threshold
+CS 101,58,10,6,3,0.7998,"Lecture Activity 1, Homework 1, Lab Discussion 1, Lecture Activity 2, Lecture Activity 3, Homework 2",20,4,0.8571,"Lecture Activity 1, Homework 1, Lab Discussion 1, Lecture Activity 2, Lecture Activity 3, Homework 2, Lab Discussion 2, Lecture Activity 4, Lecture Activity 5, Homework 3, Lab Discussion 3, Lecture Activity 6",0.75
+CS 410,18,10,2,2,0.9053,"Quiz 1, Quiz 2",,,0,,0.75
+CS 465,52,10,6,3,0.7844,"Studio, Workbooks, Studio, Workbooks, Studio, Workbooks",,,0,,0.75
+CS 441,10,10,1,4,0.7959,Homework 1,30,7,0.8947,"Homework 1, Homework 2, Exam 1",0.75
+CS 555,12,10,2,7,0.8886,"Homework 1, Homework 2",,,0,,0.75
+CS 562,29,10,3,3,0.8753,"Paper Review 1, Paper Review 2, Paper Review 3",,,0,,0.75
+CS 511,10,10,1,4,0.8957,Proposal Evaluation,,,0,,0.75
+CS 470,1,10,1,8,1,Unspecified Graded Component 1,,,0,,0.75
+CS 463,7,20,2,4,0.7836,"MP 1, MP 2",50,7,1,"MP 1, MP 2, Midterm 1, MP 3",0.75
+CS 477,7,20,2,7,0.793,"Homework 2, Homework 3",,,0,,0.75
+CS 538,7,20,2,4,0.7917,"Paper Presentation, Project Proposal",,,0,,0.75
+CS 546,6,20,2,7,0.7758,"Project Lightning Talk, Midterm 1",90,16,1,"Project Lightning Talk, Midterm 1, Project Proposal, Project Midterm Progress Presentation, Midterm 2, Final Project Report",0.75
+CS 424,12,20,3,5,0.8972,"Homework 1, Programming Assignment 1, Homework 2",,,0,,0.75
+CS 444,9,20,2,4,0.76,"Programming Assignment 1, Quiz 1",80,13,0.7647,"Programming Assignment 1, Quiz 1, Programming Assignment 2, Programming Assignment 3, Quiz 2, Participation Extra Credit, Quiz 3, Programming Assignment 4",0.75
+CS 222,26,20,6,2,0.8142,"Weekly Review 1, Weekly Review 2, Intro Assignment 1, Weekly Review 3, Project Proposal 1, Intro Assignment 2",20,2,1,"Weekly Review 1, Weekly Review 2, Intro Assignment 1, Weekly Review 3, Project Proposal 1, Intro Assignment 2",0.75
+CS 447,18,20,4,2,0.8172,"Quiz 1, Quiz 2, Assignment 1, Peer graded assignment",40,5,1,"Quiz 1, Quiz 2, Assignment 1, Peer graded assignment, Quiz 3, Quiz 4, Quiz 5, Assignment 2",0.75
+CS 527,10,30,3,5,0.7635,"Homework 1, Project Proposal Submission/Presentation, Homework 2",,,0,,0.75
+CS 423,10,30,3,6,0.8767,"Machine Problem 0, Machine Problem 1, Machine Problem 2",80,9,1,"Machine Problem 0, Machine Problem 1, Machine Problem 2, Machine Problem 5, Homework 1, Midterm Exam, Quizzes and Participation, Machine Problem 3",0.75
+CS 421,11,30,4,6,0.767,"Machine Problem 1, Machine Problem 2, Machine Problem 3, Midterm 1",70,9,0.7826,"Machine Problem 1, Machine Problem 2, Machine Problem 3, Midterm 1, In-class Activities, Post-class Activities, Midterm 2, Machine Problem 4",0.75
+CS 412,7,30,3,8,0.7886,"Homework 1 (A1), Homework 2 (A2), Midterm Exam",80,16,0.7619,"Homework 1 (A1), Homework 2 (A2), Midterm Exam, Programming Assignment 1 (A3), Programming Assignment 2 (A4), Homework 3 (A5)",0.75
+CS 418,24,30,8,4,0.7503,"Quiz 1, MP 1, Quiz 2, MP 2, Quiz 3, MP 3, Quiz 4, MP 4",30,4,0.7895,"Quiz 1, MP 1, Quiz 2, MP 2, Quiz 3, MP 3, Quiz 4, MP 4",0.75
+CS 445,8,30,3,8,0.795,"Project 1 (Hybrid Images), Project 2 (Image Quilting), Midterm Exam",30,8,0.84,"Project 1 (Hybrid Images), Project 2 (Image Quilting), Midterm Exam",0.75
+CS 534,37,30,12,6,0.8333,"Quiz 1, Quiz 2, Quiz 3, Quiz 4, Paper Review 1, Quiz 5, Quiz 6, Quiz 7, Quiz 8, Paper Review 2, Quiz 9, Quiz 10",,,0,,0.75
+CS 533,9,40,4,8,0.8818,"Homework 1, Project Presentation, Project Description, Homework 2",40,8,1,"Homework 1, Project Presentation, Project Description, Homework 2",0.75
+CS 411,15,40,6,6,0.75,"Homework 1, Quiz 1, Homework 2, Quiz 2, Attendance, Homework 3",50,8,0.7714,"Homework 1, Quiz 1, Homework 2, Quiz 2, Attendance, Homework 3, Quiz 3, Course Project",0.75
+CS 446,9,40,4,8,0.7717,"Assignment 0, Assignment 1, Assignment 2, Assignment 3",70,13,0.75,"Assignment 0, Assignment 1, Assignment 2, Assignment 3, Midterm Exam, Assignment 4, Assignment 5",0.75
+CS 438,13,40,6,8,0.7814,"MP0, Problem Set 1, MP1, Problem Set 2, Problem Set 3, Midterm Exam",100,16,1,"MP0, Problem Set 1, MP1, Problem Set 2, Problem Set 3, Midterm Exam, Problem Set 4, Problem Set 5, MP2, Problem Set 6, MP3, Problem Set 7, Final Exam",0.75
+CS 361,26,40,11,6,0.7911,"Homework 1, Orientation Quiz, Quiz 1, Homework 2, Quiz 2, Homework 3, Peer Review 1, Quiz 3, Homework 4, Homework 5, Peer Review 2",70,10,0.8276,"Homework 1, Orientation Quiz, Quiz 1, Homework 2, Quiz 2, Homework 3, Peer Review 1, Quiz 3, Homework 4, Homework 5, Peer Review 2, Quiz 4, Homework 6, Midterm 1, Homework 7, Homework 8, Peer Review 3, Quiz 5, Homework 9",0.75
+CS 415,3,40,2,8,0.8773,"Midterm 1, Course Project",70,16,1,"Midterm 1, Course Project, Final Exam",0.75
+CS 568,3,40,2,10,0.895,"In-class Participation, Commentaries",,,0,,0.75
+CS 537,5,50,3,8,0.9062,"Final Project Proposal, Take-Home Midterm Exam, Paper Presentation",50,8,1,"Final Project Proposal, Take-Home Midterm Exam, Paper Presentation",0.75
+CS 563,25,50,13,8,0.75,"Paper Summary 1, Paper Summary 2, Paper Summary 3, Paper Summary 4, Paper Summary 5, Paper Summary 6, Paper Summary 7, Paper Summary 8, Paper Summary 9, Paper Summary 10, Paper Summary 11, Paper Summary 12, Class Participation",,,0,,0.75
+CS 525,7,50,4,11,0.8,"Survey Report, Paper Presentation, Class Participation, Midterm Report",,,0,,0.75
+CS 100,6,60,4,8,0.9568,"Homework 1, Homework 2, Homework 3, Lecture Attendance",60,8,0.8333,"Homework 1, Homework 2, Homework 3, Lecture Attendance",0.75
+CS 240,29,60,18,8,0.8549,"Homework 1, Homework 2, MP 1, Homework 3, Homework 4, MP 2, Homework 5, Homework 6, MP 3, Homework 7, Homework 8, Homework 9, MP 4, Homework 10, MP 5, Midterm 1, MP 6, Homework 11",40,5,1,"Homework 1, Homework 2, MP 1, Homework 3, Homework 4, MP 2, Homework 5, Homework 6, MP 3, Homework 7, Homework 8, Homework 9",0.75
+CS 210,20,60,12,9,0.8121,"Weekly Assignments 1, Weekly Assignments 2, Weekly Assignments 3, Weekly Assignments 4, Weekly Assignments 5, Weekly Assignments 6, Midterm Exam, Weekly Assignments 7, Class Participation, Weekly Assignments 8, Presentation, Weekly Assignments 9",,,0,,0.75
+CS 433,7,60,5,10,0.8125,"Homework 1, Homework 2, Homework 3, Midterm 1, Homework 4",50,8,0.8333,"Homework 1, Homework 2, Homework 3, Midterm 1",0.75
+CS 105,25,60,15,9,0.7944,"Lab 1, Lab 2, Lab 3, MP 1, Lab 4, MP 2, Lab 5, Lab 6, MP 3, Class Participation, Lab 7, MP 4, Lab 8, MP 5, Midterm",60,9,0.7787,"Lab 1, Lab 2, Lab 3, MP 1, Lab 4, MP 2, Lab 5, Lab 6, MP 3, Class Participation, Lab 7, MP 4, Lab 8, MP 5, Midterm",0.75
+CS 512,7,60,5,11,0.7604,"Project Proposal, Assignment 1, Project Mid-term Report, Assignment 2, Midterm 1",60,11,1,"Project Proposal, Assignment 1, Project Mid-term Report, Assignment 2, Midterm 1",0.75
+CS 565,4,60,3,8,0.9688,"Participation, Paper Critiques, Research Project",,,0,,0.75
+CS 409,6,70,5,9,0.8317,"MP0: The Basics, MP1: Single Page Website, MP2: Front-end App, Final Project, Midterm",90,10,1,"MP0: The Basics, MP1: Single Page Website, MP2: Front-end App, Final Project, Midterm, MP3: Back-end App",0.75
+CS 225,25,70,18,11,0.7922,"Laboratory Assignment 1, Programming Assignment 1, Laboratory Assignment 2, Laboratory Assignment 3, Programming Assignment 2, Exam 1, Laboratory Assignment 4, Programming Assignment 3, Laboratory Assignment 5, Exam 2, Laboratory Assignment 6, Laboratory Assignment 7, Exam 3, Programming Assignment 4, Laboratory Assignment 8, Laboratory Assignment 9, Exam 6, Programming Assignment 5",70,11,0.8102,"Laboratory Assignment 1, Programming Assignment 1, Laboratory Assignment 2, Laboratory Assignment 3, Programming Assignment 2, Exam 1, Laboratory Assignment 4, Programming Assignment 3, Laboratory Assignment 5, Exam 2, Laboratory Assignment 6, Laboratory Assignment 7, Exam 3, Programming Assignment 4, Laboratory Assignment 8, Laboratory Assignment 9, Exam 6, Programming Assignment 5",0.75
+CS 466,8,80,7,15,0.8032,"Homework 1, Homework 2, Midterm 1, Homework 3, Homework 4, Homework 5, Mini-Project and Report",90,16,1,"Homework 1, Homework 2, Midterm 1, Homework 3, Homework 4, Homework 5, Mini-Project and Report, Final Exam",0.75
+CS 523,6,90,6,16,0.7731,"Project Proposal, Class Participation (Presentation and Discussion), Paper Presentation, Project Checkpoint 1, Project Checkpoint 2, Project Final Report",,,0,,0.75
+CS 307,26,90,24,11,0.7526,"Lab assignment 1, Homework 1, Lab assignment 2, Homework 2, Lab assignment 3, Homework 3, Lab assignment 4, Homework 4, Lab assignment 5, Homework 5, Lab assignment 6, Homework 6, Exam 1, Lab assignment 7, Homework 7, Lab assignment 8, Homework 8, Lab assignment 9, Homework 9, Lab assignment 10, Homework 10, Exam 2, Lab assignment 11, Homework 11",,,0,,0.75
+CS 542,5,90,5,16,0.9099,"Homework 1, Homework 2, Homework 3, Homework 4, Project",90,16,1,"Homework 1, Homework 2, Homework 3, Homework 4, Project",0.75
+CS 426,6,90,6,16,0.8528,"Machine Problem 1, Machine Problem 2, Midterm Quiz, Machine Problem 3, Machine Problem 4, Final Quiz",20,7,1,"Machine Problem 1, Machine Problem 2",0.75
+CS 443,5,90,5,16,0.7965,"Homework 1, Homework 2, Homework 3, Homework 4, Final Exam",70,12,0.8,"Homework 1, Homework 2, Homework 3, Homework 4",0.75
+CS 461,22,100,22,16,0.7569,"Weekly Quiz 1, Weekly Quiz 2, Programming Project 1, Weekly Quiz 3, Weekly Quiz 4, Weekly Quiz 5, Weekly Quiz 6, Programming Project 2, Weekly Quiz 7, Midterm Exam, Weekly Quiz 8, Weekly Quiz 9, Programming Project 3, Weekly Quiz 10, Weekly Quiz 11, Weekly Quiz 12, Weekly Quiz 13, Programming Project 4, Weekly Quiz 14, Weekly Quiz 15, Weekly Quiz 16, Final Exam",100,16,0.84,"Weekly Quiz 1, Weekly Quiz 2, Programming Project 1, Weekly Quiz 3, Weekly Quiz 4, Weekly Quiz 5, Weekly Quiz 6, Programming Project 2, Weekly Quiz 7, Midterm Exam, Weekly Quiz 8, Weekly Quiz 9, Programming Project 3, Weekly Quiz 10, Weekly Quiz 11, Weekly Quiz 12, Weekly Quiz 13, Programming Project 4, Weekly Quiz 14, Weekly Quiz 15, Weekly Quiz 16, Final Exam",0.75
+CS 374,13,100,13,15,0.8954,"Homework 1, Homework 2, Homework 3, Midterm 1, Homework 4, Homework 5, Homework 6, Homework 7, Midterm 2, Homework 8, Homework 9, Homework 10, Final Exam",100,15,0.9886,"Homework 1, Homework 2, Homework 3, Midterm 1, Homework 4, Homework 5, Homework 6, Homework 7, Midterm 2, Homework 8, Homework 9, Homework 10, Final Exam",0.75
+CS 473,14,100,14,16,0.8729,"Homework 0, Homework 1, Homework 2, Homework 3, Homework 4, Homework 5, Homework 6, Homework 7, Homework 8, Homework 9, Midterm 1, Homework 10, Homework 11, Midterm 2",80,11,0.8462,"Homework 0, Homework 1, Homework 2, Homework 3, Homework 4, Homework 5, Homework 6, Homework 7, Homework 8, Homework 9, Midterm 1, Homework 10",0.75
+CS 442,6,,,,0.7434,,60,12,0.75,"Homework 1, Homework 2, Midterm Exam, Homework 3",0.75
+CS 450,30,,,,0.7259,,,,0.6667,,0.75
