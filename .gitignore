@@ -1,6 +1,7 @@
 cs_db.json
-cs_db_origina.json
+cs_db_original.json
 data.json
 eval_results.json
-groud_json
+ground_truth.json
 logs/
+__pycache__/
