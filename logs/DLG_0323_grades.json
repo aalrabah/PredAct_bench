@@ -1,0 +1,196 @@
+{
+  "course_id": "CS 574",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_053329",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 93.88
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 88.11
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 82.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053339",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 93.91
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 98.5
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 87.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053348",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 49.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 43.13
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 53.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053338",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 98.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053333",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 73.36
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 78.54
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 88.3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

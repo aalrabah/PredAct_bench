@@ -1,0 +1,7872 @@
+{
+  "course_id": "CS 446",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_045711",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.3
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045428",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.06
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045791",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.68
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 63.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045599",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 49.5
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045689",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 60.48
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.69
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045877",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 73.95
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045727",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 62.86
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045676",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.82
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.98
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 50.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045580",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.86
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 51.53
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045937",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.08
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045778",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 56.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045305",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.65
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045229",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.69
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.12
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045704",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.62
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.32
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045385",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045544",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.66
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.07
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045942",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 65.72
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 35.97
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045566",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.43
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.14
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045472",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.9
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045766",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 61.18
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 39.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045053",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.99
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 65.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045936",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.29
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.87
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045209",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045840",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.46
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.43
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045120",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.23
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.24
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045958",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.22
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 62.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045547",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.95
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045531",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.13
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045431",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045119",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.07
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.19
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045234",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.51
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.8
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045225",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045504",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.6
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.22
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045977",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 31.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 57.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045572",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.68
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045610",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.5
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045651",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.93
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045213",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.98
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045921",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.43
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 72.89
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045559",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.27
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045756",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.32
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 38.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045670",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.08
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 36.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045657",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.43
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.76
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045728",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.22
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 60.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045197",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.54
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045806",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.06
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.26
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045625",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.63
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.27
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045021",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045341",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045959",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045183",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.91
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.44
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045019",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.19
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045753",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 50.78
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045364",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.1
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045974",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 34.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 43.33
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 56.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045088",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.48
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045167",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045264",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045449",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.82
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.2
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045684",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 46.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045067",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 57.28
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045941",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 48.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 61.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045645",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.3
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.42
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045880",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 63.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.86
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 54.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045100",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.65
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.02
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045367",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.53
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.17
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045107",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.71
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045538",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.63
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045411",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.25
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044992",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045883",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.51
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045219",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.96
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045722",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.27
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.68
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 63.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045608",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 55.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045823",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 71.5
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 63.48
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045105",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.98
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045188",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.65
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045794",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 53.2
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.78
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045835",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 73.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.57
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 70.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045590",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 49.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.35
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 56.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045814",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 70.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 47.37
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045548",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.12
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045987",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.78
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 44.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045919",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 58.63
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 62.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045734",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.34
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 69.68
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 51.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045055",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.57
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045005",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.5
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.69
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045931",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 55.46
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.44
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045578",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.41
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.87
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045163",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 59.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045323",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.44
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.44
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045790",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 58.17
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.46
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045949",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 73.79
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 54.45
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045966",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 54.44
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.92
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045841",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.34
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 70.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045121",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.54
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045440",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.56
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044985",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 40.59
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045221",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 63.05
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045827",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 58.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045904",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.02
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.61
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044983",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.18
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045085",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.27
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045104",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.64
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045064",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045557",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044982",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.99
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045349",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.71
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 74.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045784",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.55
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045629",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.59
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.38
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045258",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.93
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.2
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045847",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 60.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045628",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.58
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 59.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045885",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 75.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 47.38
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045321",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045536",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.49
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045796",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.29
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 53.72
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 50.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045868",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 72.41
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045765",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 15.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.26
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045194",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 69.02
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045568",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.35
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.29
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045434",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.46
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045469",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045173",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045782",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.62
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045334",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.22
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045786",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.86
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.43
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045333",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.91
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045429",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.4
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.29
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045648",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 56.43
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045720",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.15
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045089",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045405",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.43
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.59
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045520",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.41
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 57.32
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045265",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.4
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.62
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 83.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045943",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.42
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.23
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 65.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045099",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045907",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 69.41
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 23.3
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045484",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.55
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.3
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045855",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 32.22
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045505",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.48
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045542",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045356",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.01
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.65
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044969",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045406",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045010",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.58
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045015",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.25
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045787",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 54.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.46
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 45.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045250",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045398",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045274",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044995",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.48
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045212",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.94
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.18
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045562",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045774",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 72.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045231",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.85
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.32
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045360",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.39
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045540",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.93
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045241",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.28
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045892",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 46.13
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 69.69
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 31.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045758",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 72.18
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045253",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.34
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045220",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.69
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.99
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045455",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.63
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.07
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045461",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.11
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.63
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045465",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045445",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.32
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.84
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045679",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 53.49
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.71
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045681",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 56.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045248",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 87.85
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.87
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045146",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.43
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045327",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.05
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.51
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045095",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.53
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.64
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045894",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.94
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 72.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045262",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.66
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045803",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 52.53
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 58.75
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045769",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 30.55
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 50.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045768",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.25
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 76.51
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 80.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045226",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 71.79
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.97
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045330",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 98.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045177",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045788",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045422",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.02
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.07
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045801",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 51.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 88.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045606",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.88
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045874",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 77.75
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 58.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045864",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.64
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 64.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 81.43
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 79.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045560",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 93.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045051",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.95
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.16
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 86.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045481",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045642",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 50.86
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 53.36
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045694",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 94.1
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045470",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.96
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 78.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045854",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 91.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 66.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045007",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 99.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045284",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.38
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 82.51
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 84.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045976",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.17
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 41.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045018",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 85.03
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.91
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 54.28
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 67.48
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045022",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 97.36
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 95.75
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045312",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 89.35
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045643",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 68.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045383",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 92.51
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045075",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 96.68
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_045673",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Assignment 0",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 90.11
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 73.79
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Assignment 2",
+              "type": "hw",
+              "weight": 0.085714286,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

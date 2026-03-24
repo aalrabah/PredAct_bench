@@ -1,0 +1,2448 @@
+{
+  "course_id": "CS 546",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_052405",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 60.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 92.11
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052535",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 57.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 70.55
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052228",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 99.09
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 77.45
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052494",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 48.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 97.73
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 66.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052266",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 86.77
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.17
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052473",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 70.54
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 79.11
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052414",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 99.9
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 80.04
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052219",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 80.76
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 97.01
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052394",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 94.43
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 46.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052256",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 87.04
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052338",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 64.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052507",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 81.68
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 89.42
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052498",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 85.67
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 61.04
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 96.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052481",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 64.39
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 84.08
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 51.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052222",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 46.27
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 67.1
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052509",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 99.9
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052196",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 39.14
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.92
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 17.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052322",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 45.4
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 99.31
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052406",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 60.99
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052373",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 69.36
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 78.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052384",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 68.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.38
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 72.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052490",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 75.75
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 53.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052557",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 59.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 57.14
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 58.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052545",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 87.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052315",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 99.69
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 70.33
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 62.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052205",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 80.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 81.19
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052273",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 92.78
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 68.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052422",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 99.06
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 99.84
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052234",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 87.09
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.77
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 65.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052513",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 62.31
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 75.68
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 70.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052457",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 89.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052533",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 55.49
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 60.3
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052303",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 96.29
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 99.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052462",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 61.06
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052299",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 60.02
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052421",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 70.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 92.94
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 76.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052254",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 77.71
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052526",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 34.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 80.55
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 65.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052248",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 45.81
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 74.18
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052208",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 42.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 83.93
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 56.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052534",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 46.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 81.43
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 83.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052295",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052243",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 70.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 70.12
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 49.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052388",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 76.67
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 92.91
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052204",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 78.38
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.93
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052426",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 98.46
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052235",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 64.65
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 96.75
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052396",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 72.58
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 79.57
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 79.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052442",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 87.44
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 81.33
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052236",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 65.96
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052522",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 48.12
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 51.96
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 67.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052252",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 56.86
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 88.33
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 54.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052193",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 85.97
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 63.22
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052320",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 52.46
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052288",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.06
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 63.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052192",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 93.42
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 98.07
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052433",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 74.52
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 84.78
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 88.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052370",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 81.66
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052467",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 96.81
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 72.4
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 54.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052217",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 86.11
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 57.61
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052525",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 61.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 35.9
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 64.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052352",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 67.95
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 57.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052348",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 85.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 74.97
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 53.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052354",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 77.07
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 62.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052495",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 97.79
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052395",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 70.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 93.19
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052399",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 65.72
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 79.85
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052539",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 84.18
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 67.72
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052190",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.34
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 89.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052483",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 95.38
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 96.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052237",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 79.14
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 88.2
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 47.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052325",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 91.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 92.98
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 36.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052555",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 57.8
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 65.96
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052430",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Project Lightning Talk",
+              "type": "project",
+              "weight": 0.03,
+              "score": 86.76
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 87.03
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

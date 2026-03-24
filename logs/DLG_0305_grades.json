@@ -1,0 +1,396 @@
+{
+  "course_id": "CS 563",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_052771",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.83
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.43
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052757",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 45.66
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.26
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 53.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052774",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.03
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.81
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 57.7
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 51.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052748",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.47
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.55
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052743",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 79.49
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.72
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.52
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052760",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 60.6
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.52
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052773",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 35.36
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.54
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052754",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.88
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.16
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.04
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052781",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.61
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.56
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052776",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.41
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.77
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

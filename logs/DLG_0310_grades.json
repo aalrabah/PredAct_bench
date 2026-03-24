@@ -1,0 +1,2046 @@
+{
+  "course_id": "CS 563",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_052771",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.83
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.43
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.2
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.2
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.63
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.99
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.52
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 69.58
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.08
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.28
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.48
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 58.05
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 54.59
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.34
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.75
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.63
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 65.01
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 2.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052757",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 45.66
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.26
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 53.4
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 42.69
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.89
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 54.72
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 62.72
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.32
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.91
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 37.38
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 53.02
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.72
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 63.77
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 51.35
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 72.06
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.73
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.43
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 48.9
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 26.06
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052774",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.03
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.81
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 57.7
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 51.4
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 45.53
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 72.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 46.15
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 36.12
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 55.48
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 26.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 41.44
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 56.46
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.71
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.68
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 45.55
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 60.32
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.22
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 51.25
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.58
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052748",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.47
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.55
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.37
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.77
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.15
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.45
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 80.15
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.52
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.93
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.36
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.28
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.72
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.29
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.41
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052743",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 79.49
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.72
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.52
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.66
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.75
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.35
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.76
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 90.85
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.53
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.9
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.52
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.84
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.76
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052760",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 60.6
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.52
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.7
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 61.01
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.3
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 43.86
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 43.85
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 63.85
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.23
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.2
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 57.09
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.01
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 53.41
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.79
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.17
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 60.92
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 38.64
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 53.94
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 59.36
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 9.67
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 27.01
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052773",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 35.36
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.54
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.06
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 58.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 25.46
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.58
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 72.52
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.42
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.52
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.13
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.55
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 73.23
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 62.39
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 66.53
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 51.66
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 44.99
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 73.01
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.66
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052754",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.88
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.16
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.04
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.17
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.61
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.86
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 83.58
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.98
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.55
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.26
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.73
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.09
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.57
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052781",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.61
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.56
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.74
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.45
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.87
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 55.44
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 32.47
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.22
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.69
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 40.81
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.48
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 86.43
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 73.92
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.47
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.09
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.4
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 48.11
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.69
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 69.63
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 62.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052776",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Summary 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.41
+            },
+            {
+              "name": "Paper Summary 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.77
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Summary 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Summary 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 73.63
+            },
+            {
+              "name": "Paper Summary 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Summary 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 52.92
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Summary 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.59
+            },
+            {
+              "name": "Paper Summary 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 69.03
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Summary 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.04
+            },
+            {
+              "name": "Paper Summary 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 65.12
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.5
+            },
+            {
+              "name": "Paper Summary 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 71.19
+            },
+            {
+              "name": "Paper Summary 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.22
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.23
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Summary 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Summary 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.23
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Paper Summary 17",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.65
+            },
+            {
+              "name": "Paper Summary 18",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.79
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Paper Summary 19",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.74
+            },
+            {
+              "name": "Paper Summary 20",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 38.95
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Paper Summary 21",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.37
+            },
+            {
+              "name": "Paper Summary 22",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 41.58
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

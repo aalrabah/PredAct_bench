@@ -1,0 +1,8718 @@
+{
+  "course_id": "CS 409",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_023223",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.04
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.4
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 55.09
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.51
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 72.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023146",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 12.89
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.55
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.76
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 90.36
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.2
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022886",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.16
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023110",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 65.45
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.04
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 65.49
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023245",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 83.27
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 33.9
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.85
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 50.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 67.17
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 59.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023044",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 85.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.66
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 94.96
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.26
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023242",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 36.35
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.12
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 56.17
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 35.76
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 35.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022663",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.11
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.47
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.71
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.58
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023120",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.67
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.37
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 65.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.29
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022699",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 90.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.27
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 85.45
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.66
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022629",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.04
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.23
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023148",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 74.08
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.53
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 36.35
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.67
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023182",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.37
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.15
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 86.24
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.9
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 61.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023137",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.88
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.28
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.48
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 51.08
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022931",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.33
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 68.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023214",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.03
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.68
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.9
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 24.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022866",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 98.07
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022741",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.18
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023191",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 70.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.29
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.22
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 80.9
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 66.62
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023190",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.71
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 81.99
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 60.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022828",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 64.2
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.82
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.73
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023207",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 25.33
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.47
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 46.64
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 79.31
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.93
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 62.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022626",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 82.9
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.29
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.72
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022792",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 89.28
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.61
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.59
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 96.27
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022929",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.84
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.66
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 88.29
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022854",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.22
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.3
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.65
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022635",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.95
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 97.32
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022845",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.01
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.94
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 99.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022989",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.3
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.57
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.87
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022661",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.43
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.37
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.04
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 70.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022655",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.44
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 94.05
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022605",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.27
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 85.67
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.09
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022955",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.06
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.69
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 66.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 96.52
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.34
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023079",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 62.19
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.18
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 99.21
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 43.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022667",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.63
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.96
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.36
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.17
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023157",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 29.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.87
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 74.22
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 80.76
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022981",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.47
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.14
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.09
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023144",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 55.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 58.76
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 69.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.52
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022789",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 72.08
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 96.38
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.13
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022624",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.34
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.44
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022766",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.08
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.81
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 90.8
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.65
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023094",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 66.51
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 53.68
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022763",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 83.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.24
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 97.27
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.99
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022893",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 42.06
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.95
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.86
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.92
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022841",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.26
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 65.29
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.48
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022804",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 82.33
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.33
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 85.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023000",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.09
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.15
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.43
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023041",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.15
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.96
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.51
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.14
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023054",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 45.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 85.92
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.57
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022679",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.67
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.93
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 68.75
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023096",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 55.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 68.8
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 83.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023143",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 47.08
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.76
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 49.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023180",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 21.39
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.53
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 77.27
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.74
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023051",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.91
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.05
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.1
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 45.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022750",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.48
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.48
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.85
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.21
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022791",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.9
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.09
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022736",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.94
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.03
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.77
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.25
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022707",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 58.71
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.34
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.16
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022671",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.18
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.17
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.85
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.93
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022794",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.06
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.11
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022742",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 62.71
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.78
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.37
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.44
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022939",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.57
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 84.98
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 87.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023071",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 47.17
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 78.61
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.51
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.74
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 68.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022885",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.35
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.23
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.76
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022969",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.43
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 83.85
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022905",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 21.17
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.92
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 97.66
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 73.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022853",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.34
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.27
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.2
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023032",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.05
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.59
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022625",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 90.01
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.33
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.01
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022641",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.67
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.31
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022867",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.4
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.12
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.74
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022963",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.12
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.32
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022852",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.47
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 67.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022925",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.66
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 80.09
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023108",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 25.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 66.78
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 79.62
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.35
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022831",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 48.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.23
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.31
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.85
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023163",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 40.85
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.18
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 71.62
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 64.82
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022719",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.88
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 85.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023238",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 44.26
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 63.9
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 41.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 73.5
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.35
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022910",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.76
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.69
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 99.96
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.68
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 73.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022772",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 67.57
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.62
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 59.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023119",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 52.76
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.03
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 63.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022864",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 82.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022970",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.13
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.95
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 84.2
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022765",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.18
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.89
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 84.39
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.98
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022951",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.52
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.22
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023160",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 48.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.72
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 96.06
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 46.33
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023065",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 38.86
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 74.39
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 62.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.97
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.65
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022642",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.27
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 55.76
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023138",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.62
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 45.18
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 82.56
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022988",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.3
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.2
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 64.52
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023244",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 28.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.4
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 55.57
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 33.76
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 55.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022947",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.2
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 88.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.64
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023033",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.4
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.7
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 68.15
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.45
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 85.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022826",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.01
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 87.14
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.14
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022943",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 57.48
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.07
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.83
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 72.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023083",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 36.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.02
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.51
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022827",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 63.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.33
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.81
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.51
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022850",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.61
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.9
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.36
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023134",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.99
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.86
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.2
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 61.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022801",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.19
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.83
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 81.06
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 84.41
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.37
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022647",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.08
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.85
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 86.53
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.64
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023224",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 52.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.27
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.38
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 74.69
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 58.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022706",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 89.87
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.32
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.81
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 98.03
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022743",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.78
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.75
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022670",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.9
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 98.16
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.57
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023028",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.89
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 74.57
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022761",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.87
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 58.22
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022862",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 66.49
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.92
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023011",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.45
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.59
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022731",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 57.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.62
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 98.5
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.05
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023049",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 79.4
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 89.66
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 90.01
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.37
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022872",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.75
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.73
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 70.91
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022606",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.22
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 86.64
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 87.73
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023047",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 64.48
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.65
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 74.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.63
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 98.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022959",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.92
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.29
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.3
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 71.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023202",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.93
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 75.88
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 60.73
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 44.01
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023184",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.85
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 67.77
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 64.14
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 76.83
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.07
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022770",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 88.99
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.41
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.49
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.9
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022674",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.95
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 88.74
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022793",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 83.39
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.28
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022723",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.89
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.1
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 86.28
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.92
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023165",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.71
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 63.7
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 82.86
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.74
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.25
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 68.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023099",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 89.15
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.99
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 60.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023085",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 45.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 55.19
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.13
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 73.95
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022998",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.3
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.22
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023121",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 42.85
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 80.46
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 69.18
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.17
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023195",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 71.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 78.51
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 31.64
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023078",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 67.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 68.25
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.15
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 63.79
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022703",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.98
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 94.23
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 63.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022608",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.09
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 99.35
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 92.81
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.05
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023142",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 36.39
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "MP1: Single Page Website",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.78
+            },
+            {
+              "name": "MP2: Front-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.08
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Final Project",
+              "type": "project",
+              "weight": 0.3,
+              "score": 72.73
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.36
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "MP3: Back-end App",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.56
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

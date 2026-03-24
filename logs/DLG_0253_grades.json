@@ -1,0 +1,838 @@
+{
+  "course_id": "CS 527",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_051533",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 85.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051592",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051636",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051644",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051484",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 77.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051487",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 80.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051544",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051558",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051571",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051594",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051546",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051672",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051475",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 79.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051688",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 44.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051550",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051499",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 85.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051532",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051664",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 71.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051471",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 82.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051502",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 68.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051555",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051537",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051482",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051541",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051547",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051509",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051526",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051507",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051690",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051468",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051456",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 68.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051536",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 75.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051467",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 84.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051583",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051489",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051616",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051470",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051597",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051540",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 77.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051518",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051582",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051603",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 92.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051501",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051447",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 87.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051671",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051557",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 66.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051495",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 86.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051651",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051646",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

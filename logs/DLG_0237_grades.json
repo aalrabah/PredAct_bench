@@ -1,0 +1,1602 @@
+{
+  "course_id": "CS 512",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_051210",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 56.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 71.8
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 88.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051092",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 94.95
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051170",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 50.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 82.72
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051068",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 90.32
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 82.21
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051226",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 99.66
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 76.05
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 98.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051150",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051128",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 97.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051131",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 66.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 71.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 88.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051250",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 50.64
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 24.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051232",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 96.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 75.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 53.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051071",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 94.13
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051059",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 82.09
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 89.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051142",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 63.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 90.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051140",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 80.01
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051185",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051241",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 31.38
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 63.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 49.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051248",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 74.41
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 47.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051225",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 76.09
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 58.98
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 66.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051184",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 98.97
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 86.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051202",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 89.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 28.38
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 85.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051063",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 77.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 86.45
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 77.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051162",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.32
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 82.67
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051155",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.48
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 80.1
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051168",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.15
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 99.54
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 95.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051257",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 78.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 77.97
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051242",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 55.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 88.29
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051188",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.29
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 75.9
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051221",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.53
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 52.3
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051205",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 85.19
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051113",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.85
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 96.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051173",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.29
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.29
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 85.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051177",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 77.95
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051207",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 77.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 58.85
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051069",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 62.93
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 75.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051120",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 99.87
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 36.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051165",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 88.02
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 91.32
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051176",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.44
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 97.6
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 77.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051105",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 78.55
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 75.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051178",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.44
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 88.37
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051258",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 55.19
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 88.75
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 83.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051236",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 73.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051256",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 35.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Assignment 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 41.71
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Project Mid-term Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 79.32
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

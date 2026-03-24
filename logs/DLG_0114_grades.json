@@ -1,0 +1,1035 @@
+{
+  "course_id": "CS 426",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_036754",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 88.86
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 94.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036776",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 98.62
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 80.64
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 90.76
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036755",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 82.52
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 99.43
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 92.44
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 57.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036824",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 79.26
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 88.24
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 50.13
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 77.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036817",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 88.51
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 88.26
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 61.1
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 83.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036759",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 59.24
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036772",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 91.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036767",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 93.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 83.39
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036734",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 88.47
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 96.1
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 92.13
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036807",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 98.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 88.87
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 96.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036783",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 64.11
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 98.96
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036833",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 35.22
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 64.33
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 63.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036819",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 97.76
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 84.04
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 65.38
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 76.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036761",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 88.4
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 80.48
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 93.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036771",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 62.28
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 78.07
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036757",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 95.63
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 84.57
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 97.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036811",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 98.47
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 87.72
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 76.69
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 90.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036760",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 94.12
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036805",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 86.94
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 63.9
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 59.12
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 91.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036766",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 78.63
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 89.18
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036835",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.075,
+              "score": 79.27
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Machine Problem 2",
+              "type": "mp",
+              "weight": 0.125,
+              "score": 85.7
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Midterm Quiz",
+              "type": "quiz",
+              "weight": 0.2,
+              "score": 28.12
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Machine Problem 3",
+              "type": "mp",
+              "weight": 0.15,
+              "score": 95.03
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

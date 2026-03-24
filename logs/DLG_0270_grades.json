@@ -1,0 +1,134 @@
+{
+  "course_id": "CS 537",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_051863",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051871",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 32.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051869",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051872",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051887",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 51.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051867",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051897",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051888",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.89
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

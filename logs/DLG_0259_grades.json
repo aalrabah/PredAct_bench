@@ -1,0 +1,573 @@
+{
+  "course_id": "CS 533",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_051798",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 77.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 58.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051758",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 76.08
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051756",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051785",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 94.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051797",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051731",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051744",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 83.07
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051789",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 79.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051702",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 89.4
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 83.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051779",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 66.92
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 59.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051792",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 41.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051735",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051766",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 98.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051754",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 90.78
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051753",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 89.26
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051795",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 60.62
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051722",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 99.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051765",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 72.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051783",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 62.89
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 77.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051746",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 98.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 90.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051764",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 87.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

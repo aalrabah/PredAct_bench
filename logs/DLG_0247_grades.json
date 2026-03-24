@@ -1,0 +1,1056 @@
+{
+  "course_id": "CS 523",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_051315",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 67.08
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.73
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.97
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 98.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051366",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 87.43
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 68.17
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 53.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051301",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.58
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 90.58
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.92
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 76.46
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 50.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051348",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 77.54
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 52.32
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 71.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051351",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 83.62
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.64
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.1
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 96.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051399",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 72.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 93.98
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 79.19
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 29.21
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 38.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051331",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 56.31
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.37
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 42.63
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051374",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 64.96
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 93.2
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 51.24
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 50.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051338",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.66
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 88.71
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.26
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051359",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.68
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 94.02
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.04
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 56.75
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 61.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051307",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 51.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 45.47
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051347",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 71.87
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 76.4
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.91
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051310",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 98.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 99.35
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.38
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 78.26
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051400",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.92
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 71.4
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 96.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 73.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051402",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 82.8
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 61.91
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 30.26
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051314",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 60.29
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 95.45
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.42
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 69.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051336",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 83.76
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 36.09
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051319",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 78.07
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.67
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 64.98
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051302",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.38
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 89.87
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051367",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 64.13
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.29
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051305",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 74.32
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Participation (Presentation and Discussion)",
+              "type": "other",
+              "weight": 0.25,
+              "score": 90.33
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 94.47
+            },
+            {
+              "name": "Project Checkpoint 1",
+              "type": "project",
+              "weight": 0.05,
+              "score": 76.35
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Project Checkpoint 2",
+              "type": "project",
+              "weight": 0.05,
+              "score": 68.11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

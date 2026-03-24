@@ -1,0 +1,246 @@
+{
+  "course_id": "CS 442",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_042463",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 59.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042446",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042458",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 44.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042472",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 93.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042435",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042415",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042471",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 91.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042478",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 76.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042466",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 25.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042477",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 82.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042445",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 73.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042440",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 98.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042427",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 61.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042452",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 67.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042480",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 51.9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "course_id": "CS 580",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_053398",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 41.06
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 40.95
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 91.13
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 59.86
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 84.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053386",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 45.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 74.68
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 88.77
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 96.96
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 84.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053368",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 82.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 69.27
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 97.55
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 58.33
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053362",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.18
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 94.72
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 91.87
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 79.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053361",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 84.48
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 89.1
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 95.59
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053353",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 63.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 57.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 93.05
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053382",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 96.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 99.18
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 93.91
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 98.92
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 92.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053350",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 52.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 95.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053351",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 58.69
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 71.7
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 87.67
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 83.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053391",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 70.29
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 95.1
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 46.91
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 64.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053379",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 93.91
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project",
+              "type": "project",
+              "weight": 0.5,
+              "score": 81.59
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 89.64
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.1,
+              "score": 86.14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

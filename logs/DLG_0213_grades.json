@@ -1,0 +1,196 @@
+{
+  "course_id": "CS 475",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_050533",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 57.18
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 50.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 86.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050537",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 84.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050531",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 84.74
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 95.74
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 91.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050541",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 59.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 52.17
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050530",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 79.51
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

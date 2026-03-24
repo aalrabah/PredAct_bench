@@ -1,0 +1,502 @@
+{
+  "course_id": "CS 565",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_052932",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052898",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052803",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052860",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052854",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052889",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052810",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 70.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052892",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 77.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052793",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052840",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052923",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052841",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 91.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052788",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 99.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052905",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052805",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052912",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052910",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 91.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052844",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052800",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052851",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 86.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052834",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 81.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052815",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052838",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052911",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052848",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052792",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 91.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052842",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052872",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052871",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052812",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052809",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

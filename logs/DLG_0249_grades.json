@@ -1,0 +1,134 @@
+{
+  "course_id": "CS 525",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_051413",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 70.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051406",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051418",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 54.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051427",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051421",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 47.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051441",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051442",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051407",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

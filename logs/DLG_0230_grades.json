@@ -1,0 +1,966 @@
+{
+  "course_id": "CS 511",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_051028",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 62.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050909",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050881",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050864",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051041",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 58.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050931",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050984",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050899",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051033",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 68.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050988",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050900",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050757",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050784",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 91.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050759",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050892",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050920",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050763",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050813",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050930",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 65.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050770",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 95.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051046",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051039",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 17.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050963",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050918",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051002",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051029",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 38.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050782",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050937",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050819",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 71.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050762",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050809",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 98.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050882",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 94.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051023",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050834",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050989",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050774",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050921",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050941",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 96.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050898",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050968",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050893",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051012",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 83.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050915",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051051",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 82.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050967",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050837",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 79.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051005",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050910",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050966",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050936",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050856",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050948",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050810",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051011",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051026",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 50.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050981",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051035",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 69.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050830",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050939",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050877",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 93.64
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

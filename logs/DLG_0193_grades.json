@@ -1,0 +1,6166 @@
+{
+  "course_id": "CS 465",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_049083",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.18
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.86
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.62
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049488",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 81.26
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.97
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.16
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049236",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.18
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 75.29
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.19
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049336",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.33
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 77.87
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.57
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 76.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049574",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.81
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 66.6
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 52.57
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 84.49
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 32.95
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049405",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.43
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.94
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.59
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.91
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049584",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 64.93
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 66.91
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.34
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 65.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.73
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 54.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049138",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.78
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.2
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.12
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049497",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 20.87
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 50.23
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 69.7
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 66.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 57.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049198",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.57
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.87
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049611",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.33
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.2
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 68.78
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 57.77
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 21.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049527",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 39.96
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.13
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 32.43
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.76
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 36.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049357",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.61
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.43
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.65
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.56
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049220",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.32
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.1
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049122",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.28
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.54
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049493",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.98
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.54
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049203",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 76.91
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.07
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 69.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049400",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 79.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.05
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.57
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 78.95
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049283",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.89
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.31
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.34
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049340",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.42
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.6
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049086",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 50.88
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.64
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.76
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 27.67
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 46.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049188",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.1
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.51
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.4
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.44
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 76.38
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049170",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 70.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.76
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.26
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049082",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.65
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 77.71
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 76.46
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049341",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.98
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.66
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 83.04
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049450",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.75
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 78.99
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.76
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 83.93
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.04
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049615",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.97
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 33.14
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.72
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 69.15
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 72.96
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 39.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049460",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.79
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.48
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.1
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049562",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.14
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 72.62
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 75.98
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 76.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 65.28
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049447",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.7
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.87
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049504",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.79
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 81.64
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 73.51
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 70.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049152",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 64.54
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 76.71
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 63.37
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 63.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049209",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.61
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.14
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 69.67
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.34
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.72
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 86.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049376",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.08
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.85
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 76.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049616",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 35.59
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 30.06
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 44.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 86.85
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.55
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 71.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049378",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 79.58
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049180",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.12
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.56
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049204",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 80.45
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.41
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 81.54
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049254",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.07
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.08
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.7
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.27
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049274",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.39
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.94
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049401",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.28
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 80.25
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.45
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 81.46
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049319",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 83.94
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049191",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.95
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.85
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049502",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 75.88
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 82.67
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 17.97
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.33
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.09
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 58.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049420",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.56
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.45
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.51
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049549",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 77.69
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.76
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.48
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 59.04
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 50.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049540",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 67.8
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 80.95
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.1
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.56
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 72.78
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 55.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049461",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.53
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 81.79
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.41
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049097",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.79
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.62
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.4
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049224",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.35
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.19
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049217",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.57
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 80.58
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.65
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049331",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.09
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 84.48
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.08
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.8
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049190",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.11
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 86.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049360",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.71
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.31
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.04
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049583",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 37.29
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 68.11
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 48.81
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.24
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049476",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049150",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.35
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.78
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.29
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.8
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049489",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.35
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 81.83
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049276",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.33
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.74
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049380",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.53
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 77.48
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049201",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 33.74
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.2
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 45.37
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 30.54
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 65.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049322",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 82.57
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.08
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 84.1
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.14
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049576",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 55.16
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 47.93
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.7
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 48.24
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.71
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 29.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049459",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.31
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 80.37
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.83
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.27
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049452",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.94
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.94
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.66
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049096",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.4
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.6
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.72
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.89
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049260",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.89
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.27
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.66
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049159",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.87
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.92
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.65
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049457",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 57.37
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.06
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 39.2
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 53.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049425",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.14
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049566",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 21.89
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 69.51
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 52.31
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 29.36
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.78
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 81.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049491",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.66
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 83.15
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049199",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.65
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.7
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.97
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.82
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049100",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 95.64
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.08
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049195",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.93
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.15
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.52
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049375",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.09
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.02
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.65
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.83
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049310",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.14
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.12
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.23
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.85
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049137",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.25
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.6
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.78
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.45
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 86.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049358",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.91
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.56
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 82.9
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 81.19
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049212",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.95
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.77
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 98.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049306",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.88
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.71
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.15
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049561",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 74.72
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 54.21
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 72.59
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.1
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.83
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 84.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049131",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.67
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.81
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.65
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.37
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049408",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 89.88
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.32
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 84.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.37
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049119",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.31
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 80.73
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.15
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.64
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.29
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049415",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.99
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.56
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.79
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049243",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.93
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.65
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.04
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.41
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.55
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 83.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049513",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 68.97
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.52
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 57.29
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 53.96
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 66.27
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049500",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 77.35
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 99.96
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 51.49
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 61.89
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.29
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049234",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 73.57
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.31
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.9
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049196",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.82
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.72
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.03
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.4
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 85.26
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049076",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.71
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.74
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.33
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 98.07
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049474",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.94
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.98
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.32
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 82.42
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 82.11
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049524",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 62.95
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 96.43
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 68.87
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 58.48
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 90.95
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 49.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049186",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.56
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 97.41
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 87.3
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.48
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049215",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.03
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 89.23
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049435",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 55.26
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 38.53
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 78.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 42.45
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 60.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049594",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 84.3
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 71.29
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 58.64
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.7
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 88.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049121",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.11
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049258",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.66
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.41
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 97.13
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 88.85
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049438",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.12
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.98
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.07
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 81.33
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049146",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 87.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 90.93
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.28
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 93.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049592",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 60.03
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 51.2
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 63.24
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.07
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 51.59
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049257",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 92.34
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 94.72
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 80.55
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 96.8
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 65.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049078",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 77.31
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 73.19
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 95.48
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.97
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 99.4
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049233",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 83.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.42
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.61
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.63
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 91.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049255",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 93.6
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.47
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.31
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049372",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 78.59
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 67.33
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 67.22
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 76.27
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 86.04
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 40.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049242",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 91.61
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 94.01
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 92.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049247",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 49.88
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 85.55
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 56.62
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 54.49
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Studio",
+              "type": "Studio",
+              "weight": 0.01,
+              "score": 49.04
+            },
+            {
+              "name": "Workbooks",
+              "type": "Workbooks",
+              "weight": 0.01,
+              "score": 57.93
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

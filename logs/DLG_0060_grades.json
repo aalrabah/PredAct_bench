@@ -1,0 +1,2118 @@
+{
+  "course_id": "CS 409",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_023223",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023146",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 12.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022886",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023110",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023245",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 83.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023044",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 85.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023242",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022663",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023120",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022699",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 90.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022629",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023148",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 74.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023182",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023137",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022931",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023214",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022866",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022741",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023191",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 70.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023190",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022828",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 64.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023207",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 25.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022626",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 82.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022792",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 89.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022929",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022854",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022635",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022845",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022989",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022661",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022655",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022605",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022955",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023079",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022667",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023157",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 29.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022981",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023144",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 55.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022789",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022624",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022766",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023094",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022763",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 83.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022893",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 42.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022841",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022804",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023000",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023041",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023054",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 45.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022679",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023096",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 55.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023143",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023180",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 21.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023051",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022750",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022791",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022736",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022707",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 58.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022671",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022794",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022742",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 62.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022939",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023071",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 47.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022885",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022969",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022905",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 21.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022853",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023032",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022625",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 90.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022641",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022867",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022963",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022852",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022925",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023108",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 25.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022831",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 48.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023163",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 40.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022719",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023238",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 44.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022910",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022772",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 67.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023119",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 52.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022864",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022970",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022765",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022951",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023160",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 48.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023065",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 38.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022642",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023138",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022988",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023244",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 28.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022947",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023033",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022826",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022943",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 57.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023083",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 36.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022827",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 63.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022850",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023134",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022801",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022647",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023224",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 52.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022706",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 89.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022743",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022670",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023028",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022761",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022862",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023011",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022731",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 57.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023049",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022872",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022606",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023047",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 64.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022959",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023202",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023184",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022770",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022674",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022793",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022723",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023165",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023099",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023085",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 45.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022998",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023121",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 42.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023195",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 71.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023078",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 67.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022703",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_022608",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_023142",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "MP0: The Basics",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 36.39
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "course_id": "CS 470",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_049944",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 99.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049964",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049941",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 96.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049936",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 91.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049935",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049924",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049940",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 97.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049930",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049957",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Unspecified Graded Component 1",
+              "type": "other",
+              "weight": 1.0,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

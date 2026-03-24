@@ -1,0 +1,270 @@
+{
+  "course_id": "CS 525",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_051413",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 70.5
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 88.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051406",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 83.55
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 98.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051418",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 54.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 99.97
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 83.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051427",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 97.44
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 91.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051421",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 47.43
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 98.98
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 93.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051441",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.38
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 95.97
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 47.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051442",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 56.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051407",
+      "weeks": [
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Survey Report",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.25,
+              "score": 98.9
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 87.17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

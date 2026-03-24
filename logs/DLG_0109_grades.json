@@ -1,0 +1,3406 @@
+{
+  "course_id": "CS 424",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_036620",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 93.32
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 79.44
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 98.58
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.11
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 99.2
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 87.27
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.9
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036685",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.02
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.44
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 94.28
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 92.68
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 84.41
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036652",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.35
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 90.04
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.75
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.38
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 88.47
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.2
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 88.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 84.26
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 96.3
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 73.31
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 97.71
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 78.71
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036578",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.67
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 99.52
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 98.34
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 99.04
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.79
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036564",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 98.05
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 98.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 76.56
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.35
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 82.36
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036635",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.37
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 72.91
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.61
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 79.12
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 87.36
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036707",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.85
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 36.34
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 68.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 72.07
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.84
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 90.17
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 98.81
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 99.89
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036569",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 73.54
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 83.59
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 85.7
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 86.58
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036717",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.51
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.57
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 97.84
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 48.49
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.99
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 76.48
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 76.15
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.69
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036669",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.65
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.72
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 94.36
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.58
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 99.94
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 99.65
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036682",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 94.23
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 84.99
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.8
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 88.72
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 99.47
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 67.88
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036712",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 63.4
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 44.95
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 73.59
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.05
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 88.76
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 60.16
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036594",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 93.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 92.45
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 79.11
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.06
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036637",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.04
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.68
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.17
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 80.55
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036566",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 87.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 88.38
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 65.81
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.29
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.81
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 90.43
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 96.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.1
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036698",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 99.94
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.02
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 72.49
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 47.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 69.53
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 97.64
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 74.78
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 77.45
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036631",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 93.28
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 98.4
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.69
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 80.55
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 93.54
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036722",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 88.72
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 76.62
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 76.92
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 45.97
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 82.17
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 84.49
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036574",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 93.13
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.09
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 83.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 97.79
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.43
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 87.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 84.35
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036708",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 48.71
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 75.93
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 69.1
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.61
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 92.69
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 13.26
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036602",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 83.66
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.02
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 96.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.28
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.27
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 83.13
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 78.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 97.51
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036573",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 75.13
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.91
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 89.47
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 96.12
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 84.29
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.06
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 88.38
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 87.82
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.12
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036694",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.32
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 77.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.94
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 84.37
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 59.86
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 75.97
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036619",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 88.85
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.98
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.25
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 95.5
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 84.33
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 82.97
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 98.98
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.13
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 92.7
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036665",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 87.85
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.12
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 81.75
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 94.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 70.51
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036648",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 87.69
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.86
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 82.73
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 74.23
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.33
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 89.62
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.54
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036590",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.02
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 90.15
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.89
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 89.65
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 82.83
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036683",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 87.01
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 95.58
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 99.24
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036654",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 95.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 98.08
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 94.29
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 98.1
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 83.03
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036658",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 99.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 97.34
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 79.8
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 82.18
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.39
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 97.55
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 94.7
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 80.66
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036716",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 88.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.05
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 96.82
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 69.07
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 100.0
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.31
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 57.04
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 86.45
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036604",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 89.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.05
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 91.89
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 89.7
+            },
+            {
+              "name": "Programming Assignment 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Class Participation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 95.69
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.05,
+              "score": 88.61
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Programming Assignment 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.96
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

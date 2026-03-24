@@ -1,0 +1,1507 @@
+{
+  "course_id": "CS 562",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_052665",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.21
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.69
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.72
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.99
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.31
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052671",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.23
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.73
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 84.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.37
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.49
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.67
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.29
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 86.28
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.9
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052702",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.73
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.81
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.05
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.99
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.01
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.19
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.93
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.13
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 90.95
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.56
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052676",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.65
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.25
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.76
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.77
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.47
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.81
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 77.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.19
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052669",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.04
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.6
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.66
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.37
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.11
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.96
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.18
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052727",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.29
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.63
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.89
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.52
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052738",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 33.44
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.51
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.33
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 66.6
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.16
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.43
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 45.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.42
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.2
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.08
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.59
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 79.35
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.82
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052714",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.83
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.15
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.55
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.04
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.27
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052704",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.95
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.28
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.38
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.5
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.41
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.12
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052719",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.42
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.71
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.73
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.35
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.81
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 91.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052693",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.15
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.41
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.97
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 99.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.1
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 47.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052715",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.83
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.8
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.66
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.71
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.72
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.47
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.94
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.91
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.49
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.99
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.45
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.64
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.84
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.13
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.54
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.51
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052679",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.4
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.99
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.26
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.49
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

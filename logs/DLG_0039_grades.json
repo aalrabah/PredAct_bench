@@ -1,0 +1,3186 @@
+{
+  "course_id": "CS 240",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_015886",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 90.95
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.89
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.71
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.86
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.86
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.19
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 85.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.24
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.26
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 97.5
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.35
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.77
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015863",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.4
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.71
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.22
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.92
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.13
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 83.09
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.84
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.43
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 89.38
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.87
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 83.19
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015901",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.12
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.95
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.09
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.98
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.92
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.81
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 96.78
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.25
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.09
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 99.4
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 96.11
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015932",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.78
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 69.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.15
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.58
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 65.73
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 70.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 76.89
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 77.09
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 64.02
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 77.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.74
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.61
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 69.68
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.74
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 66.49
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.83
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 65.15
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 70.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015879",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.25
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.21
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.29
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 85.79
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 79.34
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.97
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.64
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.12
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.88
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.16
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.72
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.95
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.83
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015899",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.61
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.61
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.57
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.61
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.68
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.04
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.86
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.59
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015853",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.29
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.08
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 96.83
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.35
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.17
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 78.55
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 84.14
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.45
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.08
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 93.81
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015868",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.64
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.95
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.3
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.34
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.8
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.59
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.27
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 89.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015927",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.2
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 71.7
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.24
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.87
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.03
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.6
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 77.47
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.83
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.18
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 84.73
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.69
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.98
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 77.57
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 61.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 84.27
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.62
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 71.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015922",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.91
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.71
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.05
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.28
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 84.09
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.77
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 65.8
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 95.93
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 68.99
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 78.76
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 72.61
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 91.74
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.18
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 84.38
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.47
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 76.44
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 70.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015903",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.57
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.48
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.69
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 70.25
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.02
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.08
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.82
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 82.29
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.29
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.4
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.46
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.88
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 83.63
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.62
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 74.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 78.88
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.25
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 82.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015917",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.37
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.94
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.59
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 90.49
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 67.39
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.18
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.02
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 65.64
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 78.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 78.1
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 88.33
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.42
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 81.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 67.73
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 95.65
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 77.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015940",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 63.46
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 68.24
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 67.42
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 72.41
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 50.25
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 57.04
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 60.65
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.43
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 49.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.84
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 62.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 78.75
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 64.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 67.23
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 74.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 69.39
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 70.4
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 44.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015909",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 88.76
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.03
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.89
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 76.25
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 87.67
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.35
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 88.22
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 72.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.16
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 72.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.48
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 71.9
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.83
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.87
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 83.88
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 72.5
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.89
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015864",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.93
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.85
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 84.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.51
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.86
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 90.85
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.93
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.58
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 99.14
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 92.64
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.35
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015912",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.13
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 63.9
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 72.45
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.22
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.8
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.13
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 72.33
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 75.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 99.62
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 67.34
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.06
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 80.84
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 65.51
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 76.03
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 80.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 94.9
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 98.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015858",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.32
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 76.98
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.54
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 98.65
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 95.79
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 83.35
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.22
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 82.89
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.21
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 97.63
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.62
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 96.08
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 87.97
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015915",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.68
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 73.85
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 82.42
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 77.11
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 88.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.04
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 96.42
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 60.34
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 67.2
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 75.63
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.51
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 86.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.92
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.23
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 82.28
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 95.41
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 96.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015855",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 95.74
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.88
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 89.46
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 97.18
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 99.25
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 85.4
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.3
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 96.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 84.47
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 93.39
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 99.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 79.33
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 100.0
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_015916",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.01
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 92.5
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 95.12
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 69.48
+            },
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 86.14
+            },
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 85.18
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 81.77
+            },
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 76.07
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 94.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 84.86
+            },
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 70.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 9",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 82.12
+            },
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 73.66
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 10",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 91.05
+            },
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.1,
+              "score": 70.63
+            },
+            {
+              "name": "MP 6",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 92.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 11",
+              "type": "hw",
+              "weight": 0.01,
+              "score": 93.46
+            },
+            {
+              "name": "MP 7",
+              "type": "mp",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

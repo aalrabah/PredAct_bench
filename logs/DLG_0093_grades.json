@@ -1,0 +1,9430 @@
+{
+  "course_id": "CS 421",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_034252",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035016",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034691",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036143",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 39.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036104",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 43.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034655",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035405",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 70.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034813",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034503",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034755",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033961",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035242",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034285",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033522",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035996",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033477",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033442",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035661",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034388",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034641",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035450",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035217",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035682",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034283",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033785",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035830",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 30.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034088",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034200",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034885",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035904",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033995",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034064",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036025",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 76.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035314",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035036",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035980",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035338",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033345",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 80.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035829",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036084",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 28.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036036",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033974",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035464",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 51.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034897",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036105",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 54.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036136",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 57.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035670",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035444",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 61.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035817",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 69.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035642",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 64.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033655",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033582",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035369",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035936",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 61.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035290",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036089",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 46.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034973",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034541",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035006",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033715",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034989",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034021",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035129",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034735",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034793",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035180",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033980",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035932",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 65.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034111",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034962",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033679",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034288",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034956",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034575",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034157",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035309",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033607",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035064",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033330",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035481",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 64.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036178",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 25.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033680",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 75.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035408",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034749",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035002",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034667",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034968",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035529",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034435",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035847",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 65.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035766",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035300",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035884",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033844",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033952",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034585",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033524",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035130",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034458",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035246",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035796",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034324",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036055",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 42.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035445",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035127",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035259",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033510",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034932",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035681",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036009",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035940",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 28.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036021",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033650",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033375",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034080",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035416",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 56.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033800",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035257",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036001",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 25.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036138",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 57.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035395",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033817",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033989",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035142",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035517",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 73.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033627",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033677",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036188",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 42.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035821",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033496",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034374",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033470",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036116",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034439",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034205",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035742",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034642",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034862",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033528",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035268",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033978",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033757",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035724",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033885",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034033",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035653",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034703",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033614",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034221",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034936",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034225",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036234",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035284",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034192",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035509",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 63.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034431",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033407",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033304",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034239",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035580",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 63.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035549",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036056",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 50.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034178",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033381",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035270",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035383",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035721",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 66.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034879",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035969",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 67.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035498",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 38.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034836",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034574",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034882",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034317",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033403",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035254",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034364",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034994",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034140",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035018",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035470",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034917",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035753",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 51.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033753",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034220",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035386",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 66.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034502",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034052",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034826",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033710",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034005",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034513",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033688",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034996",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035164",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036007",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 62.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033744",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034507",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033295",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034186",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034130",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035029",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036052",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 64.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034012",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034853",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034893",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034509",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034528",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036022",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 62.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034851",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034474",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034182",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033864",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033971",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033482",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034465",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035249",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035441",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035522",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034093",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035992",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 44.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036088",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034141",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 67.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035317",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 73.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035914",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034816",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033395",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034188",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035519",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 44.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035096",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034855",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034937",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033842",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 80.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033728",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036184",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 36.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034743",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036124",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 33.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036232",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 45.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035035",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033871",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034992",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035341",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 56.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035344",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 62.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033768",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035119",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035090",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034259",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033612",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035333",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035044",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 80.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035149",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034054",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035749",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033762",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034887",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034678",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036195",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034911",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035818",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 58.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033872",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035227",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035772",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 74.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035013",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034780",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034355",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035986",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034536",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034376",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035840",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 49.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033621",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035684",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036161",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036132",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034812",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035459",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033318",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035171",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034179",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034030",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036129",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 60.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035776",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 62.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035475",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033404",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034787",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035588",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 74.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034393",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034280",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035068",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033759",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035162",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033328",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035233",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033498",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033700",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034344",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033622",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033822",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034740",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033386",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033467",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036181",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 53.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034046",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035266",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035046",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035283",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 75.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035946",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034546",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 35.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035382",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035200",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033343",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 76.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035750",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 56.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034850",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034297",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035253",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036034",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033644",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035607",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035493",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036035",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 61.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033329",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034993",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034202",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 73.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034975",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035901",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033789",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035434",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034876",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033606",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034098",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035545",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 67.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033421",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034003",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034258",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036170",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 40.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033984",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035532",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 75.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036193",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035485",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 63.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036230",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033695",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033303",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033901",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 74.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033946",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034563",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 67.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035526",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 48.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033703",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033538",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034829",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034442",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034293",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034290",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033702",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034576",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033490",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033585",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033998",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035120",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 80.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033833",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 76.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035542",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 65.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034289",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036092",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 45.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033474",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033686",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035360",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 81.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035510",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035028",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034275",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033890",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035489",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033573",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035853",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 50.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034510",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 72.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034717",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035173",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036127",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034410",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034134",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035768",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033326",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034406",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033486",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035948",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034265",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033485",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034916",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035145",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034929",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035352",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034587",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035726",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 26.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033988",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033518",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036072",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 40.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035905",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 54.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034560",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034164",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033432",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035802",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035565",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 33.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035316",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035587",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 69.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034291",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035424",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034837",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035938",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 45.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033828",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033316",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034019",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033334",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033501",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034593",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034414",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034333",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033523",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034096",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034820",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033623",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035826",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035728",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 50.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034710",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 75.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034488",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035927",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 60.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035102",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033296",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035288",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035140",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035396",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035605",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033852",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034762",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033402",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033758",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035274",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035074",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 71.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035178",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036074",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034184",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035105",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034611",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033601",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035615",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034918",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036174",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035544",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035723",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033693",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033933",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033929",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036229",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 42.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034228",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035295",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035354",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 70.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033511",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 69.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033633",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035808",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036099",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 53.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033870",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035042",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033748",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035377",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 46.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033954",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034167",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035143",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033555",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034683",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034888",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033810",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035769",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 66.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035207",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036049",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033761",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035686",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036090",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 32.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033894",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034963",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033356",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034605",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033731",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035923",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 66.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036069",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 83.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033778",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036135",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 17.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035273",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 69.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035689",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036013",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 55.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033934",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035967",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036100",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033448",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033638",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034213",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034817",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035811",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 54.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036225",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034310",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034517",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035941",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034123",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035427",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 68.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034086",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034351",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 79.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035867",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034460",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033391",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 95.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035710",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 49.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034491",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 82.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034648",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033743",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033553",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035789",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 61.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035775",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 51.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034048",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035203",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034842",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035100",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034811",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034773",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035222",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033834",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034337",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034300",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033730",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034264",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 74.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034011",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035556",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033884",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036075",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 41.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033481",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 78.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034792",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034511",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034933",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034284",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035781",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034804",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033886",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033526",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033915",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035955",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034487",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035985",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 73.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 90.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034701",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035348",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034555",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033449",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035465",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 53.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035569",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035467",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034230",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 88.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034440",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034173",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 92.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034001",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033701",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036063",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 42.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034224",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035097",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 77.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035007",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 93.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036175",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036065",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033804",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 98.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033877",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 87.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035503",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 49.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 65.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035813",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 70.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034643",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_036209",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 65.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033425",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 85.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034666",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034564",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 84.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033534",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035315",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 97.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035077",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033594",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034668",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 86.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035740",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035825",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 73.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034254",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 96.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033374",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 94.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_034277",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 99.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035059",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 91.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_035763",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_033635",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Machine Problem 1",
+              "type": "mp",
+              "weight": 0.07,
+              "score": 89.84
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

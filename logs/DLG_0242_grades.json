@@ -1,0 +1,349 @@
+{
+  "course_id": "CS 521",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_051274",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 86.44
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051265",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 65.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.72
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 98.93
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 94.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051276",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 76.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 90.38
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051273",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 94.92
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 80.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051295",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 90.71
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 94.11
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051293",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 82.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 82.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051285",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 76.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Project 4",
+              "type": "project",
+              "weight": 0.4,
+              "score": 96.25
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

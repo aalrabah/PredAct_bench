@@ -1,0 +1,141 @@
+{
+  "course_id": "CS 476",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_050565",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 46.44
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 28.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050560",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 80.79
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 92.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050554",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 97.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050548",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 96.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050553",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 86.24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

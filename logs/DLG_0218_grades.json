@@ -1,0 +1,866 @@
+{
+  "course_id": "CS 475",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_050533",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 57.18
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 50.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 86.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Warmup 4",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 64.98
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Warmup 5",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Warmup 6",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 85.63
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Warmup 7",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 73.13
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 57.26
+            },
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 79.36
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Warmup 8",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Warmup 9",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 74.33
+            },
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 69.09
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Warmup 10",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 70.8
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 54.3
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 83.42
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 80.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050537",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 84.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Warmup 4",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 80.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Warmup 5",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 58.91
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Warmup 6",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 54.08
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Warmup 7",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 90.6
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 67.83
+            },
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 56.84
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Warmup 8",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 85.8
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Warmup 9",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 52.79
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Warmup 10",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 59.14
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 79.18
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 32.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050531",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 84.74
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 95.74
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 91.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Warmup 4",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 90.5
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Warmup 5",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 90.55
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Warmup 6",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 96.91
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Warmup 7",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 92.17
+            },
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 80.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Warmup 8",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 99.49
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Warmup 9",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 83.13
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Warmup 10",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 98.64
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 91.35
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050541",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 59.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 52.17
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Warmup 4",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 91.14
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 61.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Warmup 5",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 80.52
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Warmup 6",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 8.79
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Warmup 7",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 86.44
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 22.63
+            },
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 42.83
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Warmup 8",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 43.92
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Warmup 9",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 27.52
+            },
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 53.46
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Warmup 10",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 40.09
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 87.18
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 59.23
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 79.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050530",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "Warmup 1",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Warmup 2",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 79.51
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Warmup 3",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Warmup 4",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 93.39
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 97.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Warmup 5",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 98.03
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Warmup 6",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 99.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Warmup 7",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 88.07
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 80.54
+            },
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 80.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Warmup 8",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 83.59
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Warmup 9",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 97.02
+            },
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Warmup 10",
+              "type": "exercise",
+              "weight": 0.02,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "Midterm 2",
+              "type": "midterm",
+              "weight": 0.15,
+              "score": 98.91
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.0333,
+              "score": 96.49
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

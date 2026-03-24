@@ -1,0 +1,446 @@
+{
+  "course_id": "CS 537",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_051863",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.64
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 94.43
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 98.95
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 97.14
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051871",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 32.29
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 83.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051869",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 83.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051872",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 96.37
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 82.54
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 95.67
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051887",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 51.33
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051867",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.39
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 63.29
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 96.51
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051897",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.76
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 84.68
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 54.2
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 92.87
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 68.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051888",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Final Project Proposal",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.89
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Take-Home Midterm Exam",
+              "type": "midterm",
+              "weight": 0.35,
+              "score": 75.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 81.71
+            },
+            {
+              "name": "Final Project Presentation",
+              "type": "project",
+              "weight": 0.15,
+              "score": 57.3
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Final Project Paper",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

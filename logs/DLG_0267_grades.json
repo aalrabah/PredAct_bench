@@ -1,0 +1,2130 @@
+{
+  "course_id": "CS 534",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_051844",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 85.03
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 93.53
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.79
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 98.83
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 90.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 98.3
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.36
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 91.85
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 92.02
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 90.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 93.66
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 70.64
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.97
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.49
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 80.11
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 84.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051839",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 98.77
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.52
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 72.65
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 99.82
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.27
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 96.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 82.52
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 88.16
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 85.12
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.23
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.8
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 86.64
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.13
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 90.18
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 94.79
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 76.62
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051835",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.18
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 82.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.84
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.88
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.98
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.42
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.64
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 68.34
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 74.06
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.35
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 82.65
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 91.22
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.22
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 91.16
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 88.13
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.58
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 99.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051823",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.0
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 90.44
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 77.71
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.6
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.63
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 93.15
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.28
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 88.68
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.29
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 89.3
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 81.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 98.39
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 99.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 93.4
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 84.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051859",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 49.92
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 64.51
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 68.59
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 46.57
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 37.51
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 63.38
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 47.37
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 58.94
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 78.43
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 73.09
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 90.46
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 41.3
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 24.39
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 66.9
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 48.95
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 69.0
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 40.76
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 68.73
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 52.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051855",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 69.52
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.8
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 96.48
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 47.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 40.84
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.23
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 82.43
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 83.11
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 54.81
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 16.18
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 31.21
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.67
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 44.68
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 69.02
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 88.82
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 47.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051815",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.85
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 81.35
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.76
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 82.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.56
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 76.12
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 87.38
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 96.79
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 98.38
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.47
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.1
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 90.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051845",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.16
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 65.89
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 79.46
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 48.43
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 88.99
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 74.99
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.33
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 84.62
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 25.26
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 25.78
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 27.14
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.3
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 75.51
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 59.55
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.39
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 64.31
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 74.28
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 60.44
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 69.47
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 58.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051830",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.64
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.38
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 99.82
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.08
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.74
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 86.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 92.25
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 90.95
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 97.44
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 82.51
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 76.14
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 94.23
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 96.91
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.62
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 75.46
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 85.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051813",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 98.99
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 85.92
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 75.09
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 88.55
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 92.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 99.41
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 92.95
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 83.36
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 89.59
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.36
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 90.77
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 83.49
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 84.85
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 84.24
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051806",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 70.81
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 85.11
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.41
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 99.92
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 96.55
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 94.72
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 98.97
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 91.82
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 85.38
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 91.99
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 93.39
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051829",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 55.52
+            },
+            {
+              "name": "Quiz 2",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 85.88
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Quiz 3",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 33.05
+            },
+            {
+              "name": "Quiz 4",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 65.9
+            },
+            {
+              "name": "Paper Review 1",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Quiz 5",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 80.23
+            },
+            {
+              "name": "Quiz 6",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 42.84
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Quiz 7",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 59.6
+            },
+            {
+              "name": "Quiz 8",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 80.12
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 86.18
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Quiz 9",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 61.09
+            },
+            {
+              "name": "Quiz 10",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 69.08
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 11",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 46.26
+            },
+            {
+              "name": "Quiz 12",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 95.71
+            },
+            {
+              "name": "Paper Review 3",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 52.36
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Quiz 13",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 75.24
+            },
+            {
+              "name": "Quiz 14",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 71.4
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.1,
+              "score": 95.46
+            },
+            {
+              "name": "Paper Discussion",
+              "type": "other",
+              "weight": 0.1,
+              "score": 95.16
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Quiz 15",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 93.25
+            },
+            {
+              "name": "Quiz 16",
+              "type": "quiz",
+              "weight": 0.007407,
+              "score": 46.21
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "hw",
+              "weight": 0.028571,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

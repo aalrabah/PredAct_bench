@@ -1,0 +1,3255 @@
+{
+  "course_id": "CS 562",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_052665",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.21
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.69
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.72
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.99
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.31
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.53
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.27
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.77
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.57
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.13
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.12
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 89.94
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.22
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052671",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.23
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.73
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 84.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.37
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.33
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 79.01
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 95.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.3
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 98.99
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.5
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.22
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 98.85
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.49
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.67
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.29
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 86.28
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.9
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.85
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.77
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.54
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 98.54
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.86
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.76
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.4
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 99.81
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.48
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052702",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.73
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.81
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.05
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.38
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.05
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 88.43
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.92
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.77
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.07
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 96.74
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 89.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.99
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.01
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.19
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.93
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.13
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 90.95
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.56
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.6
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 92.93
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.18
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 69.27
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 92.45
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.08
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.11
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052676",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.65
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.25
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.76
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.94
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.18
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.28
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.43
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.13
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 97.5
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.45
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.72
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.77
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.47
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.81
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 77.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.19
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.78
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.93
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.02
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.29
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 85.97
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.7
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 98.62
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.48
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052669",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.04
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.6
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.66
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.37
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.11
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.96
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.18
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.33
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 99.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.35
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 84.3
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.47
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.47
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 92.82
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052727",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.29
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.63
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.89
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.52
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.29
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.43
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.73
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.99
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.74
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 90.04
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 83.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.24
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052738",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 33.44
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.51
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.33
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 66.6
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.16
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.43
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 45.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.42
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.95
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.69
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 72.37
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.27
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 61.74
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 99.43
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.89
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.26
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.21
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 63.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.2
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.08
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.59
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 79.35
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.82
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.41
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.95
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 88.62
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.43
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.9
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 67.48
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.76
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.7
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 87.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.61
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052714",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.83
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.15
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.55
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.04
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.27
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.83
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.3
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.89
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 91.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.59
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 97.23
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.48
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.88
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 75.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.87
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052704",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.95
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.28
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.38
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.5
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.41
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.12
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.38
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 91.34
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.5
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.79
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.54
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.49
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 95.75
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052719",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.42
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.71
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.73
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.35
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.81
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 91.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.83
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.48
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.93
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.74
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 82.71
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.58
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.54
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 81.45
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.47
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052693",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.15
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.41
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.97
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 99.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.1
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 47.97
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.65
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 79.93
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 57.44
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.2
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.54
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 65.69
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 93.23
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.21
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 55.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052715",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.83
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.8
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.66
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.71
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.72
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 94.47
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.94
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.45
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.91
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.14
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 98.29
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 92.08
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.99
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 90.13
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.47
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.91
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.49
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.99
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.45
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.64
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.11
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.41
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 91.39
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 95.97
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.28
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.87
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 82.78
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 97.03
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.76
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.84
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.13
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.54
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.51
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.95
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.11
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.85
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 75.64
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 96.72
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.56
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.04
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 94.86
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 99.56
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052679",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.4
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.99
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Paper Review 5",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 6",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.26
+            },
+            {
+              "name": "Project Proposal",
+              "type": "project",
+              "weight": 0.1,
+              "score": 87.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Paper Review 7",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.49
+            },
+            {
+              "name": "Paper Review 8",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Paper Review 9",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.09
+            },
+            {
+              "name": "Paper Review 10",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Presentation",
+              "type": "project",
+              "weight": 0.1,
+              "score": 93.28
+            },
+            {
+              "name": "Midterm Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Paper Review 11",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.3
+            },
+            {
+              "name": "Paper Review 12",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.22
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 90.88
+            },
+            {
+              "name": "Paper Review 13",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 14",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentations",
+              "type": "other",
+              "weight": 0.15,
+              "score": 91.3
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Paper Review 15",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 16",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

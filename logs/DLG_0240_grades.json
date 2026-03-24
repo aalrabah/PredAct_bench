@@ -1,0 +1,195 @@
+{
+  "course_id": "CS 521",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_051274",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051265",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 65.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051276",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 76.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051273",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051295",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 90.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051293",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 82.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051285",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Quiz 1",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 76.89
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

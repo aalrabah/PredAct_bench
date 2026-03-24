@@ -1,0 +1,501 @@
+{
+  "course_id": "CS 476",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_050565",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 46.44
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 28.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 65.11
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 51.54
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 32.01
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 44.72
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 70.48
+            },
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 92.11
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 37.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050560",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 80.79
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 92.9
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 70.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 72.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 56.92
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.25
+            },
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 60.14
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 63.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050554",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 97.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 81.36
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 86.42
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 87.42
+            },
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 95.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 78.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050548",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 96.7
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 77.31
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 93.77
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 86.4
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050553",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 86.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 99.12
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 4",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 97.33
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 5",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 91.05
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Homework 6",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 77.56
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 95.24
+            },
+            {
+              "name": "Homework 7",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "Homework 8",
+              "type": "hw",
+              "weight": 0.046153846,
+              "score": 90.89
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

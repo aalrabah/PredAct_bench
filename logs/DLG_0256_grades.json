@@ -1,0 +1,3178 @@
+{
+  "course_id": "CS 527",
+  "cutoff_week": 9,
+  "students": [
+    {
+      "student_id": "syn_051533",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 85.25
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 85.86
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 96.13
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 86.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051592",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 84.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 84.16
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 86.08
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051636",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 82.91
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.56
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.9
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 85.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051644",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 88.44
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.79
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.15
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 97.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051484",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 77.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 63.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.77
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 91.21
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 91.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 95.33
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 86.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051487",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 80.35
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.53
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.56
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.5
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.83
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 96.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051544",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.83
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.99
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 80.63
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 99.95
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.84
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 90.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051558",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.25
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 78.77
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 99.84
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 98.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051571",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 90.97
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 86.91
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 82.66
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051594",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.94
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 94.8
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 82.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051546",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.94
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051672",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.79
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.06
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 79.87
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 64.07
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 53.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051475",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 79.3
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 49.17
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 44.01
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.23
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 98.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051688",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 44.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 81.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 80.1
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 81.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.04
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 83.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051550",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 89.78
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.93
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.1
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 79.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051499",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 85.55
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 79.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 86.21
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051532",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 42.5
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 65.6
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.26
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 97.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051664",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 64.65
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 65.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 30.28
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 71.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.09
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 71.96
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 74.85
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 77.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051471",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 82.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 99.84
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 88.51
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 85.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051502",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 68.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 62.53
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 46.96
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051555",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.01
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.65
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051537",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.99
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 80.19
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 86.84
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051482",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.49
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.67
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.04
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.8
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 98.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051541",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.98
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 86.62
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 84.96
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.28
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 94.87
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051547",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 81.4
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 96.07
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 92.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051509",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.37
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 85.45
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051526",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.29
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.9
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 99.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051507",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 65.33
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 48.94
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.39
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 84.96
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051690",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.64
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.35
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 38.91
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 51.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051468",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 72.19
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.09
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 84.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051456",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 68.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 39.35
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 96.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051536",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 75.69
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.9
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 92.88
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.95
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 98.76
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 84.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051467",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 84.72
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 88.07
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.31
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.2
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051583",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.26
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 81.79
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 98.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051489",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 79.72
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.55
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 75.09
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 98.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051616",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 88.17
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 82.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051470",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 99.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.91
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.62
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 95.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051597",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 93.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 78.73
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.87
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 95.67
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 90.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051540",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 77.69
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 80.52
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 88.03
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 96.84
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051518",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 94.15
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.47
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.61
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.82
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051582",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.38
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.77
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 96.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051603",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 92.51
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 78.16
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 90.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.93
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 82.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 56.23
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 70.09
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 51.71
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051501",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.62
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 83.72
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.92
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 97.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051447",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 87.9
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.53
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 97.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051671",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 60.38
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 78.36
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 75.21
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 87.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051557",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 66.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 42.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.75
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 90.36
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 91.62
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051495",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 86.19
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.74
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.46
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 97.77
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 87.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051651",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.93
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.94
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 82.49
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 90.67
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051646",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Project Proposal Submission/Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 70.94
+            },
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 99.04
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.04,
+              "score": 89.45
+            },
+            {
+              "name": "Midterm Project Report/Presentation",
+              "type": "project",
+              "weight": 0.2,
+              "score": 97.79
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

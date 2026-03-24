@@ -1,0 +1,7846 @@
+{
+  "course_id": "CS 450",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_047817",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 38.87
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 23.32
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 41.53
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 28.79
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 31.15
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 38.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047806",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.56
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.9
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 65.96
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.5
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 85.74
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047561",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.57
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 49.36
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 43.8
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 76.35
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 61.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047136",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 89.72
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 69.14
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.53
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 66.1
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047473",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.88
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.33
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 59.22
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 73.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047522",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.2
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.25
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 72.78
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 92.09
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 88.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047164",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.61
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.59
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 38.38
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 88.22
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 55.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047772",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.86
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 43.84
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 61.05
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.24
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 92.12
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 93.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047658",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 96.11
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.18
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 82.97
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 65.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047192",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.45
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 69.07
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.15
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 60.73
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047808",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 67.46
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 87.22
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 33.03
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 67.29
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 37.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047231",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.76
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.26
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 47.27
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.85
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 67.15
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 79.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047443",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 31.94
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 41.92
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.54
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047583",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.58
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.37
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 62.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.36
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 97.6
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 68.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047375",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 73.12
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 47.82
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 86.95
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 75.63
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 90.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047550",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.14
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.3
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 50.94
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.09
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 76.44
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 93.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047513",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 92.72
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 15.76
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.14
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 43.2
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 63.74
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 86.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047154",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 73.09
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.81
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 65.35
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 64.15
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 87.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047243",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 42.97
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 59.39
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 36.76
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 61.55
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047525",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.69
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 33.55
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 86.09
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 47.19
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 92.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047557",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 74.95
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 46.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 92.13
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.01
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 58.91
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 66.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047562",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.63
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 58.49
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 85.02
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.53
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 53.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047140",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.3
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.28
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 67.98
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 73.99
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 86.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047552",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.5
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.74
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 42.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.08
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 47.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047402",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 43.13
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.09
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 38.61
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 99.06
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047199",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.43
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 86.79
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 59.9
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.55
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 95.64
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 50.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047175",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.34
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 63.42
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 67.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047337",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 82.3
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.31
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.25
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 63.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047442",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.29
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.83
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.1
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 72.28
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047299",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.24
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.65
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.21
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 96.7
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 51.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047520",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.19
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.58
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 38.58
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 26.38
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 93.05
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 92.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047674",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 49.72
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 45.9
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 46.86
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.94
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 80.71
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 30.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047796",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.04
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 63.48
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 74.17
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.51
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 66.94
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 81.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047371",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.22
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 84.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.01
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 66.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047785",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.85
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.51
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 70.26
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 96.5
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 37.65
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 63.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047541",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 83.26
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.72
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 29.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 65.82
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 29.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047769",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.97
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.76
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 72.77
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 92.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047270",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 83.62
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 28.93
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 99.66
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047220",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.97
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.24
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.37
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 95.63
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 72.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047642",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.6
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 45.88
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 42.2
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.31
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 83.35
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047153",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 64.87
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.14
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 73.32
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 73.22
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047205",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 58.29
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.2
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 73.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.43
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 94.75
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 39.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047328",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.26
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.41
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 94.67
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 92.63
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 62.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047459",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.35
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 92.57
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 58.11
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.36
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 91.08
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 94.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047393",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 58.61
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 61.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.58
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 90.57
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047302",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 49.65
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 51.28
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 82.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.9
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047698",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 51.77
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.31
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 91.13
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 54.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047603",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 86.04
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 98.41
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 60.11
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 65.69
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 91.29
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047803",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 45.3
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 21.71
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 50.46
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 32.32
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 50.77
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047176",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.08
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.55
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 71.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 34.25
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 62.57
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 68.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047367",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.37
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 61.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 94.27
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 86.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047308",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 65.11
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 79.52
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.61
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 71.99
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047709",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.94
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.79
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 89.59
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047618",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.44
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.63
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 41.61
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.42
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 65.18
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047411",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 63.41
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.84
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 31.39
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 28.96
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 87.23
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 47.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047352",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.67
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 48.43
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.7
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047668",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 67.34
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.2
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.5
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 80.19
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 43.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047204",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.34
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.39
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 87.93
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.4
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 76.76
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 47.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047504",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.95
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.77
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 66.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047394",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 38.72
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 85.91
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 36.54
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 92.74
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047249",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 59.88
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.19
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 32.23
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 65.07
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 89.35
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 45.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047450",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.54
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.41
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.82
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.15
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 83.36
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047602",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.99
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 29.45
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 81.42
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047189",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.24
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 63.96
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.91
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 90.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047129",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 69.5
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.96
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 97.02
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 47.97
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 98.16
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 50.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047372",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 69.61
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.23
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 49.97
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.14
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 90.31
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 74.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047495",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.74
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.16
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 58.32
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.89
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047248",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 74.39
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 97.87
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 43.59
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 94.64
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 74.28
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047710",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 82.73
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.22
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.21
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 88.43
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047510",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.23
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 40.72
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.96
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 94.21
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 80.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047634",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.84
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 89.72
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 63.41
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 24.95
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 92.2
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 68.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047667",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.45
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 67.58
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 83.42
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.13
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 72.1
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 47.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047346",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 73.84
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 69.31
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.53
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 53.75
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 69.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047457",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 18.62
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.1
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 40.34
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 74.78
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047336",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.78
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 58.98
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 67.58
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 46.69
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 17.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047578",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 84.83
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.79
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 74.11
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.47
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 64.89
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047386",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.99
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.56
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 48.38
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.73
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047770",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.88
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 53.53
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 55.77
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 90.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047579",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 42.22
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.4
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.16
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 59.55
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047640",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 84.91
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.29
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 51.5
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 98.53
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 53.9
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 53.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047737",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.3
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.64
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.18
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 45.03
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 76.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047727",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 38.81
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.09
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 60.06
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 88.7
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 36.49
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047309",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.86
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 28.11
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 98.09
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.09
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 73.24
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 69.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047794",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 51.23
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.3
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 47.98
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 33.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047523",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.85
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 82.51
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.42
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 61.49
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 67.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047384",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.93
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.56
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 97.77
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 87.34
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 19.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047304",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.22
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 37.69
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 55.55
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.08
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 81.72
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047752",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.07
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.51
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 70.75
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.07
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 55.1
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 46.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047629",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 98.49
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.63
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.48
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 97.22
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 63.56
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 56.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047406",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.83
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 44.01
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 81.76
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 79.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047544",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 88.05
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 64.39
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 86.35
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.61
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 69.54
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047252",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 92.65
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.21
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 88.09
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.49
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 98.55
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047240",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.66
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 26.71
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.3
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 71.74
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 73.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047766",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 72.13
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.03
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 71.78
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 65.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047292",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 73.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.33
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 83.46
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 26.9
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 88.56
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 98.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047203",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.1
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 76.97
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 33.46
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.51
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 59.62
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 44.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047502",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.61
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.1
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 67.72
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 47.5
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 93.58
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 54.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047239",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 34.15
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 81.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 74.33
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 94.67
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 82.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047644",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.08
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.63
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 74.56
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.76
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 60.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047370",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.06
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 29.15
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 83.99
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.55
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 87.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047514",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.28
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.2
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.68
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 80.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047434",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.24
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.8
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 71.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.64
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 63.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047767",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.08
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.94
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 90.44
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.04
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 90.38
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 37.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047310",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 94.38
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.82
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.09
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 60.05
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047433",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.49
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 35.99
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 90.73
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.61
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 81.78
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 72.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047671",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 96.22
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 42.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 67.5
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 64.86
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 37.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047694",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.78
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.3
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 98.85
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 88.78
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 88.87
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 54.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047773",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.02
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.33
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 69.55
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.08
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 90.77
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 26.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047209",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.37
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.92
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 51.2
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.98
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 84.05
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 62.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047297",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 77.83
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 24.26
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 75.3
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.86
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 62.79
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047422",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.42
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.95
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 53.77
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.76
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 99.99
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 61.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047783",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 89.89
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 94.66
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 55.27
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.1
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 74.96
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 51.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047616",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.35
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 72.63
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 47.17
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 80.01
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 54.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047467",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 60.05
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 37.7
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 87.52
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 30.84
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 97.76
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047708",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.95
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.8
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.64
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.73
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 51.07
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 49.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047427",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.36
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 31.97
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.22
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.55
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 99.33
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 72.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047802",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.64
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.05
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 83.75
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.22
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 83.01
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 35.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047716",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 41.45
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 34.69
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 81.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.33
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 50.16
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047398",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 56.8
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.49
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 81.37
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 91.87
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 85.03
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047474",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.35
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 69.12
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 81.58
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 78.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047605",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 54.71
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 58.3
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 61.37
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 92.38
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 75.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047234",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.19
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 59.71
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 94.72
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 87.88
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 61.19
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 77.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047206",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 32.25
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 39.33
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 48.08
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.12
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 93.1
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 34.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047213",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 53.18
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 75.73
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 51.47
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.6
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 91.08
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 62.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047277",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 85.31
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 81.55
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 67.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 95.17
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 70.9
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 94.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047424",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 50.26
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 93.97
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 96.85
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 88.11
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047404",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 22.43
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 93.84
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 46.83
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 51.49
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 94.47
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 57.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047335",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 45.64
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 88.86
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 62.08
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 100.0
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047440",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.21
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.36
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.32
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 82.75
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 93.3
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 85.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047795",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.74
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.2
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 38.44
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 79.28
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 28.24
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047247",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.89
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 27.45
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 68.69
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 100.0
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 73.11
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 89.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047498",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.61
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 42.81
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 84.01
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 98.01
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 40.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047499",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 57.47
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.53
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 58.67
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 69.38
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 73.98
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047399",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 55.49
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 39.77
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 93.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 84.41
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 82.6
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 70.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047409",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 64.5
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 78.2
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 59.24
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 84.25
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 80.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047417",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.78
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 66.87
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 75.39
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 65.76
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 94.71
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 96.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047159",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 84.96
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 99.49
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 83.67
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 96.48
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 85.09
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 98.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047597",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 80.39
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 48.85
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 50.17
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 68.82
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 43.22
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047500",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 42.83
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.48
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 56.34
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 52.39
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 81.88
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 64.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_047326",
+      "weeks": [
+        {
+          "week": 1,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 71.18
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 90.67
+            },
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 40.87
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "online quiz",
+              "type": "quiz",
+              "weight": 0.016,
+              "score": 70.13
+            },
+            {
+              "name": "Exam 1",
+              "type": "exam",
+              "weight": 0.1125,
+              "score": 76.88
+            },
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.0277,
+              "score": 95.12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

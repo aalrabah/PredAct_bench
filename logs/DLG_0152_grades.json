@@ -1,0 +1,5919 @@
+{
+  "course_id": "CS 445",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_044022",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.95
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043910",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.02
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044176",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 80.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044328",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044884",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 48.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043898",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 79.93
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044594",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044707",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 80.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044033",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044715",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.43
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044760",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 67.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043872",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.08
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044891",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 50.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 33.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044196",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 81.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044289",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044039",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.73
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044742",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.23
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044775",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043990",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 81.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044461",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044882",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 57.5
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 78.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044462",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044888",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 63.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 68.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044273",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044803",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 74.73
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044577",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044237",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044392",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.2
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044702",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.93
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 73.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044088",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043953",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044636",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043874",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044158",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043979",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044164",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043982",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044382",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044847",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.87
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044489",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044463",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.29
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044451",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044030",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044156",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044533",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044890",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.01
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 78.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044569",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.52
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044525",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.42
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043985",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 73.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044750",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044465",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044700",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044850",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 48.57
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 75.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044806",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 60.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044943",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 68.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044473",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.12
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044178",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 71.11
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044897",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.16
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 61.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044875",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 65.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044872",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.15
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 80.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044204",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044587",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 73.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043927",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044446",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.72
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044869",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 80.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044428",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044351",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.68
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044611",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.59
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044249",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044549",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044946",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 51.42
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 48.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044494",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044925",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 36.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044316",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043986",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 59.33
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044903",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 32.67
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 55.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044194",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044767",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 70.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044644",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044580",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.91
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044308",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044793",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.14
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 66.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044203",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044861",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 64.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044810",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.62
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 69.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044686",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044478",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 75.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044829",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 69.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044215",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.93
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044898",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 34.88
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044010",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043879",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044689",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044615",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.41
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044235",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.54
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044268",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 68.05
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044312",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044068",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.92
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044557",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.64
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044090",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 35.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044063",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 78.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043991",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.13
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044143",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.63
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044210",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.76
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044796",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 74.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044844",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.18
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 73.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044616",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.86
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044408",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044874",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044716",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 79.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044547",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.52
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044126",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.54
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044313",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 72.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044881",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 75.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044488",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044794",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043909",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044393",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044259",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.32
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043935",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 81.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044275",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.98
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044213",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.67
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044366",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043976",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.17
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044515",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044165",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044036",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.57
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044041",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.79
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044801",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 63.74
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 71.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043867",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044048",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044951",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.37
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 47.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043954",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044622",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044647",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.94
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044514",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.21
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044132",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.54
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044940",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 16.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044003",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.64
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044212",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044061",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.01
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044267",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.86
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043977",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.13
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044233",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044659",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.27
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044886",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 38.44
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 51.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044458",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044319",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043972",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044024",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 79.13
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044912",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 61.11
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 54.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044895",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044721",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.8
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 77.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043970",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.83
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043968",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 81.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044834",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.92
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044397",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.35
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044564",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.53
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043994",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.15
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044651",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044655",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044432",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.12
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044336",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.99
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044471",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.17
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044371",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044777",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 68.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044037",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 74.99
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044870",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 72.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043875",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044449",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044378",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 90.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044162",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044214",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044664",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 79.75
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044380",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.3
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044566",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044339",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 75.84
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044119",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.88
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044231",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.53
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043873",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044200",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.65
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044719",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044448",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.97
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044529",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.77
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 78.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044551",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 76.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044485",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.66
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044250",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044654",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.02
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 94.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044197",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.72
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044453",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.69
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044710",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 87.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044056",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043975",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044677",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044623",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044805",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 64.1
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 81.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044480",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 95.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044253",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.45
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043943",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 96.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044889",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044532",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 93.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044049",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 83.24
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 89.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044073",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 71.44
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 86.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044025",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 92.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044896",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 44.61
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044495",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 99.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044297",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044524",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 88.18
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 85.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044785",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 63.29
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 65.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044624",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044369",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044185",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 84.19
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 97.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044305",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044099",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 80.56
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 98.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044718",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044901",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 67.6
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044012",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 82.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044941",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 43.7
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 47.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_044085",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Project 1 (Hybrid Images)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project 2 (Image Quilting)",
+              "type": "project",
+              "weight": 0.11,
+              "score": 91.18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

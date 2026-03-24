@@ -1,0 +1,747 @@
+{
+  "course_id": "CS 562",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_052665",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.21
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 98.62
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.69
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 74.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052671",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 96.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 83.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052718",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 75.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052702",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 81.88
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 90.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052662",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.99
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 88.01
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.19
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052676",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 77.65
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.25
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 68.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.77
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 97.68
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.47
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 87.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052669",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.04
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.6
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 78.66
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 76.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052727",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.29
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.63
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052738",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 33.44
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 49.51
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.33
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 66.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052674",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.2
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052714",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.83
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052704",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.95
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.28
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.38
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052719",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.42
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 84.71
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 85.73
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052693",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 70.15
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 50.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052715",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 82.83
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 92.8
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 80.5
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.91
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 89.03
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.84
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 86.13
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 95.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052679",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "Paper Review 1",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 93.02
+            },
+            {
+              "name": "Paper Review 2",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 94.4
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Review 3",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 91.99
+            },
+            {
+              "name": "Paper Review 4",
+              "type": "other",
+              "weight": 0.009090909,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

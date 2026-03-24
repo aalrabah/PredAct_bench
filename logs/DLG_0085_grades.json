@@ -1,0 +1,6100 @@
+{
+  "course_id": "CS 415",
+  "cutoff_week": 11,
+  "students": [
+    {
+      "student_id": "syn_032218",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032543",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.38
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 70.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031664",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.5
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032021",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.68
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032187",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032663",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.88
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031458",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.64
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032279",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.01
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032130",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031929",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032596",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.11
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031848",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.64
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032569",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 61.23
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032311",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.93
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032230",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032516",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.86
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032737",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.62
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 43.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031469",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032736",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.9
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 62.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032142",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.75
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031400",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 89.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032248",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.59
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032482",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.24
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032434",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031683",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.88
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032708",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 59.25
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 73.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031980",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031470",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.43
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032250",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.59
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032228",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.18
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031371",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031752",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.18
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031939",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.34
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032485",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031412",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.29
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031996",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 59.84
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032132",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.69
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032379",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.53
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032533",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.44
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 84.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032729",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 66.44
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 73.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032501",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032049",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.41
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032023",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 73.2
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031398",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 85.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032194",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.96
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031860",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.17
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031883",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.13
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032280",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.8
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032534",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 48.6
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031569",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032583",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 50.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032591",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 55.1
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032513",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.65
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032571",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.3
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031835",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031421",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032515",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.32
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032389",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.66
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032732",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 72.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031824",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.75
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032159",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 71.15
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032665",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 80.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031827",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.54
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032507",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.59
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032414",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031544",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.85
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032619",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.68
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031444",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.98
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032497",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 67.25
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031633",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 84.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032550",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 59.12
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032300",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 67.96
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032209",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.95
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032618",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 62.44
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032331",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.36
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032560",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.4
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 81.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031907",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.85
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031565",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.28
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032415",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.75
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031628",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.28
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032051",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.32
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031528",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 71.87
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031987",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.91
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031866",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.11
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032044",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.61
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031959",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.61
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031579",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.27
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031984",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.08
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031418",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031519",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.84
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031405",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.87
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032476",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 51.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031631",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031429",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.58
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031862",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.63
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032443",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.07
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032321",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031453",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.9
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032509",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.69
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032372",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032106",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.82
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031610",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 74.36
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031962",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.95
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032264",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.06
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032635",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 71.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031638",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.81
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032456",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 57.09
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031707",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.55
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032683",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.35
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 74.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032277",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.39
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032022",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.06
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031767",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032013",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.43
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031430",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.72
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032080",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 74.85
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031874",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.05
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031606",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031578",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.96
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032133",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.56
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031837",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 58.25
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031607",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032296",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.95
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031918",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.8
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 86.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032505",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.37
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031449",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031558",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.93
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031928",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031372",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.86
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031435",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 61.68
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031978",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.82
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032589",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 59.62
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032695",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.75
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032103",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031764",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032447",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.01
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031688",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032039",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.64
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032334",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.14
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031938",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032467",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.5
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031396",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.72
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031951",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.28
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031687",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.16
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032508",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031728",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.53
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031740",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031673",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.36
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032500",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.13
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031662",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.9
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031839",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.27
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031656",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.52
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031700",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.59
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032089",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031619",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.67
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032660",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 63.44
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032397",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031763",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.67
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031715",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.55
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032204",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.27
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032336",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.3
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031385",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.66
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031658",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032468",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 74.2
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031647",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.57
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032365",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.06
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031575",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031926",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.88
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031490",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.76
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032597",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.53
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 83.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032478",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032207",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032213",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 64.01
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031377",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.37
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032658",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 48.17
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031580",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 56.27
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032281",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.11
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032418",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 56.11
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031452",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031903",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031738",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.54
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 87.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032232",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.69
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032412",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.28
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032144",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031380",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031825",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 69.17
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031597",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031932",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.88
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031972",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.97
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031539",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.59
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031457",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031416",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 89.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032345",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.33
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031386",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.23
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032153",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.44
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031900",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.62
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031423",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.08
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032121",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.01
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 85.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032199",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.06
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032110",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 59.86
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031642",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.03
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032197",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.77
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032168",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031689",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 61.37
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032303",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.53
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031546",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 54.05
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032676",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 36.73
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032288",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031747",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.78
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031668",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.6
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031976",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.64
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032403",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032115",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.07
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032118",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.62
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031796",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.43
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032193",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.24
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032082",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 71.7
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032294",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.89
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 92.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032256",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.36
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032067",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.4
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032657",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032580",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 71.69
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 82.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031587",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032126",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031432",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.55
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 94.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031489",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 80.23
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031822",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032594",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 34.12
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032537",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.13
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032407",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.47
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031948",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.15
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032608",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 93.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032169",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 72.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032242",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.7
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032105",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 64.92
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032446",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032436",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 53.77
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031935",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 98.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032626",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.3
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 83.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032593",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 68.69
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032481",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.22
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032565",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.99
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 81.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032325",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.42
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031503",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032366",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.21
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 97.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031949",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.1
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032114",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.55
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032666",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.49
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 89.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031654",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.32
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 91.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031374",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.4
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031523",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032008",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032387",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.85
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032713",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 68.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031729",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.91
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032031",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031712",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 69.49
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032060",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.29
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032075",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.92
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031888",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.82
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032492",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.26
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032202",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 61.53
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031506",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.98
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 95.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032165",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.41
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031749",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.73
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 96.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032725",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.68
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 70.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032257",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 80.45
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032728",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.89
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 72.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032592",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 48.98
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032211",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.99
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031475",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.84
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032048",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 67.18
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 99.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031816",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 88.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_032057",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.98
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031538",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.03
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 90.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031856",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031525",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.0
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_031468",
+      "weeks": [
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 66.02
+            },
+            {
+              "name": "Course Project",
+              "type": "project",
+              "weight": 0.6,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

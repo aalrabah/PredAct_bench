@@ -1,0 +1,102 @@
+{
+  "course_id": "CS 540",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_052009",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052017",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052037",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 33.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052027",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 96.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052022",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 91.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052030",
+      "weeks": [
+        {
+          "week": 6,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

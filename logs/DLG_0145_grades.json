@@ -1,0 +1,4006 @@
+{
+  "course_id": "CS 444",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_043793",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042619",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043548",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042806",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042660",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043677",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 49.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043128",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042865",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043060",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043201",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043580",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042839",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043341",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042860",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043368",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043707",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 77.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043319",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042811",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043342",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043242",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 70.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042650",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042666",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042908",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043448",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042948",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 83.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042706",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 84.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042971",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043036",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043373",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042838",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 86.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042807",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042777",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043020",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043378",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043829",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 78.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042685",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 86.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042797",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 78.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042667",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043334",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043653",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042690",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043477",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042757",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043113",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042711",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043402",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043417",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043073",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043091",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043552",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042808",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042941",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043274",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043582",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 86.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043739",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043375",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042798",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 73.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043587",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043838",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 51.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043028",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043218",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042721",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043471",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043646",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 61.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043735",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 71.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042804",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 75.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043234",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042632",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043346",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042727",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043659",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043689",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 59.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043466",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043607",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043380",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043033",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043056",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043485",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042868",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043000",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043508",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043361",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 88.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043704",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 88.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043345",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043340",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 80.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043210",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043109",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043305",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043363",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043716",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043311",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042731",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042718",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043633",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043821",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043182",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043030",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042848",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043370",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 72.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043196",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 81.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042745",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 80.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043745",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043355",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043430",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043764",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042919",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043622",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042930",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042934",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043830",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043233",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043386",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042659",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 94.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043156",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043785",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 83.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043499",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043539",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 94.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042962",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042678",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043846",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 58.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043069",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043756",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 70.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043783",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 48.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042932",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043772",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 76.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043617",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043480",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043315",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043021",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042888",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043490",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043510",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042833",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043160",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043562",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 88.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043469",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043252",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043738",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043199",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 79.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043362",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 83.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043294",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043200",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042744",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043627",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042651",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042695",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043579",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043605",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043125",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043807",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 54.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042920",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043533",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043670",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043061",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042875",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 84.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042857",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 94.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043198",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 83.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043374",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042985",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 88.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043379",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043173",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043626",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043634",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 72.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043542",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043532",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043231",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043292",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043515",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 78.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043531",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 73.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042929",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 86.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042891",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043656",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 81.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042743",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042776",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043663",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 59.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043658",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043298",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043371",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043047",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043338",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 72.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043326",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 94.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043356",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043462",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043525",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042671",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043297",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 92.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043103",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043834",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043211",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043450",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043207",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043139",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042895",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043788",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043662",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 51.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042679",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043283",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 94.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042852",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043193",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043752",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 81.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043666",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043219",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 96.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042647",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043836",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 31.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042828",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043410",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 78.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043545",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043644",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 46.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043153",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043238",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043289",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043483",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043794",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042870",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043668",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042726",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043116",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 98.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042701",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043828",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 65.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043310",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 81.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043306",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 87.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042779",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 53.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043864",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 37.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043698",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 90.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043474",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043573",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043364",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043359",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 84.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042995",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043320",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043650",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042818",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043344",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 85.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043818",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 89.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042886",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 95.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043179",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 71.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043511",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 91.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042899",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043672",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 45.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043001",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042914",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 84.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043612",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 97.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042938",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 99.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043714",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 67.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042790",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043384",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_042831",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043694",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043101",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 93.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_043287",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Programming Assignment 1",
+              "type": "hw",
+              "weight": 0.16,
+              "score": 82.74
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

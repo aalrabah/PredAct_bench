@@ -1,0 +1,6990 @@
+{
+  "course_id": "CS 463",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_048827",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.88
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.63
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.6
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.82
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.9
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049072",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 52.76
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 70.23
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 35.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 33.87
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.53
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 35.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048630",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.28
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.4
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.7
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048768",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.37
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.65
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.84
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.57
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.47
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 91.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048870",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.17
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.13
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 67.17
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048710",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.42
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 74.3
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.55
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.12
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 85.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048719",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.99
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 51.27
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.34
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.93
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.32
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048835",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.96
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.08
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.79
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 87.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048813",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.31
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.26
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.8
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 98.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048968",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.74
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.53
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 99.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049018",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.54
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 66.07
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 61.08
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 68.7
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048993",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.97
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.24
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.19
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.68
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 51.33
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048644",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.59
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.16
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.33
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.5
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.53
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 98.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048982",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.05
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.74
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.95
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.27
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.8
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 94.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048645",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.84
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.93
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.28
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048779",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.11
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.74
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.7
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048858",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.9
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.84
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.16
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.43
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.84
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 76.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.66
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.66
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.61
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048954",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 54.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.12
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.12
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.84
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.85
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 99.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048616",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.85
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.74
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.21
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.83
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 95.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048885",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.39
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.7
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.56
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.32
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048901",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.13
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.8
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.92
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 73.5
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.42
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 90.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048927",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.31
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.56
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.72
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.95
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048806",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.32
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.82
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.85
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.94
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 86.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049010",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.96
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.09
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.97
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.09
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.58
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 70.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.23
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.76
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.54
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049037",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 62.65
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.21
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 60.37
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 65.99
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 74.43
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 99.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048666",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.67
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.85
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.54
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 98.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048864",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 56.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.43
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.27
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.15
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048857",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.19
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.4
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.67
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.9
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049060",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 70.85
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 54.16
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.89
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.42
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048744",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.87
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.94
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.07
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 96.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049005",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.63
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.58
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.19
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 68.85
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 68.26
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 93.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048745",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.54
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.57
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.74
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.55
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048960",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.92
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.19
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.73
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 79.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048819",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.07
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.95
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.6
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048773",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.65
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.76
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.06
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 74.93
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 87.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048682",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.49
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 94.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048983",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.04
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.23
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.13
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048774",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.67
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.49
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.63
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 87.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048823",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.64
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.13
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.05
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 96.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.09
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.11
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.56
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.07
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 92.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048753",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.09
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.48
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.14
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.51
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.63
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 81.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048750",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.85
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.97
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.78
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.57
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 90.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048973",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.36
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.23
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.69
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.63
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 89.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048947",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.56
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.57
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.16
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 91.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.8
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.06
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.62
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.64
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.21
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 91.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048778",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.12
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.86
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.71
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 84.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048949",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.93
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.78
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.29
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 95.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048724",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.42
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.82
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.63
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 78.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048836",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.23
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 59.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.99
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048804",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.3
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.2
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 95.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049022",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.2
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.27
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.4
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.76
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.96
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.14
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048887",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.16
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.05
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.81
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.57
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048736",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.5
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.55
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048799",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.25
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.28
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048688",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.01
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 74.78
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.85
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 77.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048624",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.45
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.71
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.75
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.35
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 56.87
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 98.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048830",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.35
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.42
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.15
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048976",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.46
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.31
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.51
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.38
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 88.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048766",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.43
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 72.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 73.25
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048757",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.78
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 92.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049054",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.68
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.62
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.73
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.27
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.56
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 76.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048681",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.5
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.15
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.43
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.45
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 84.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048931",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.2
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.25
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.62
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 75.67
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 87.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048833",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 73.72
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.51
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.75
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048897",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.17
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 99.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048980",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.68
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.77
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.69
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.1
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.26
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048728",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.47
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.97
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.08
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.85
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 90.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048678",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.12
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.21
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.98
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 76.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048921",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.93
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.28
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.23
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.8
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 93.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049038",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.21
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.39
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.31
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 73.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048896",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.13
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.53
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.12
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.65
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.17
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 82.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048648",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.03
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.1
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.85
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.23
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048838",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.62
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 70.57
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.81
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.35
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048863",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.27
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.61
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 59.03
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 72.35
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048842",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.44
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 73.73
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 82.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049070",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 50.8
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 50.17
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 36.68
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 51.8
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 37.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048785",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.87
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.93
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.15
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.85
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.68
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 91.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049058",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 68.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 70.42
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.79
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.15
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 78.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048805",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.47
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 85.26
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.19
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.14
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.67
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 73.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048699",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 84.02
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.66
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.07
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048598",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.82
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.15
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 98.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049020",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 37.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.96
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 44.3
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.94
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.74
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 95.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048939",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.31
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 88.42
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.95
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048713",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.7
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.96
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.03
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.68
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 88.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048687",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 78.76
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.91
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.19
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049056",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.77
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.82
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 63.22
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.28
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 48.16
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048977",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.29
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.63
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.87
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.73
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.87
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 97.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048911",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.44
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.68
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.59
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.63
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048849",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.46
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.47
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.93
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.33
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 90.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048775",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 72.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 89.31
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.39
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 90.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048609",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 45.31
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.16
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.87
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 97.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048730",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.5
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.69
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 86.84
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.61
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.51
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.19
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048816",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.68
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 65.27
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.14
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049003",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 61.36
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 50.91
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.83
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.26
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048755",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 3",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.06
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "activities": [
+            {
+              "name": "MP 4",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "activities": [
+            {
+              "name": "MP 5",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Exam",
+              "type": "mp",
+              "weight": 0.3,
+              "score": 91.43
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

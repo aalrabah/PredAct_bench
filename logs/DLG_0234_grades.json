@@ -1,0 +1,4026 @@
+{
+  "course_id": "CS 511",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_051028",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 62.46
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.62
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 39.99
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 74.47
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.86
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 86.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050909",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.68
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.04
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 83.08
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 83.74
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 75.17
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 90.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050881",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 97.37
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.11
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 85.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050864",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.03
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 95.56
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 96.73
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.27
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 69.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051041",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 58.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.7
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.9
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 72.41
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.03
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050931",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 94.91
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 86.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050984",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.61
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.63
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 97.41
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 83.1
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050899",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.15
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.95
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.02
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 91.59
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 91.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051033",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 68.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 69.14
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.79
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 86.95
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 96.83
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 68.26
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 90.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050988",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.73
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.87
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 98.47
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 88.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050900",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.62
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 93.78
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 93.57
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 95.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050757",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.49
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 83.2
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 85.53
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.72
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 96.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050784",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 91.12
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 85.21
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 99.79
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 72.51
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050759",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.64
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 60.77
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 81.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050892",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.63
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 92.9
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.79
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 97.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050920",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 88.06
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 89.98
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.33
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 95.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050763",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.79
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 79.1
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.54
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 60.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050813",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.28
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.06
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 88.88
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 85.06
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 85.07
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.23
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 95.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050930",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 65.56
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.82
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 88.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050770",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 95.52
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.42
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 97.53
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 73.71
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 98.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051046",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.63
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 85.94
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 83.21
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 74.46
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 87.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051039",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 17.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.77
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 56.4
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 51.54
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 31.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050963",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.98
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.95
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050918",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 89.45
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 86.03
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051002",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.02
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 54.29
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 81.02
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.55
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 76.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051029",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 38.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.87
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 86.99
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 39.46
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 94.38
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 73.79
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 48.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050782",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.38
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.08
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 92.24
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 84.81
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 92.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050937",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.61
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 59.88
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 94.06
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 76.89
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 97.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050819",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 71.43
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 49.94
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 91.63
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 52.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050762",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.36
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 87.92
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 86.29
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.49
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 81.72
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 75.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050809",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 98.77
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.6
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.91
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 96.81
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 81.15
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 80.97
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 93.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050882",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 94.38
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.13
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.72
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 97.06
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 85.09
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 97.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051023",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.93
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.43
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 87.26
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.4
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 98.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050834",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.01
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.49
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 85.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050989",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.42
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 94.44
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.1
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 94.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050774",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.83
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.96
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 95.86
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.97
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 92.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050921",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.24
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.48
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 81.78
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 94.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050941",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 96.92
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.62
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 77.12
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 99.6
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 85.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050898",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.88
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 87.86
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.66
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 81.22
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 85.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050968",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.36
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 71.01
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050893",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.99
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 93.03
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 98.45
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 92.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051012",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 83.1
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 94.91
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 99.84
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 88.06
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050915",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.93
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.03
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 97.65
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051051",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 82.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.32
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.44
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 57.04
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 58.57
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.75
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 77.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050967",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.51
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 94.9
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.42
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 95.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050837",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 79.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 71.19
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 99.54
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 93.06
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.03
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 53.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051005",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.15
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.08
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 91.05
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 94.04
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 71.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050910",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.1
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.25
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.11
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 88.66
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 99.78
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.14
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 88.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050966",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.56
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.31
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 76.2
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050936",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.96
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.46
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 97.08
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 95.32
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 98.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050856",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.6
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 92.26
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 89.43
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 94.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050948",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.86
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 80.54
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 96.81
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 89.79
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 85.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050810",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.67
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 96.32
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 86.01
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.22
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051011",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.73
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.39
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 95.02
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 99.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051026",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 50.36
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.82
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 49.27
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 96.25
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 97.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050981",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.91
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 100.0
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 94.65
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.43
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 98.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051035",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 69.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 80.81
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.05
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 56.76
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 75.09
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.09
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 97.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050830",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.83
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 94.93
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.1
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 81.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050939",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.01
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.5
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.6
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 93.45
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.84
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 62.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050877",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 93.64
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.88
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Evaluating In-Class Presentations",
+              "type": "other",
+              "weight": 0.03,
+              "score": 93.75
+            },
+            {
+              "name": "Quizzes",
+              "type": "quiz",
+              "weight": 0.1,
+              "score": 77.42
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.63
+            },
+            {
+              "name": "Participation",
+              "type": "other",
+              "weight": 0.04,
+              "score": 99.4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

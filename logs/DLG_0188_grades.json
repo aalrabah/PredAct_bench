@@ -1,0 +1,2625 @@
+{
+  "course_id": "CS 463",
+  "cutoff_week": 5,
+  "students": [
+    {
+      "student_id": "syn_048827",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.88
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049072",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 58.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 52.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048630",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048768",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.37
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048870",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.15
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048710",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.42
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048719",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.99
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 51.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048835",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.96
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048813",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048968",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049018",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048993",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.58
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048644",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.59
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048982",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 66.05
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048645",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048779",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.11
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048858",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.9
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048649",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.47
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048954",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 54.18
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048616",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048885",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048901",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.24
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048927",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.56
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048806",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 83.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049010",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.96
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048663",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049037",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 62.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048666",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048864",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 56.78
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048857",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.19
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049060",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 70.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048744",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049005",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.63
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048745",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.54
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048960",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048819",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 80.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 77.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048773",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048682",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 76.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048983",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048774",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.81
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048823",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048709",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.09
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048753",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.09
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048750",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 97.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048973",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.16
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048947",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.97
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048640",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048778",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.12
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048949",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048724",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048836",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.75
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048804",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 71.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049022",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 78.2
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048887",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048736",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048799",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.52
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048688",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.39
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048624",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.45
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048830",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048976",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.46
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048766",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048757",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.8
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049054",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048681",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048931",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.67
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048833",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048897",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048980",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.68
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048728",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.57
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048678",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 82.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048921",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 81.61
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049038",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.31
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048896",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 95.13
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048648",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048838",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.62
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 70.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048863",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.27
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048842",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 86.33
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049070",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.89
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 50.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048785",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 96.87
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049058",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 68.04
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 69.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048805",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.22
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048699",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048598",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.21
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 88.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049020",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 37.08
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 84.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048939",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 90.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048713",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 87.7
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 93.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048687",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049056",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 79.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048977",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 98.29
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 64.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048911",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 89.44
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048849",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 92.92
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048775",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 72.76
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048609",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.1
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 45.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048730",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 94.5
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 85.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048816",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.26
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 91.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_049003",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 61.36
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_048755",
+      "weeks": [
+        {
+          "week": 2,
+          "activities": [
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.14
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "MP 2",
+              "type": "mp",
+              "weight": 0.1,
+              "score": 99.71
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

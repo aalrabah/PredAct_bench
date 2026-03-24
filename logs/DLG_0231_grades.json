@@ -1,0 +1,1986 @@
+{
+  "course_id": "CS 511",
+  "cutoff_week": 7,
+  "students": [
+    {
+      "student_id": "syn_051028",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 62.46
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 99.62
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050909",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.68
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050881",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050864",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.03
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051041",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 58.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.7
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050931",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050984",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.22
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.61
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050899",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.15
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 82.95
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051033",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 68.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 69.14
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 84.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050988",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 83.73
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 99.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050900",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.62
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 93.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050757",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.49
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050784",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 91.12
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 85.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050759",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 87.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.64
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050892",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.63
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050920",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050763",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.19
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050813",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.28
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.06
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 88.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050930",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 65.56
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050770",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 95.52
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051046",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 67.82
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.63
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 85.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051039",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 17.35
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050963",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 76.98
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050918",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051002",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 91.02
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051029",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 38.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.87
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 86.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050782",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.38
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 77.08
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050937",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.25
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.61
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050819",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 71.43
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050762",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 97.36
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 87.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050809",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 98.77
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 96.6
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050882",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 94.38
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.13
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051023",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.32
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 81.93
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050834",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 86.04
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.01
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050989",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.42
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050774",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.83
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050921",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 97.99
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.24
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050941",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 96.92
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.62
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 77.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050898",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.88
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050968",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050893",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.99
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 93.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051012",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 83.1
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050915",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.93
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 90.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051051",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 82.98
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 79.32
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050967",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.51
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050837",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 79.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 71.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051005",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 77.15
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 94.08
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050910",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 88.1
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 92.25
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 98.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050966",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.56
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 91.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050936",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.61
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 95.96
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 96.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050856",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 98.6
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050948",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.86
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 82.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050810",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 97.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051011",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 85.73
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 93.39
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051026",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 50.36
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 75.82
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050981",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 92.21
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 79.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051035",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 69.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 80.81
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050830",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 100.0
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 92.83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050939",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 84.01
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 90.5
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 94.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_050877",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Proposal Evaluation",
+              "type": "other",
+              "weight": 0.01,
+              "score": 93.64
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Midterm 1",
+              "type": "midterm",
+              "weight": 0.2,
+              "score": 87.88
+            },
+            {
+              "name": "MP 1",
+              "type": "mp",
+              "weight": 0.13,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

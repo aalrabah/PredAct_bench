@@ -1,0 +1,358 @@
+{
+  "course_id": "CS 538",
+  "cutoff_week": 3,
+  "students": [
+    {
+      "student_id": "syn_051914",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 85.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051997",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 88.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051992",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 78.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051958",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 86.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051994",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 83.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051928",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051907",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051920",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051977",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051966",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051967",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 86.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051990",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 81.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051965",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051978",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 96.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051956",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052008",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 79.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051940",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051964",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 93.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052007",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 88.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051962",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 92.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051935",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 96.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051982",
+      "weeks": [
+        {
+          "week": 3,
+          "activities": [
+            {
+              "name": "Paper Presentation",
+              "type": "other",
+              "weight": 0.15,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

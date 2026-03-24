@@ -55,13 +55,7 @@
         "week_15",
         "week_16"
     ],
-    "class_summary-average_gpa": [
-        "0-1",
-        "1-2",
-        "2-3",
-        "3-4",
-        "unknown"
-    ],
+    "class_summary-average_gpa": "open_numeric",
     "class_summary-grade_trend": [
         "improving",
         "stable",
@@ -83,14 +77,7 @@
         "mixed",
         "unknown"
     ],
-    "class_summary-flagged_student_count": [
-        "0",
-        "1_2",
-        "3_5",
-        "6_10",
-        "11_plus",
-        "unknown"
-    ],
+    "class_summary-flagged_student_count": "open_numeric",
     "class_summary-summary_scope": [
         "whole_class",
         "flagged_students_only",
@@ -113,7 +100,6 @@
         "below_d",
         "below_c",
         "below_b",
-        "any",
         "unknown"
     ],
     "student_query-assignment_issue_filter": [
@@ -124,7 +110,6 @@
         "missing_multiple",
         "late_work",
         "no_issue",
-        "any",
         "unknown"
     ],
     "student_status-student_reference": [
@@ -153,14 +138,7 @@
         "none",
         "unknown"
     ],
-    "student_status-missing_assignments_count": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4_or_more",
-        "unknown"
-    ],
+    "student_status-missing_assignments_count": "open_numeric",
     "student_status-failure_risk": [
         "low",
         "medium",

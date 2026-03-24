@@ -1,0 +1,1749 @@
+{
+  "course_id": "CS 533",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_051798",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 77.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 58.1
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 90.88
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 87.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 81.24
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051758",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 76.08
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 71.24
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 95.01
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 59.36
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 86.66
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 84.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051756",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.55
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 92.04
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 92.78
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 89.36
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 81.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051785",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 94.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 91.64
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 44.83
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 73.09
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 70.83
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 48.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051797",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.25
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 97.88
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 55.62
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 84.8
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 69.51
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 52.0
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 80.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051731",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 75.87
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 94.61
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 91.78
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 99.82
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051744",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 83.07
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.23
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 81.29
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 82.51
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 97.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051789",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.34
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 79.83
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 89.14
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 94.26
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 83.06
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 39.61
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 87.39
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051702",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 89.4
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 83.39
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 97.69
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 99.28
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 75.69
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 92.01
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.14
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 87.91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051779",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 66.92
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 59.34
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 83.34
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 89.83
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 78.22
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 76.22
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 96.48
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 86.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051792",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 41.79
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 54.14
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 84.07
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 89.5
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 64.82
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 97.25
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 67.19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051735",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.81
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 92.02
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 83.89
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 94.09
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 83.18
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 92.66
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 97.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051766",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.58
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 98.3
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 99.29
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 91.89
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 86.3
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 87.21
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 85.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051754",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 90.78
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 87.21
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.56
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 98.42
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 100.0
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 96.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051753",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 89.26
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 93.87
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 80.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 88.78
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 99.51
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 90.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051795",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 60.62
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 95.95
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 85.39
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 69.35
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 61.99
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 82.55
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.75
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 86.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051722",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 99.96
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 98.5
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 95.59
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 94.34
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 74.64
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 95.84
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 74.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051765",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 72.68
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 73.37
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 95.92
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 91.09
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051783",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 62.89
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 77.18
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 76.69
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 80.13
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 50.08
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 76.17
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 84.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051746",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 98.03
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 90.71
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 98.01
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 96.32
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 81.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 97.23
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 94.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_051764",
+      "weeks": [
+        {
+          "week": 4,
+          "activities": [
+            {
+              "name": "Homework 1",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 87.82
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "Project Presentation",
+              "type": "project",
+              "weight": 0.05,
+              "score": 87.6
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "activities": [
+            {
+              "name": "Project Description",
+              "type": "project",
+              "weight": 0.0,
+              "score": 76.03
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "activities": [
+            {
+              "name": "Homework 2",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 93.35
+            },
+            {
+              "name": "Class Attendance and Participation",
+              "type": "other",
+              "weight": 0.05,
+              "score": 91.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Midterm Progress Report",
+              "type": "project",
+              "weight": 0.1,
+              "score": 83.68
+            },
+            {
+              "name": "Final Project Report",
+              "type": "project",
+              "weight": 0.3,
+              "score": 93.18
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "activities": [
+            {
+              "name": "Homework 3",
+              "type": "hw",
+              "weight": 0.125,
+              "score": 87.22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

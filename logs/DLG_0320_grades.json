@@ -1,0 +1,2112 @@
+{
+  "course_id": "CS 568",
+  "cutoff_week": 13,
+  "students": [
+    {
+      "student_id": "syn_052974",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053162",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 98.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053307",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 94.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053111",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 91.59
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052993",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.39
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 98.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053061",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 99.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053095",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053314",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 88.35
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 71.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053276",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.63
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 76.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053106",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 82.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053227",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 87.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053126",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 79.68
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 90.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052998",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 88.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053223",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 73.57
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053282",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.75
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 99.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053128",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 73.52
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 95.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053028",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 82.83
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 93.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053118",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.65
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053134",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 96.81
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 83.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052992",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 53.55
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053298",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052995",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 84.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053197",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 90.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052983",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 73.13
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052978",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 87.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 97.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053107",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 70.05
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 96.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053246",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 76.09
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 99.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053178",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 57.56
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 96.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053317",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 57.56
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 88.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053209",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 88.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053036",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 83.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052980",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 63.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052968",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 98.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053154",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 96.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053165",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 82.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053099",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 81.6
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053006",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 94.21
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 85.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053155",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.18
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 99.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053140",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053294",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 74.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053010",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 93.62
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053247",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 68.79
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053235",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 69.84
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 90.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053220",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 92.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053082",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052947",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 93.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053146",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053122",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 98.97
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 88.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053025",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 74.04
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 98.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053117",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 83.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 91.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053163",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.69
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 88.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053212",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 74.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053089",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 91.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053046",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 90.05
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 87.41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053208",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.24
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 82.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053135",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 97.14
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 83.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053174",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 69.65
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 89.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053257",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 75.93
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053066",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 99.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053324",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 88.84
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 97.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053327",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 67.61
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 76.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053149",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 73.63
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 99.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053303",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 79.37
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 96.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053087",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052949",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 89.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052957",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 68.74
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 95.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053088",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 76.13
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052958",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 72.46
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 94.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052944",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 86.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052963",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_052940",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 78.16
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 86.05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053069",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.02
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 91.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053203",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 84.03
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 96.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053096",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 73.38
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 92.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053121",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 100.0
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053159",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 51.22
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053077",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 85.95
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "syn_053068",
+      "weeks": [
+        {
+          "week": 5,
+          "activities": [
+            {
+              "name": "In-class Participation",
+              "type": "other",
+              "weight": 0.2,
+              "score": 89.12
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "activities": [
+            {
+              "name": "Commentaries",
+              "type": "other",
+              "weight": 0.35,
+              "score": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
