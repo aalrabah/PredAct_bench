@@ -14,8 +14,9 @@ VLLM_BASE_URL = "http://localhost:8000/v1"
 AGENT_USER_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
 AGENT_SYSTEM_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
 
-# Generation parameters
-TEMPERATURE = 0.7
+# Generation parameters (per-agent temperatures)
+AGENT_USER_TEMPERATURE = 0.7    # Higher for natural instructor simulation
+AGENT_SYSTEM_TEMPERATURE = 0.1  # Low to reduce hallucination in data reporting
 MAX_TOKENS = 1024
 TOP_P = 0.95
 
@@ -34,16 +35,10 @@ MIN_TURNS = 3
 # =============================================================================
 
 # Per-component score tolerance for nearest-neighbor matching (percentage points)
-MATCH_TOLERANCE = 2.0
-
-# If no matches found, widen tolerance incrementally by this amount
-MATCH_TOLERANCE_STEP = 1.0
-
-# Maximum tolerance before giving up on matching
-MATCH_TOLERANCE_MAX = 10.0
+MATCH_TOLERANCE = 10.0
 
 # Minimum number of matched historical students to make a prediction
-MIN_MATCHES = 3
+MIN_MATCHES = 1
 
 # =============================================================================
 # RISK MAPPING
@@ -56,6 +51,7 @@ RISK_MAPPING = {
     "c": "medium",
     "d": "high",
     "f": "critical",
+    "unknown": "unknown",
 }
 
 # Grade to GPA mapping for numeric calculations
@@ -73,7 +69,6 @@ GRADE_TO_GPA = {
 
 # Risk level → default intervention type
 DEFAULT_INTERVENTION = {
-    "low": "monitor_only",
     "medium": "check_in_message",
     "high": "tutoring_referral",
     "critical": "advising_referral",
@@ -81,7 +76,6 @@ DEFAULT_INTERVENTION = {
 
 # Risk level → default intervention goal
 DEFAULT_INTERVENTION_GOAL = {
-    "low": "reduce_failure_risk",
     "medium": "improve_engagement",
     "high": "improve_concept_mastery",
     "critical": "connect_to_resources",
@@ -89,7 +83,6 @@ DEFAULT_INTERVENTION_GOAL = {
 
 # Risk level → default contact mode
 DEFAULT_CONTACT_MODE = {
-    "low": "no_contact",
     "medium": "email",
     "high": "email",
     "critical": "advisor_referral",
@@ -99,10 +92,10 @@ DEFAULT_CONTACT_MODE = {
 # FILE PATHS
 # =============================================================================
 
-CS_DB_PATH = "cs_db.json"
+CS_DB_PATH = "uiuc_results/cs_db.json"
 ONTOLOGY_PATH = "ontology.json"
 OUTPUT_DATA_PATH = "data.json"
-LOGS_DIR = "logs/"
+LOGS_DIR = "uiuc_results/logs/"
 
 # =============================================================================
 # EVALUATION
@@ -111,3 +104,4 @@ LOGS_DIR = "logs/"
 # Tolerance for open_numeric slot evaluation
 EVAL_GPA_TOLERANCE = 0.2          # ±0.2 for average_gpa
 EVAL_COUNT_TOLERANCE = 1          # ±1 for flagged_student_count, missing_assignments
+EVAL_MAX_GRADE_DISTANCE = 4       # Max penalty for "unknown" predictions in distance metric

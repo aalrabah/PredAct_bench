@@ -54,6 +54,22 @@ def parse_ontology(ontology):
     return domains
 
 
+def build_field_lookup(schema):
+    """
+    Build a flat lookup of field_name → slot_def from ALL domains.
+    Used to validate nested fields in grouped domains (student_status,
+    intervention) where the field names match ontology slots but live
+    under dynamic risk-group keys.
+    """
+    lookup = {}
+    for domain, slots in schema.items():
+        for slot, slot_def in slots.items():
+            # First definition wins — fields shouldn't collide across domains
+            if slot not in lookup:
+                lookup[slot] = slot_def
+    return lookup
+
+
 # =============================================================================
 # STATE TRACKER
 # =============================================================================
@@ -73,6 +89,7 @@ class StateTracker:
     def __init__(self, ontology_path=None):
         self.ontology = load_ontology(ontology_path)
         self.schema = parse_ontology(self.ontology)
+        self.field_lookup = build_field_lookup(self.schema)
         self.state = self._init_empty_state()
         self.history = []  # list of (turn_number, state_snapshot)
         self.turn_count = 0
@@ -132,6 +149,35 @@ class StateTracker:
 
         return True, "unknown_type"
 
+    def validate_field(self, field_name, value):
+        """
+        Validate a field by name against the flat field lookup.
+        Used for nested fields inside grouped domains where the domain
+        key is dynamic (e.g. student_status.high_risk.predicted_grade).
+        Returns (is_valid, reason).
+        """
+        if value == "" or value is None:
+            return True, "empty"
+
+        if field_name not in self.field_lookup:
+            return True, "unknown_field"
+
+        slot_def = self.field_lookup[field_name]
+
+        if slot_def["type"] == "open_numeric":
+            if isinstance(value, (int, float)):
+                return True, "valid_numeric"
+            else:
+                return False, f"expected numeric, got {type(value).__name__}"
+
+        if slot_def["type"] == "categorical":
+            if str(value) in slot_def["values"]:
+                return True, "valid_categorical"
+            else:
+                return False, f"'{value}' not in {slot_def['values']}"
+
+        return True, "unknown_type"
+
     def validate_state(self, state):
         """
         Validate an entire belief state dict.
@@ -141,20 +187,29 @@ class StateTracker:
         for domain, slots in state.items():
             if not isinstance(slots, dict):
                 continue
+
             # For flat domains (class_context, class_summary, student_query)
             if domain in self.schema:
                 for slot, value in slots.items():
                     is_valid, reason = self.validate_slot(domain, slot, value)
                     results.append((domain, slot, value, is_valid, reason))
             # For grouped domains (student_status, intervention)
-            # We validate the inner fields against ontology where possible
+            # Validate inner fields against the flat field lookup
             else:
                 for group_key, group_data in slots.items():
                     if isinstance(group_data, dict):
                         for field, value in group_data.items():
-                            # Try to validate against ontology
-                            is_valid, reason = self.validate_slot(domain, field, value)
-                            results.append((domain, f"{group_key}.{field}", value, is_valid, reason))
+                            # Skip container fields that aren't ontology slots
+                            if isinstance(value, (list, dict)):
+                                continue
+                            is_valid, reason = self.validate_field(field, value)
+                            results.append((
+                                domain,
+                                f"{group_key}.{field}",
+                                value,
+                                is_valid,
+                                reason,
+                            ))
         return results
 
     # =========================================================================
@@ -224,23 +279,56 @@ class StateTracker:
         return value is not None and value != "" and value != {}
 
     def get_filled_slots(self):
-        """Return all filled slots as a flat list of (domain, slot, value)."""
+        """
+        Return all filled slots as a flat list of (domain, slot, value).
+        Traverses nested dicts fully so grouped domains report individual
+        fields rather than entire sub-dicts.
+        """
         filled = []
         for domain, slots in self.state.items():
             if isinstance(slots, dict):
                 for slot, value in slots.items():
-                    if value != "" and value is not None and value != {}:
-                        filled.append((domain, slot, value))
+                    if isinstance(value, dict):
+                        # Grouped domain — go one level deeper
+                        for inner_key, inner_val in value.items():
+                            if inner_val != "" and inner_val is not None and inner_val != {}:
+                                filled.append((domain, f"{slot}.{inner_key}", inner_val))
+                    else:
+                        if value != "" and value is not None and value != {}:
+                            filled.append((domain, slot, value))
         return filled
 
     def get_unfilled_slots(self):
-        """Return all unfilled categorical slots."""
+        """
+        Return all unfilled slots.
+        For flat domains: checks each ontology-defined slot.
+        For grouped domains: checks required inner fields if groups exist,
+        or reports the whole domain as empty if no groups yet.
+        """
+        # Required fields inside grouped domains that should be filled
+        REQUIRED_GROUP_FIELDS = {
+            "student_status": ["student_ids", "predicted_grade", "failure_risk"],
+            "intervention": ["student_ids", "intervention_type", "priority"],
+        }
+
         unfilled = []
         for domain, slots in self.schema.items():
             if domain in ("student_status", "intervention"):
-                if not self.state.get(domain):
+                domain_data = self.state.get(domain, {})
+                if not domain_data:
                     unfilled.append((domain, "*", "empty_group"))
+                else:
+                    # Check required fields inside each group
+                    required = REQUIRED_GROUP_FIELDS.get(domain, [])
+                    for group_key, group_data in domain_data.items():
+                        if not isinstance(group_data, dict):
+                            continue
+                        for field in required:
+                            val = group_data.get(field)
+                            if val is None or val == "" or val == {} or val == []:
+                                unfilled.append((domain, f"{group_key}.{field}", ""))
                 continue
+
             for slot in slots:
                 value = self.state.get(domain, {}).get(slot, "")
                 if value == "" or value is None:

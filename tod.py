@@ -15,7 +15,8 @@ from config import (
     VLLM_BASE_URL,
     AGENT_USER_MODEL,
     AGENT_SYSTEM_MODEL,
-    TEMPERATURE,
+    AGENT_USER_TEMPERATURE,
+    AGENT_SYSTEM_TEMPERATURE,
     MAX_TOKENS,
     TOP_P,
     MAX_TURNS,
@@ -37,7 +38,10 @@ from prompts import (
     AGENT2_RISK_TEMPLATE,
     AGENT2_INTERVENTION_TEMPLATE,
     AGENT2_CLOSING_TEMPLATE,
-    EMPTY_BELIEF_STATE,
+    TOPIC_SUMMARY,
+    TOPIC_RISK,
+    TOPIC_INTERVENTION,
+    TOPIC_CLOSING,
 )
 from tools import load_db, lookup_course, process_students, extract_scores
 from state import StateTracker
@@ -74,7 +78,7 @@ def create_client():
     )
 
 
-def call_llm(client, model, system_prompt, user_message):
+def call_llm(client, model, system_prompt, user_message, temperature=0.1):
     """Call the LLM and return the response text."""
     try:
         response = client.chat.completions.create(
@@ -83,7 +87,7 @@ def call_llm(client, model, system_prompt, user_message):
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message},
             ],
-            temperature=TEMPERATURE,
+            temperature=temperature,
             max_tokens=MAX_TOKENS,
             top_p=TOP_P,
         )
@@ -104,10 +108,15 @@ def build_class_context(tool_results, course_id, current_week):
     """Build class_context from tool results. Filled at PHASE_COURSE_LOOKUP."""
     course_info = tool_results.get("course_info", {})
 
-    # Infer department and level from course_id (e.g. "CS 225" → cs, 200)
-    parts = course_id.split()
-    department = parts[0].lower() if parts else "cs"
+    # Use department from course_info if available (e.g. OULAD sets "oulad")
+    # Otherwise parse from course_id (e.g. "CS 100" → "cs")
+    department = course_info.get("department")
+    if not department:
+        parts = course_id.split()
+        department = parts[0].lower() if parts else "other"
+
     level = ""
+    parts = course_id.split()
     if len(parts) > 1:
         try:
             num = int(parts[1])
@@ -156,7 +165,6 @@ def build_student_query(tool_results):
             "assignment_issue_filter": "no_issue",
         }
 
-    # Determine the filter based on what grades are predicted for flagged students
     predicted_grades = set(r["predicted_grade"] for r in flagged)
     if "f" in predicted_grades:
         grade_filter = "below_d"
@@ -167,11 +175,10 @@ def build_student_query(tool_results):
     else:
         grade_filter = "unknown"
 
-    # Determine assignment issue filter
     reasons = [r["failure_risk_reason"] for r in flagged]
     if all(r == "missing_work" for r in reasons):
         issue_filter = "missing_multiple"
-    elif all(r == "academic_underpreparedness" for r in reasons):
+    elif all(r == "low_weighted_scores" for r in reasons):
         issue_filter = "no_issue"
     elif any(r == "missing_work" for r in reasons):
         issue_filter = "missing_multiple"
@@ -188,15 +195,16 @@ def build_student_query(tool_results):
 def build_student_status(tool_results):
     """Build student_status from tool results. Filled at PHASE_SUMMARY."""
     risk_groups = tool_results.get("risk_groups", {})
+    student_results = tool_results.get("student_results", [])
     student_status = {}
 
     for risk_key, group in risk_groups.items():
-        # For no_risk students, store IDs and count but no per-student dicts
         if risk_key == "no_risk":
             student_status[risk_key] = {
                 "student_ids": group.get("student_ids", []),
                 "count": group.get("count", 0),
                 "predicted_grade": group.get("predicted_grade", ""),
+                "per_student_grades": group.get("per_student_grades", {}),
                 "failure_risk": None,
             }
             continue
@@ -206,8 +214,9 @@ def build_student_status(tool_results):
             "count": group.get("count", 0),
             "common_grade_trend": _most_common(group.get("grade_trends", {}).values()),
             "common_assignment_type": _most_common_issue(
-                tool_results.get("student_results", []),
+                student_results,
                 group.get("student_ids", []),
+                tool_results,
             ),
             "predicted_grade": group.get("predicted_grade", ""),
             "failure_risk": group.get("failure_risk"),
@@ -225,7 +234,6 @@ def build_intervention(tool_results):
     atrisk_week = intervention_data.get("atrisk_approx_week")
     current_week = tool_results.get("current_week", 0)
 
-    # Case 1: Threshold not met yet
     if not tool_results.get("should_intervene"):
         result = {
             "no_intervention": {
@@ -239,7 +247,6 @@ def build_intervention(tool_results):
             result["no_intervention"]["recommendation"] = "monitor_only"
         return result
 
-    # Case 2: Threshold met but nobody is at risk
     intervention_plan = tool_results.get("intervention_plan", {})
     if not intervention_plan:
         return {
@@ -251,7 +258,6 @@ def build_intervention(tool_results):
             }
         }
 
-    # Case 3: Threshold met and students need intervention
     return intervention_plan
 
 
@@ -265,16 +271,21 @@ def _most_common(values):
     return counter.most_common(1)[0][0]
 
 
-def _most_common_issue(student_results, student_ids):
-    """Find the most common assignment type issue for a group of students."""
+def _most_common_issue(student_results, student_ids, tool_results):
+    """
+    Find the most common weak assignment type for a group of students.
+    Uses the weight-aware weak_assignment_type computed in tools.py.
+    """
     from collections import Counter
+
     issues = []
     for r in student_results:
-        if r["student_id"] in student_ids:
-            if r["missing_assignments_count"] > 0:
-                issues.append("homework")  # default; could be refined
-            elif r["failure_risk_reason"] == "academic_underpreparedness":
-                issues.append("homework")
+        if r["student_id"] not in student_ids:
+            continue
+        weak_type = r.get("weak_assignment_type", "none")
+        if weak_type != "none":
+            issues.append(weak_type)
+
     if not issues:
         return "none"
     return Counter(issues).most_common(1)[0][0]
@@ -293,12 +304,14 @@ def format_risk_groups_text(tool_results):
         grade = group.get("predicted_grade", "?")
         risk = group.get("failure_risk", "none")
         reasons = group.get("failure_risk_reasons", {})
+        weak_types = group.get("weak_assignment_types", {})
         missing = group.get("missing_assignments", {})
         lines.append(f"- {risk_key}: {len(sids)} students, predicted grade={grade}, risk={risk}")
         for sid in sids:
             reason = reasons.get(sid, "unknown")
+            weak = weak_types.get(sid, "none")
             miss = missing.get(sid, 0)
-            lines.append(f"    {sid}: reason={reason}, missing_assignments={miss}")
+            lines.append(f"    {sid}: reason={reason}, weak_area={weak}, missing_assignments={miss}")
     return "\n".join(lines) if lines else "No risk groups found."
 
 
@@ -311,6 +324,8 @@ def format_risk_details_text(tool_results):
         grade = group.get("predicted_grade", "?")
         risk = group.get("failure_risk", "none")
         reasons = group.get("failure_risk_reasons", {})
+        weak_types = group.get("weak_assignment_types", {})
+        weak_comps = group.get("weak_component_names", {})
         missing = group.get("missing_assignments", {})
         trends = group.get("grade_trends", {})
 
@@ -320,9 +335,11 @@ def format_risk_details_text(tool_results):
         lines.append(f"  Per-student breakdown:")
         for sid in sids:
             reason = reasons.get(sid, "unknown")
+            weak = weak_types.get(sid, "none")
+            comp = weak_comps.get(sid, "none")
             miss = missing.get(sid, 0)
             trend = trends.get(sid, "unknown")
-            lines.append(f"    - {sid}: reason={reason}, missing={miss}, trend={trend}")
+            lines.append(f"    - {sid}: reason={reason}, weak_area={weak}, weakest_assignment={comp}, missing={miss}, trend={trend}")
 
     return "\n".join(lines) if lines else "No flagged students."
 
@@ -501,7 +518,6 @@ def run_dialogue(client, db, grades_file):
 
     # Initialize
     log = []
-    belief_state = copy.deepcopy(EMPTY_BELIEF_STATE)
     tracker = StateTracker()
     all_validation_issues = []
 
@@ -516,7 +532,8 @@ def run_dialogue(client, db, grades_file):
         week=f"week_{current_week}",
         grades_file=grades_filename,
     )
-    user_turn = call_llm(client, AGENT_USER_MODEL, AGENT1_SYSTEM_PROMPT, agent1_prompt)
+    user_turn = call_llm(client, AGENT_USER_MODEL, AGENT1_SYSTEM_PROMPT, agent1_prompt,
+                         temperature=AGENT_USER_TEMPERATURE)
     log.append({"text": user_turn, "metadata": {}})
     print(f"  [User T1] {user_turn[:100]}...")
 
@@ -532,10 +549,12 @@ def run_dialogue(client, db, grades_file):
         student_count=student_count,
         current_week=current_week,
     )
-    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt)
+    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt,
+                               temperature=AGENT_SYSTEM_TEMPERATURE)
 
     # Fill belief state: class_context
-    belief_state["class_context"] = copy.deepcopy(bs_class_context)
+    tracker.update({"class_context": copy.deepcopy(bs_class_context)})
+    belief_state = tracker.get_state()
     issues = validate_belief_state(belief_state, tracker, "course_lookup")
     all_validation_issues.extend(issues)
     log.append({"text": system_response, "metadata": copy.deepcopy(belief_state)})
@@ -549,7 +568,9 @@ def run_dialogue(client, db, grades_file):
         AGENT1_FOLLOWUP_TEMPLATE.format(
             course_id=course_id,
             dialogue_history=format_dialogue_history(log),
+            next_topic=TOPIC_SUMMARY,
         ),
+        temperature=AGENT_USER_TEMPERATURE,
     )
     log.append({"text": user_turn, "metadata": {}})
     print(f"  [User T2] {user_turn[:100]}...")
@@ -565,11 +586,15 @@ def run_dialogue(client, db, grades_file):
         summary_scope=bs_class_summary["summary_scope"],
         risk_groups_text=format_risk_groups_text(tool_results),
     )
-    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt)
+    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt,
+                               temperature=AGENT_SYSTEM_TEMPERATURE)
 
     # Fill belief state: class_summary + student_status
-    belief_state["class_summary"] = copy.deepcopy(bs_class_summary)
-    belief_state["student_status"] = copy.deepcopy(bs_student_status)
+    tracker.update({
+        "class_summary": copy.deepcopy(bs_class_summary),
+        "student_status": copy.deepcopy(bs_student_status),
+    })
+    belief_state = tracker.get_state()
     issues = validate_belief_state(belief_state, tracker, "summary")
     all_validation_issues.extend(issues)
     log.append({"text": system_response, "metadata": copy.deepcopy(belief_state)})
@@ -583,7 +608,9 @@ def run_dialogue(client, db, grades_file):
         AGENT1_FOLLOWUP_TEMPLATE.format(
             course_id=course_id,
             dialogue_history=format_dialogue_history(log),
+            next_topic=TOPIC_RISK,
         ),
+        temperature=AGENT_USER_TEMPERATURE,
     )
     log.append({"text": user_turn, "metadata": {}})
     print(f"  [User T3] {user_turn[:100]}...")
@@ -593,10 +620,12 @@ def run_dialogue(client, db, grades_file):
         dialogue_history=format_dialogue_history(log),
         risk_details_text=format_risk_details_text(tool_results),
     )
-    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt)
+    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt,
+                               temperature=AGENT_SYSTEM_TEMPERATURE)
 
     # Fill belief state: student_query
-    belief_state["student_query"] = copy.deepcopy(bs_student_query)
+    tracker.update({"student_query": copy.deepcopy(bs_student_query)})
+    belief_state = tracker.get_state()
     issues = validate_belief_state(belief_state, tracker, "risk")
     all_validation_issues.extend(issues)
     log.append({"text": system_response, "metadata": copy.deepcopy(belief_state)})
@@ -610,7 +639,9 @@ def run_dialogue(client, db, grades_file):
         AGENT1_FOLLOWUP_TEMPLATE.format(
             course_id=course_id,
             dialogue_history=format_dialogue_history(log),
+            next_topic=TOPIC_INTERVENTION,
         ),
+        temperature=AGENT_USER_TEMPERATURE,
     )
     log.append({"text": user_turn, "metadata": {}})
     print(f"  [User T4] {user_turn[:100]}...")
@@ -624,10 +655,12 @@ def run_dialogue(client, db, grades_file):
         atrisk_week=atrisk_week,
         intervention_text=format_intervention_text(tool_results),
     )
-    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt)
+    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt,
+                               temperature=AGENT_SYSTEM_TEMPERATURE)
 
     # Fill belief state: intervention
-    belief_state["intervention"] = copy.deepcopy(bs_intervention)
+    tracker.update({"intervention": copy.deepcopy(bs_intervention)})
+    belief_state = tracker.get_state()
     issues = validate_belief_state(belief_state, tracker, "intervention")
     all_validation_issues.extend(issues)
     log.append({"text": system_response, "metadata": copy.deepcopy(belief_state)})
@@ -641,7 +674,9 @@ def run_dialogue(client, db, grades_file):
         AGENT1_FOLLOWUP_TEMPLATE.format(
             course_id=course_id,
             dialogue_history=format_dialogue_history(log),
+            next_topic=TOPIC_CLOSING,
         ),
+        temperature=AGENT_USER_TEMPERATURE,
     )
     log.append({"text": user_turn, "metadata": {}})
     print(f"  [User T5] {user_turn[:100]}...")
@@ -651,9 +686,11 @@ def run_dialogue(client, db, grades_file):
         dialogue_history=format_dialogue_history(log),
         user_message=user_turn,
     )
-    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt)
+    system_response = call_llm(client, AGENT_SYSTEM_MODEL, AGENT2_SYSTEM_PROMPT, system_prompt,
+                               temperature=AGENT_SYSTEM_TEMPERATURE)
 
     # Final belief state stays the same — no new info
+    belief_state = tracker.get_state()
     log.append({"text": system_response, "metadata": copy.deepcopy(belief_state)})
     print(f"  [Sys  T5] {system_response[:100]}...")
 
@@ -715,7 +752,6 @@ def main():
             result = run_dialogue(client, db, grades_file)
             if result:
                 total_validation_issues += len(result.get("validation_issues", []))
-                # Store dialogue without validation_issues (keep data.json clean)
                 all_dialogues[dlg_id] = {
                     "goal": result["goal"],
                     "log": result["log"],

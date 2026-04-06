@@ -4,4 +4,7 @@ data.json
 eval_results.json
 ground_truth.json
 logs/
-__pycache__/
+__pycache__/cs_db_oulad_uk.json
+studentVle.csv
+cs_db_oulad_vle.json
+cs_db_oulad_uk.json

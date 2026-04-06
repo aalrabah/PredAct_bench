@@ -1,36 +1,50 @@
 """
-PredAct Benchmark - Data Splitter
-Splits cs_db_original.json into:
-  1. cs_db.json         — historical knowledge base (80% of students per course)
-  2. logs/              — truncated test student records at varying week cutoffs
-  3. ground_truth.json  — full records of test students for evaluation
+PredAct Benchmark - Train/Test Splitter
+
+Splits cs_db.json into:
+  1. cs_db_train.json — historical students only (for matching)
+  2. logs/*.json — grade log files for unseen students (for prediction)
+  3. ground_truth.json — ground truth for evaluation
+
+The split ensures NO overlap between historical and unseen students.
+
+For each course, creates multiple dialogues at different cutoff weeks
+(early, mid, late) to test temporal generalization.
 
 Usage:
-    python split_data.py --input cs_db_original.json --output-dir .
+    python split_data.py --db cs_db.json --output-dir split_output/ --test-ratio 0.2 --seed 42
 """
 
 import json
 import os
-import argparse
 import random
-from collections import defaultdict
-from config import RISK_MAPPING
+import argparse
+import math
+from collections import defaultdict, Counter
 
 
-# Week cutoffs for temporal diversity
-CUTOFF_WEEKS = [3, 5, 7, 9, 11, 13]
+def get_student_max_week(student):
+    """Get the last week with data for a student."""
+    max_week = 0
+    for week_data in student.get("weeks", []):
+        if week_data["week"] > max_week:
+            max_week = week_data["week"]
+    return max_week
 
-# Train/test split ratio
-TRAIN_RATIO = 0.8
 
-# Random seed for reproducibility
-SEED = 42
+def get_student_components(student):
+    """Get all unique component names for a student."""
+    components = set()
+    for week_data in student.get("weeks", []):
+        for activity in week_data.get("activities", []):
+            components.add(activity["name"])
+    return components
 
 
-def truncate_student(student, cutoff_week):
+def truncate_student_to_week(student, cutoff_week):
     """
-    Remove all week data after cutoff_week.
-    Returns truncated student record (without final_grade).
+    Create a copy of the student record with only data up to cutoff_week.
+    This simulates what we'd know at that point in the semester.
     """
     truncated_weeks = []
     for week_data in student.get("weeks", []):
@@ -40,176 +54,294 @@ def truncate_student(student, cutoff_week):
     return {
         "student_id": student["student_id"],
         "weeks": truncated_weeks,
+        # NOTE: final_grade is NOT included in the truncated version
+        # (it's what we're trying to predict)
     }
 
 
-def split_data(input_path, output_dir):
-    """Run the full split pipeline."""
-    random.seed(SEED)
+def compute_cutoff_weeks(course_students, intervention_data):
+    """
+    Determine cutoff weeks for early/mid/late dialogues.
 
-    # Load original data
-    print(f"Loading {input_path}...")
-    with open(input_path, "r", encoding="utf-8") as f:
-        original_db = json.load(f)
+    Strategy:
+    - Find the overall week range from all students
+    - Early: ~15-20% through the course
+    - Mid: ~40-50% through
+    - Late: multiple points from 60% onward
 
-    print(f"  Found {len(original_db)} courses")
+    Also uses intervention week if available.
+    """
+    all_max_weeks = [get_student_max_week(s) for s in course_students]
+    if not all_max_weeks:
+        return []
 
-    # Output containers
-    historical_db = []
-    ground_truth = {}
-    dialogue_counter = 0
+    course_max_week = max(all_max_weeks)
+    if course_max_week < 4:
+        # Too short for meaningful splits
+        return [max(1, course_max_week)]
 
-    # Create logs directory
-    logs_dir = os.path.join(output_dir, "logs")
-    os.makedirs(logs_dir, exist_ok=True)
+    cutoffs = set()
 
-    stats = {
-        "total_courses": len(original_db),
-        "total_students": 0,
-        "historical_students": 0,
-        "test_students": 0,
-        "dialogues_created": 0,
+    # Early: week 2 or ~15% through
+    early = max(2, int(course_max_week * 0.15))
+    cutoffs.add(early)
+
+    # Mid: ~40% through
+    mid = max(early + 2, int(course_max_week * 0.40))
+    cutoffs.add(mid)
+
+    # Late: multiple points
+    for pct in [0.60, 0.75, 0.90]:
+        late = int(course_max_week * pct)
+        if late > mid:
+            cutoffs.add(late)
+
+    # Add intervention week if available
+    if intervention_data:
+        atrisk_week = intervention_data.get("atrisk_approx_week")
+        if atrisk_week and atrisk_week > early:
+            cutoffs.add(atrisk_week)
+
+    # Add a very late cutoff (near end)
+    final = max(cutoffs) + max(2, int(course_max_week * 0.1))
+    if final <= course_max_week:
+        cutoffs.add(final)
+
+    return sorted(cutoffs)
+
+
+def split_course(course_data, test_ratio, rng):
+    """
+    Split a single course's students into train and test sets.
+
+    Returns (train_students, test_students)
+    """
+    students = course_data.get("students", [])
+
+    # Filter students with valid grades
+    valid_students = [s for s in students if s.get("final_grade") not in (None, "unknown", "")]
+
+    if len(valid_students) < 10:
+        # Too few students — use all for training, no test
+        return valid_students, []
+
+    # Stratified split: maintain grade distribution
+    grade_groups = defaultdict(list)
+    for s in valid_students:
+        grade_groups[s["final_grade"]].append(s)
+
+    train = []
+    test = []
+
+    for grade, group in grade_groups.items():
+        rng.shuffle(group)
+        n_test = max(1, int(len(group) * test_ratio))
+
+        # Ensure at least some remain for training
+        if len(group) - n_test < 2:
+            n_test = max(0, len(group) - 2)
+
+        test.extend(group[:n_test])
+        train.extend(group[n_test:])
+
+    return train, test
+
+
+def build_grade_log(course_id, test_students, cutoff_week):
+    """
+    Build a grade log file for a batch of test students at a given cutoff week.
+    Each student's record is truncated to only include data up to cutoff_week.
+    """
+    truncated = []
+    for student in test_students:
+        # Only include students who have data at or before the cutoff
+        truncated_record = truncate_student_to_week(student, cutoff_week)
+        if truncated_record["weeks"]:  # has at least some data
+            truncated.append(truncated_record)
+
+    if not truncated:
+        return None
+
+    return {
+        "course_id": course_id,
+        "students": truncated,
     }
 
-    for course in original_db:
-        course_id = course["course_id"]
-        course_info = course.get("course_info", {})
-        intervention = course.get("intervention", None)
-        students = course.get("students", [])
 
-        stats["total_students"] += len(students)
+def build_ground_truth_entry(course_id, test_students, cutoff_week, dlg_id, intervention_data):
+    """
+    Build ground truth for one dialogue.
+    Format matches what evaluate.py expects:
+      - student_grades: dict {student_id: grade}
+      - intervention_triggered: bool
+      - cutoff_week: int
+      - course_id: str
+    """
+    student_grades = {}
+    full_student_records = {}
 
-        if len(students) < 5:
-            # Too few students to split meaningfully, keep all as historical
-            print(f"  {course_id}: only {len(students)} students, keeping all as historical")
-            historical_db.append(course)
-            stats["historical_students"] += len(students)
+    for student in test_students:
+        # Check student has data before cutoff
+        has_data = any(w["week"] <= cutoff_week for w in student.get("weeks", []))
+        if not has_data:
             continue
 
-        # Shuffle and split
-        shuffled = list(students)
-        random.shuffle(shuffled)
-
-        split_idx = max(1, int(len(shuffled) * TRAIN_RATIO))
-        train_students = shuffled[:split_idx]
-        test_students = shuffled[split_idx:]
-
-        # Ensure at least 1 test student
-        if not test_students:
-            test_students = [train_students.pop()]
-
-        print(f"  {course_id}: {len(train_students)} historical, {len(test_students)} test")
-        stats["historical_students"] += len(train_students)
-        stats["test_students"] += len(test_students)
-
-        # Add train students to historical db
-        historical_db.append({
-            "course_id": course_id,
-            "course_info": course_info,
-            "intervention": intervention,
-            "students": train_students,
-        })
-
-        # Create log files at each cutoff week
-        for cutoff in CUTOFF_WEEKS:
-            # Check if any test student has data at or before this cutoff
-            truncated_students = []
-            for student in test_students:
-                truncated = truncate_student(student, cutoff)
-                # Only include if they have at least 1 activity after truncation
-                if truncated["weeks"]:
-                    truncated_students.append(truncated)
-
-            if not truncated_students:
-                # No students have data at this cutoff, skip
-                continue
-
-            dialogue_counter += 1
-            dlg_id = f"DLG_{dialogue_counter:04d}"
-
-            # Write log file
-            log_data = {
-                "course_id": course_id,
-                "cutoff_week": cutoff,
-                "students": truncated_students,
-            }
-            log_path = os.path.join(logs_dir, f"{dlg_id}_grades.json")
-            with open(log_path, "w", encoding="utf-8") as f:
-                json.dump(log_data, f, indent=2, ensure_ascii=False)
-
-            # Add to ground truth
-            gt_students = {}
-            for student in test_students:
-                sid = student["student_id"]
-                # Check if this student was included in the truncated set
-                if any(t["student_id"] == sid for t in truncated_students):
-                    gt_students[sid] = {
-                        "final_grade": student.get("final_grade", "unknown"),
-                        "full_weeks": student.get("weeks", []),
-                    }
-
-            # Check if intervention should be triggered:
-            # 1. Course has intervention data
-            # 2. We're at or past the threshold week
-            # 3. At least one student's actual grade maps to a risk level
-            week_threshold_met = (
-                intervention is not None
-                and intervention.get("atrisk_approx_week") is not None
-                and cutoff >= intervention.get("atrisk_approx_week", 999)
-            )
-            has_at_risk_students = any(
-                RISK_MAPPING.get(info["final_grade"].lower()) is not None
-                for info in gt_students.values()
-            )
-
-            ground_truth[f"{dlg_id}.json"] = {
-                "course_id": course_id,
-                "cutoff_week": cutoff,
-                "student_grades": {
-                    sid: info["final_grade"]
-                    for sid, info in gt_students.items()
-                },
-                "full_student_records": gt_students,
-                "intervention_triggered": week_threshold_met and has_at_risk_students,
+        sid = student["student_id"]
+        grade = student.get("final_grade", "unknown")
+        if grade and grade != "unknown":
+            student_grades[sid] = grade.lower()
+            full_student_records[sid] = {
+                "final_grade": grade.lower(),
+                "full_weeks": student.get("weeks", []),
             }
 
-            stats["dialogues_created"] += 1
+    if not student_grades:
+        return None
 
-    # Write historical db
-    db_path = os.path.join(output_dir, "cs_db.json")
-    with open(db_path, "w", encoding="utf-8") as f:
-        json.dump(historical_db, f, indent=2, ensure_ascii=False)
-    print(f"\nWrote {db_path} ({stats['historical_students']} students)")
+    # Determine if intervention should be triggered at this cutoff
+    intervention_triggered = False
+    if intervention_data:
+        approx_week = intervention_data.get("atrisk_approx_week")
+        if approx_week is not None and cutoff_week >= approx_week:
+            intervention_triggered = True
 
-    # Write ground truth
-    gt_path = os.path.join(output_dir, "ground_truth.json")
-    with open(gt_path, "w", encoding="utf-8") as f:
-        json.dump(ground_truth, f, indent=2, ensure_ascii=False)
-    print(f"Wrote {gt_path} ({len(ground_truth)} dialogue entries)")
-
-    # Print summary
-    print(f"\n{'=' * 50}")
-    print(f"SPLIT SUMMARY")
-    print(f"{'=' * 50}")
-    print(f"  Total courses:      {stats['total_courses']}")
-    print(f"  Total students:     {stats['total_students']}")
-    print(f"  Historical (train): {stats['historical_students']}")
-    print(f"  Test (held out):    {stats['test_students']}")
-    print(f"  Dialogues created:  {stats['dialogues_created']}")
-    print(f"  Cutoff weeks used:  {CUTOFF_WEEKS}")
-    print(f"\nOutput files:")
-    print(f"  {db_path}")
-    print(f"  {gt_path}")
-    print(f"  {logs_dir}/ ({stats['dialogues_created']} files)")
+    return {
+        "course_id": course_id,
+        "cutoff_week": cutoff_week,
+        "student_grades": student_grades,
+        "full_student_records": full_student_records,
+        "intervention_triggered": intervention_triggered,
+    }
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Split cs_db into train/test")
-    parser.add_argument("--input", required=True, help="Path to original cs_db.json")
-    parser.add_argument("--output-dir", default=".", help="Output directory")
+    parser = argparse.ArgumentParser(description="Split PredAct data into train/test")
+    parser.add_argument("--db", required=True, help="Path to cs_db.json (combined UIUC + OULAD)")
+    parser.add_argument("--output-dir", default="split_output", help="Output directory")
+    parser.add_argument("--test-ratio", type=float, default=0.2, help="Fraction for test (default 0.2)")
+    parser.add_argument("--seed", type=int, default=42, help="Random seed")
     args = parser.parse_args()
 
-    split_data(args.input, args.output_dir)
+    rng = random.Random(args.seed)
+
+    # Load database
+    print(f"Loading {args.db}...")
+    with open(args.db, "r", encoding="utf-8") as f:
+        db = json.load(f)
+    print(f"  {len(db)} courses loaded")
+
+    # Create output directories
+    os.makedirs(args.output_dir, exist_ok=True)
+    logs_dir = os.path.join(args.output_dir, "logs")
+    os.makedirs(logs_dir, exist_ok=True)
+
+    # Process each course
+    train_db = []
+    all_ground_truth = {}
+    dlg_counter = 0
+    total_train = 0
+    total_test = 0
+
+    stats = {
+        "courses_with_test": 0,
+        "courses_skipped": 0,
+        "dialogues_created": 0,
+    }
+
+    for course_data in db:
+        course_id = course_data["course_id"]
+        intervention = course_data.get("intervention")
+
+        # Split students
+        train_students, test_students = split_course(course_data, args.test_ratio, rng)
+
+        total_train += len(train_students)
+        total_test += len(test_students)
+
+        # Build training DB entry (historical students only)
+        train_entry = {
+            "course_id": course_id,
+            "course_info": course_data.get("course_info", {}),
+            "intervention": intervention,
+            "students": train_students,
+        }
+        train_db.append(train_entry)
+
+        if not test_students:
+            stats["courses_skipped"] += 1
+            print(f"  {course_id}: {len(train_students)} train, 0 test (skipped)")
+            continue
+
+        stats["courses_with_test"] += 1
+
+        # Determine cutoff weeks
+        cutoff_weeks = compute_cutoff_weeks(test_students, intervention)
+
+        if not cutoff_weeks:
+            print(f"  {course_id}: {len(train_students)} train, {len(test_students)} test, no valid cutoffs")
+            continue
+
+        # Create grade log files at each cutoff
+        course_dlgs = 0
+        for cutoff_week in cutoff_weeks:
+            dlg_counter += 1
+            dlg_id = f"DLG_{dlg_counter:04d}.json"
+
+            # Build grade log (truncated student data)
+            grade_log = build_grade_log(course_id, test_students, cutoff_week)
+            if grade_log is None:
+                dlg_counter -= 1
+                continue
+
+            # Save grade log
+            log_filename = dlg_id.replace(".json", "_grades.json")
+            log_path = os.path.join(logs_dir, log_filename)
+            with open(log_path, "w", encoding="utf-8") as f:
+                json.dump(grade_log, f, indent=2, ensure_ascii=False)
+
+            # Build ground truth
+            gt = build_ground_truth_entry(course_id, test_students, cutoff_week, dlg_id, intervention)
+            if gt:
+                all_ground_truth[dlg_id] = gt
+
+            course_dlgs += 1
+            stats["dialogues_created"] += 1
+
+        print(f"  {course_id}: {len(train_students)} train, {len(test_students)} test, "
+              f"{len(cutoff_weeks)} cutoffs → {course_dlgs} dialogues")
+
+    # Save training DB
+    train_db_path = os.path.join(args.output_dir, "cs_db.json")
+    with open(train_db_path, "w", encoding="utf-8") as f:
+        json.dump(train_db, f, indent=2, ensure_ascii=False)
+
+    # Save ground truth
+    gt_path = os.path.join(args.output_dir, "ground_truth.json")
+    with open(gt_path, "w", encoding="utf-8") as f:
+        json.dump(all_ground_truth, f, indent=2, ensure_ascii=False)
+
+    # Print summary
+    print(f"\n{'='*60}")
+    print(f"SPLIT SUMMARY")
+    print(f"{'='*60}")
+    print(f"  Seed: {args.seed}")
+    print(f"  Test ratio: {args.test_ratio}")
+    print(f"  Total courses: {len(db)}")
+    print(f"  Courses with test data: {stats['courses_with_test']}")
+    print(f"  Courses skipped (too few): {stats['courses_skipped']}")
+    print(f"  Total train students: {total_train}")
+    print(f"  Total test students: {total_test}")
+    print(f"  Total dialogues: {stats['dialogues_created']}")
+    print(f"\nOutputs:")
+    print(f"  Training DB:    {train_db_path}")
+    print(f"  Grade logs:     {logs_dir}/ ({stats['dialogues_created']} files)")
+    print(f"  Ground truth:   {gt_path}")
+    print(f"\nUsage:")
+    print(f"  1. Point config.py CS_DB_PATH to: {train_db_path}")
+    print(f"  2. Point config.py LOGS_DIR to:   {logs_dir}")
+    print(f"  3. Run orchestrator.py")
+    print(f"  4. Evaluate with: python evaluate.py --ground-truth {gt_path}")
+
 
 if __name__ == "__main__":
     main()
