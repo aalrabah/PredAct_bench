@@ -92,10 +92,10 @@ DEFAULT_CONTACT_MODE = {
 # FILE PATHS
 # =============================================================================
 
-CS_DB_PATH = "uiuc_results/cs_db.json"
+CS_DB_PATH = "results/uiuc/cs_db.json"
 ONTOLOGY_PATH = "ontology.json"
-OUTPUT_DATA_PATH = "data.json"
-LOGS_DIR = "uiuc_results/logs/"
+OUTPUT_DATA_PATH = "results/uiuc/data.json"
+LOGS_DIR = "results/uiuc/logs/"
 
 # =============================================================================
 # EVALUATION
