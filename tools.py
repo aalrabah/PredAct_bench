@@ -813,3 +813,278 @@ def process_students(db, course_id, unseen_students):
         "risk_groups": risk_groups,
         "intervention_plan": intervention_plan,
     }
+
+    # =============================================================================
+# DRILL-DOWN TOOLS (for human study / Streamlit app)
+# =============================================================================
+
+def build_grades_lookup(grades_data):
+    """
+    Build a compact lookup of ALL students' per-assignment scores from a grades file.
+    Format: {student_id: {assignment_name: {score, weight, type, week}, ...}, ...}
+    """
+    if not grades_data:
+        return {}
+
+    if isinstance(grades_data, dict):
+        students = grades_data.get("students", [])
+    elif isinstance(grades_data, list):
+        students = grades_data
+    else:
+        return {}
+
+    lookup = {}
+    for student in students:
+        sid = student.get("student_id", "unknown")
+        scores = {}
+        for week_data in student.get("weeks", []):
+            week_num = week_data["week"]
+            for activity in week_data.get("activities", []):
+                name = activity.get("name", "unknown")
+                scores[name] = {
+                    "score": activity.get("score", None),
+                    "weight": activity.get("weight", 0.0),
+                    "type": activity.get("type", "unknown"),
+                    "week": week_num,
+                }
+        lookup[sid] = scores
+
+    return lookup
+
+
+def get_student_grades(student_id, grades_lookup):
+    """
+    Get a student's full grade record with weighted average.
+    """
+    if student_id not in grades_lookup:
+        return {"error": f"Student {student_id} not found."}
+
+    scores = grades_lookup[student_id]
+    total_weighted = 0.0
+    total_weight = 0.0
+
+    assignments = []
+    for name, info in sorted(scores.items(), key=lambda x: x[1].get("week", 0)):
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
+        assignments.append({
+            "name": name,
+            "score": score,
+            "weight": round(weight, 4),
+            "type": info.get("type", "unknown"),
+            "week": info.get("week", 0),
+        })
+        if score is not None and weight > 0:
+            total_weighted += score * weight
+            total_weight += weight
+
+    weighted_avg = round(total_weighted / total_weight, 2) if total_weight > 0 else None
+
+    return {
+        "student_id": student_id,
+        "assignments": assignments,
+        "weighted_average": weighted_avg,
+        "total_weight_covered": round(total_weight, 4),
+    }
+
+
+def recalculate_grade(student_id, grades_lookup, drop=None, override=None):
+    """
+    Recalculate a student's weighted average with modifications.
+
+    Args:
+        drop: list of assignment names to exclude (e.g. ["Quiz 1"])
+        override: dict of {assignment_name: new_score} (e.g. {"HW 3": 75})
+    """
+    if student_id not in grades_lookup:
+        return {"error": f"Student {student_id} not found."}
+
+    drop = drop or []
+    override = override or {}
+    scores = grades_lookup[student_id]
+
+    original_weighted = 0.0
+    original_weight = 0.0
+    new_weighted = 0.0
+    new_weight = 0.0
+    changes = []
+
+    for name, info in scores.items():
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
+
+        if score is not None and weight > 0:
+            original_weighted += score * weight
+            original_weight += weight
+
+        if name in drop:
+            changes.append({"assignment": name, "action": "dropped", "original_score": score})
+            continue
+
+        if name in override:
+            new_score = override[name]
+            changes.append({
+                "assignment": name,
+                "action": "overridden",
+                "original_score": score,
+                "new_score": new_score,
+            })
+            if weight > 0:
+                new_weighted += new_score * weight
+                new_weight += weight
+        else:
+            if score is not None and weight > 0:
+                new_weighted += score * weight
+                new_weight += weight
+
+    original_avg = round(original_weighted / original_weight, 2) if original_weight > 0 else None
+    new_avg = round(new_weighted / new_weight, 2) if new_weight > 0 else None
+
+    return {
+        "student_id": student_id,
+        "original_weighted_average": original_avg,
+        "recalculated_weighted_average": new_avg,
+        "difference": round(new_avg - original_avg, 2) if original_avg and new_avg else None,
+        "changes": changes,
+    }
+
+
+def get_assignment_stats(assignment_name, grades_lookup):
+    """
+    Get class-wide statistics for a specific assignment.
+    """
+    scores = []
+    for sid, student_scores in grades_lookup.items():
+        if assignment_name in student_scores:
+            score = student_scores[assignment_name].get("score")
+            if score is not None:
+                scores.append(score)
+
+    if not scores:
+        return {"error": f"Assignment '{assignment_name}' not found or no scores available."}
+
+    avg = round(sum(scores) / len(scores), 2)
+    min_score = round(min(scores), 2)
+    max_score = round(max(scores), 2)
+
+    buckets = {"90-100": 0, "80-89": 0, "70-79": 0, "60-69": 0, "below_60": 0}
+    for s in scores:
+        if s >= 90:
+            buckets["90-100"] += 1
+        elif s >= 80:
+            buckets["80-89"] += 1
+        elif s >= 70:
+            buckets["70-79"] += 1
+        elif s >= 60:
+            buckets["60-69"] += 1
+        else:
+            buckets["below_60"] += 1
+
+    return {
+        "assignment": assignment_name,
+        "student_count": len(scores),
+        "average": avg,
+        "min": min_score,
+        "max": max_score,
+        "distribution": buckets,
+    }
+
+
+def filter_students(assignment_name, threshold, grades_lookup, direction="below"):
+    """
+    Find students who scored below (or above) a threshold on a specific assignment.
+    """
+    matches = []
+    for sid, student_scores in grades_lookup.items():
+        if assignment_name not in student_scores:
+            continue
+        score = student_scores[assignment_name].get("score")
+        if score is None:
+            continue
+
+        if direction == "below" and score < threshold:
+            matches.append({"student_id": sid, "score": round(score, 2)})
+        elif direction == "above" and score > threshold:
+            matches.append({"student_id": sid, "score": round(score, 2)})
+
+    matches.sort(key=lambda x: x["score"], reverse=(direction == "above"))
+
+    return {
+        "assignment": assignment_name,
+        "threshold": threshold,
+        "direction": direction,
+        "count": len(matches),
+        "students": matches,
+    }
+
+
+def minimum_score_needed(student_id, target_grade, grades_lookup):
+    """
+    Calculate the minimum score needed on remaining assignments to reach a target grade.
+    """
+    grade_thresholds = {"a": 90, "b": 80, "c": 70, "d": 60}
+    target_threshold = grade_thresholds.get(target_grade.lower())
+    if target_threshold is None:
+        return {"error": f"Invalid target grade: {target_grade}. Use a, b, c, or d."}
+
+    if student_id not in grades_lookup:
+        return {"error": f"Student {student_id} not found."}
+
+    scores = grades_lookup[student_id]
+
+    current_weighted = 0.0
+    current_weight = 0.0
+    remaining_weight = 0.0
+    remaining_names = []
+
+    for name, info in scores.items():
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
+        if score is not None and weight > 0:
+            current_weighted += score * weight
+            current_weight += weight
+        elif score is None and weight > 0:
+            remaining_weight += weight
+            remaining_names.append(name)
+
+    total_weight = current_weight + remaining_weight
+    if total_weight <= 0 or remaining_weight <= 0:
+        return {
+            "student_id": student_id,
+            "error": "No remaining assignments with weight found.",
+            "current_weighted_average": round(current_weighted / current_weight, 2) if current_weight > 0 else None,
+        }
+
+    needed_score = (target_threshold * total_weight - current_weighted) / remaining_weight
+    needed_score = round(needed_score, 2)
+
+    return {
+        "student_id": student_id,
+        "target_grade": target_grade.upper(),
+        "target_threshold": target_threshold,
+        "current_weighted_average": round(current_weighted / current_weight, 2) if current_weight > 0 else None,
+        "current_weight_covered": round(current_weight, 4),
+        "remaining_weight": round(remaining_weight, 4),
+        "remaining_assignments": remaining_names,
+        "minimum_score_needed": needed_score,
+        "achievable": needed_score <= 100,
+    }
+
+
+def list_all_assignments(grades_lookup):
+    """
+    List all unique assignments across all students with their types and weights.
+    """
+    assignments = {}
+    for sid, student_scores in grades_lookup.items():
+        for name, info in student_scores.items():
+            if name not in assignments:
+                assignments[name] = {
+                    "name": name,
+                    "type": info.get("type", "unknown"),
+                    "weight": info.get("weight", 0.0),
+                    "week": info.get("week", 0),
+                }
+
+    sorted_assignments = sorted(assignments.values(), key=lambda x: x["week"])
+    return {"assignments": sorted_assignments, "count": len(sorted_assignments)}

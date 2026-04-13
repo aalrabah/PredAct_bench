@@ -1,0 +1,12 @@
+{
+  "participant": {
+    "name": "Abdul",
+    "email": "aalrabah1@gmail.com"
+  },
+  "task_id": "task_1",
+  "start_time": "2026-04-13T05:35:18.773034",
+  "end_time": "2026-04-13T05:35:37.004243",
+  "duration_seconds": 18,
+  "num_turns": 0,
+  "messages": []
+}

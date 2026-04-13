@@ -1,11 +1,14 @@
 """
 PredAct - Map Synthetic Students to Real Students
-Maps synthetic flagged student IDs to real student SQL submission data.
-Enriches the report with mapped SQL submissions AND quiz reference data
-(questions, correct solutions, concept tags).
+Enriches the report with:
+  - Full grade records for each flagged student (always, from grades lookup)
+  - Mapped SQL submissions + quiz reference data (optional, if student-data and quizzes provided)
 
-Usage:
-    python map_students.py --report CS-411/reports/week5_report.json --student-data CS-411/flagged_students/week5_flagged_students.json --quizzes CS-411/assignments/ --output CS-411/reports/week5_report_enriched.json
+Usage (with SQL data — e.g. week 5):
+    python map_students.py --report CS-411/reports/week5_report.json --grades CS-411/reports/week5_grades_lookup.json --student-data CS-411/flagged_students/week5_flagged_students.json --quizzes CS-411/assignments/ --output CS-411/reports/week5_report_enriched.json
+
+Usage (grades only — e.g. week 8):
+    python map_students.py --report CS-411/reports/week8_report.json --grades CS-411/reports/week8_grades_lookup.json --output CS-411/reports/week8_report_enriched.json
 """
 
 import json
@@ -31,6 +34,9 @@ def load_quizzes(quizzes_dir):
     Returns a lookup: sql_qN -> {question_id, quiz, text, correct_solution, concept_tags}
     """
     questions = {}
+    if not quizzes_dir or not os.path.exists(quizzes_dir):
+        return questions
+
     quiz_files = glob.glob(os.path.join(quizzes_dir, "quiz_*.json"))
 
     for quiz_file in sorted(quiz_files):
@@ -39,7 +45,6 @@ def load_quizzes(quizzes_dir):
 
         for q in quiz.get("questions", []):
             qid = q["question_id"]
-            # Convert Q5 -> sql_q5, Q11 -> sql_q11
             key = f"sql_q{qid[1:]}"
             questions[key] = {
                 "question_id": qid,
@@ -119,7 +124,6 @@ def build_sql_summary(real_student, questions_lookup):
             "submissions": qdata.get("submissions", []),
         }
 
-        # Attach quiz reference data
         if question_id in questions_lookup:
             ref = questions_lookup[question_id]
             entry["question_text"] = ref["text"]
@@ -131,13 +135,51 @@ def build_sql_summary(real_student, questions_lookup):
     return summary
 
 
-def enrich_report(report, mapping, real_students_lookup, questions_lookup):
+def build_grade_record(student_id, grades_lookup):
     """
-    Add SQL submission data and quiz reference to each flagged student in the report.
-    Also adds the full quiz reference to the report for system-level access.
+    Build a full grade record for a student from the grades lookup.
+    Returns assignments list sorted by week + weighted average.
     """
-    # Add quiz reference at report level
-    report["quiz_reference"] = questions_lookup
+    if not grades_lookup or student_id not in grades_lookup:
+        return None
+
+    scores = grades_lookup[student_id]
+    total_weighted = 0.0
+    total_weight = 0.0
+
+    assignments = []
+    for name, info in sorted(scores.items(), key=lambda x: x[1].get("week", 0)):
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
+        assignments.append({
+            "name": name,
+            "score": score,
+            "weight": round(weight, 4),
+            "type": info.get("type", "unknown"),
+            "week": info.get("week", 0),
+        })
+        if score is not None and weight > 0:
+            total_weighted += score * weight
+            total_weight += weight
+
+    weighted_avg = round(total_weighted / total_weight, 2) if total_weight > 0 else None
+
+    return {
+        "assignments": assignments,
+        "weighted_average": weighted_avg,
+        "total_weight_covered": round(total_weight, 4),
+    }
+
+
+def enrich_report(report, grades_lookup, mapping=None, real_students_lookup=None, questions_lookup=None):
+    """
+    Add to each flagged student:
+      - Full grade record (always, from grades lookup)
+      - SQL submission data + quiz reference (optional, if mapping and real data provided)
+    """
+    # Add quiz reference at report level if available
+    if questions_lookup:
+        report["quiz_reference"] = questions_lookup
 
     # Enrich each flagged student
     for risk_key, group in report.get("risk_groups", {}).items():
@@ -146,69 +188,99 @@ def enrich_report(report, mapping, real_students_lookup, questions_lookup):
 
         for student in group.get("students", []):
             sid = student["student_id"]
-            if sid not in mapping:
-                continue
 
-            real_id = mapping[sid]["real_student_id"]
-            real_student = real_students_lookup.get(real_id)
-            if not real_student:
-                continue
+            # Always add grade record
+            grade_record = build_grade_record(sid, grades_lookup)
+            if grade_record:
+                student["grade_record"] = grade_record
 
-            student["mapped_real_student"] = real_id
-            student["sql_submissions"] = build_sql_summary(real_student, questions_lookup)
+            # Add SQL submissions if mapping exists
+            if mapping and sid in mapping and real_students_lookup and questions_lookup:
+                real_id = mapping[sid]["real_student_id"]
+                real_student = real_students_lookup.get(real_id)
+
+                student["mapped_real_student"] = real_id
+
+                if real_student:
+                    student["sql_submissions"] = build_sql_summary(real_student, questions_lookup)
 
     return report
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Map synthetic to real students and enrich report")
+    parser = argparse.ArgumentParser(description="Enrich report with grade records and optionally SQL submissions")
     parser.add_argument("--report", required=True, help="Path to report JSON")
-    parser.add_argument("--student-data", required=True, help="Path to week5_flagged_students.json")
-    parser.add_argument("--quizzes", required=True, help="Path to assignments directory with quiz JSONs")
+    parser.add_argument("--grades", required=True, help="Path to grades lookup JSON (all students)")
+    parser.add_argument("--student-data", default=None, help="Optional: path to flagged student SQL submissions")
+    parser.add_argument("--quizzes", default=None, help="Optional: path to assignments directory with quiz JSONs")
     parser.add_argument("--output", required=True, help="Output path for enriched report")
     parser.add_argument("--save-mapping", default=None, help="Optional: save mapping to JSON")
     args = parser.parse_args()
 
-    # Load data
+    # Load required data
     report = load_json(args.report)
-    student_data = load_json(args.student_data)
+    grades_lookup = load_json(args.grades)
+    print(f"Loaded grades for {len(grades_lookup)} students")
 
-    # Load quiz data
-    questions_lookup = load_quizzes(args.quizzes)
-    print(f"Loaded {len(questions_lookup)} questions from quizzes:")
-    for key, q in questions_lookup.items():
-        print(f"  {key} ({q['quiz']}): {q['concept_tags']}")
-
-    # Get flagged synthetic students ordered by risk
+    # Get flagged students
     flagged_synthetic = get_flagged_students_from_report(report)
     print(f"\nFound {len(flagged_synthetic)} flagged synthetic students:")
     for s in flagged_synthetic:
-        print(f"  {s['student_id']} ({s['risk_key']}, grade={s['predicted_grade']})")
+        sid = s['student_id']
+        in_grades = sid in grades_lookup
+        print(f"  {sid} ({s['risk_key']}, grade={s['predicted_grade']}) — in grades: {in_grades}")
 
-    # Rank real students by error count
-    ranked_real = rank_real_students(student_data)
-    print(f"\nTop {len(flagged_synthetic)} real students by false submissions:")
-    for r in ranked_real[:len(flagged_synthetic)]:
-        print(f"  {r['student_id']}: {r['total_false_submissions']} wrong submissions")
+    # Load optional SQL data
+    mapping = None
+    real_lookup = None
+    questions_lookup = None
 
-    # Build mapping
-    mapping = build_mapping(flagged_synthetic, ranked_real)
-    print(f"\nMapping:")
-    for syn_id, info in mapping.items():
-        print(f"  {syn_id} ({info['risk_key']}) -> {info['real_student_id']} ({info['total_false_submissions']} errors)")
+    if args.student_data and os.path.exists(args.student_data):
+        student_data = load_json(args.student_data)
+        print(f"\nLoaded {len(student_data)} real student SQL records")
 
-    # Build real student lookup
-    real_lookup = {s["student_id"]: s for s in student_data}
+        # Load quiz data
+        questions_lookup = load_quizzes(args.quizzes)
+        if questions_lookup:
+            print(f"Loaded {len(questions_lookup)} questions from quizzes:")
+            for key, q in questions_lookup.items():
+                print(f"  {key} ({q['quiz']}): {q['concept_tags']}")
+
+        # Rank and map
+        ranked_real = rank_real_students(student_data)
+        print(f"\nTop {len(flagged_synthetic)} real students by false submissions:")
+        for r in ranked_real[:len(flagged_synthetic)]:
+            print(f"  {r['student_id']}: {r['total_false_submissions']} wrong submissions")
+
+        mapping = build_mapping(flagged_synthetic, ranked_real)
+        print(f"\nMapping:")
+        for syn_id, info in mapping.items():
+            print(f"  {syn_id} ({info['risk_key']}) -> {info['real_student_id']} ({info['total_false_submissions']} errors)")
+
+        real_lookup = {s["student_id"]: s for s in student_data}
+    else:
+        print("\nNo SQL submission data provided — enriching with grades only")
 
     # Enrich report
-    enriched = enrich_report(report, mapping, real_lookup, questions_lookup)
+    enriched = enrich_report(report, grades_lookup, mapping, real_lookup, questions_lookup)
 
-    # Save enriched report
+    # Verify
+    print(f"\nVerification:")
+    for risk_key, group in enriched.get("risk_groups", {}).items():
+        if risk_key == "no_risk":
+            continue
+        for student in group.get("students", []):
+            sid = student["student_id"]
+            has_grades = "grade_record" in student
+            has_sql = "sql_submissions" in student
+            avg = student.get("grade_record", {}).get("weighted_average", "N/A")
+            print(f"  {sid}: grades={has_grades} (avg={avg}), sql={has_sql}")
+
+    # Save
     save_json(enriched, args.output)
     print(f"\nEnriched report saved to {args.output}")
 
-    # Save mapping if requested
-    if args.save_mapping:
+    if args.save_mapping and mapping:
         save_json(mapping, args.save_mapping)
         print(f"Mapping saved to {args.save_mapping}")
 

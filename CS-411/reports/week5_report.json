@@ -1,93 +1,68 @@
 {
-  "dialogue_id": "DLG_0072.json",
+  "dialogue_id": "DLG_0075.json",
   "class_overview": {
     "course_name": "CS 411",
     "course_department": "cs",
     "course_level": "400",
     "term": "fall",
     "week": "week_5",
-    "total_students": 944,
+    "total_students": 940,
     "average_gpa": 3.96,
     "grade_trend": "stable",
     "common_issue": "quiz",
-    "flagged_student_count": 7
+    "flagged_student_count": 6
   },
   "risk_groups": {
     "no_risk": {
-      "count": 937,
+      "count": 934,
       "predicted_grade": "a"
     },
     "medium_risk": {
-      "count": 2,
+      "count": 6,
       "predicted_grade": "c",
       "failure_risk": "medium",
       "common_grade_trend": "improving",
-      "common_assignment_type": "homework",
-      "students": [
-        {
-          "student_id": "syn_029121",
-          "predicted_grade": "c",
-          "failure_risk": "medium",
-          "failure_risk_reason": "low_weighted_scores",
-          "missing_assignments": 0
-        },
-        {
-          "student_id": "syn_029156",
-          "predicted_grade": "c",
-          "failure_risk": "medium",
-          "failure_risk_reason": "low_weighted_scores",
-          "missing_assignments": 0
-        }
-      ]
-    },
-    "unknown_risk": {
-      "count": 4,
-      "predicted_grade": "unknown",
-      "failure_risk": "unknown",
-      "common_grade_trend": "declining",
       "common_assignment_type": "quiz",
       "students": [
         {
-          "student_id": "syn_029329",
-          "predicted_grade": "unknown",
-          "failure_risk": "unknown",
+          "student_id": "syn_026741",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
           "failure_risk_reason": "low_weighted_scores",
           "missing_assignments": 0
         },
         {
-          "student_id": "syn_028808",
-          "predicted_grade": "unknown",
-          "failure_risk": "unknown",
+          "student_id": "syn_028965",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
           "failure_risk_reason": "low_weighted_scores",
           "missing_assignments": 0
         },
         {
-          "student_id": "syn_029305",
-          "predicted_grade": "unknown",
-          "failure_risk": "unknown",
+          "student_id": "syn_028852",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
           "failure_risk_reason": "low_weighted_scores",
           "missing_assignments": 0
         },
         {
-          "student_id": "syn_025777",
-          "predicted_grade": "unknown",
-          "failure_risk": "unknown",
+          "student_id": "syn_028996",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
           "failure_risk_reason": "low_weighted_scores",
           "missing_assignments": 0
-        }
-      ]
-    },
-    "critical_risk": {
-      "count": 1,
-      "predicted_grade": "f",
-      "failure_risk": "critical",
-      "common_grade_trend": "declining",
-      "common_assignment_type": "unknown",
-      "students": [
+        },
         {
-          "student_id": "syn_029261",
-          "predicted_grade": "f",
-          "failure_risk": "critical",
+          "student_id": "syn_029282",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
+          "failure_risk_reason": "low_weighted_scores",
+          "missing_assignments": 0
+        },
+        {
+          "student_id": "syn_029300",
+          "predicted_grade": "c",
+          "failure_risk": "medium",
           "failure_risk_reason": "low_weighted_scores",
           "missing_assignments": 0
         }
@@ -97,7 +72,7 @@
   "intervention": {
     "no_intervention": {
       "reason": "below_threshold",
-      "flagged_student_count": 7,
+      "flagged_student_count": 6,
       "current_week": 5,
       "atrisk_approx_week": 8,
       "recommendation": "monitor_only"

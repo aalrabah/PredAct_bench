@@ -1,0 +1,26 @@
+{
+  "participant": {
+    "name": "Abdul",
+    "email": "aalrabah1@gmail.com"
+  },
+  "timestamp": "2026-04-13T05:35:50.923278",
+  "likert_responses": {
+    "q1": 2,
+    "q2": 4,
+    "q3": 4,
+    "q4": 4,
+    "q5": 4,
+    "q6": 4,
+    "q7": 4
+  },
+  "questions": {
+    "q1": "The system helped me understand which students need attention.",
+    "q2": "The grade predictions were trustworthy.",
+    "q3": "The drill-down tools were useful for investigation.",
+    "q4": "I could find the information I needed.",
+    "q5": "I would use this system in my own course.",
+    "q6": "The system saved me time compared to checking a spreadsheet.",
+    "q7": "I felt confident making intervention decisions based on this system."
+  },
+  "open_feedback": ""
+}

@@ -1,28 +1,30 @@
 """
 PredAct - Report Extractor
-Extracts a clean report JSON from a dialogue entry in data.json,
-optionally enriched with flagged student SQL submission data.
+Extracts a clean report JSON from a dialogue entry in data.json.
+Also builds a student grades lookup from the grades log file
+so the system can answer questions about ANY student.
+
+Outputs:
+  1. Report JSON (class overview, risk groups, intervention)
+  2. Grades lookup JSON (all students' per-assignment scores)
 
 Usage:
-    python extract_report.py --data results/uiuc/data_test.json --dlg DLG_0072.json --student-data CS-411/flagged_students/week5_flagged_students.json --output CS-411/reports/week5_report.json
+    python extract_report.py --data results/uiuc/data_test.json --dlg DLG_0072.json --grades results/uiuc/logs/DLG_0072_grades.json --output CS-411/reports/week5_report.json
 """
 
 import json
 import argparse
 import os
+import sys
+
+# Add parent dir so we can import tools
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tools import build_grades_lookup
 
 
-def extract_report(data, dlg_id, student_data=None):
+def extract_report(data, dlg_id):
     """
     Extract a structured report from a dialogue entry.
-
-    Args:
-        data: full data.json dict
-        dlg_id: dialogue ID (e.g. "DLG_0072.json")
-        student_data: optional list of flagged student SQL submissions
-
-    Returns:
-        clean report dict
     """
     if dlg_id not in data:
         print(f"ERROR: {dlg_id} not found in data")
@@ -89,13 +91,6 @@ def extract_report(data, dlg_id, student_data=None):
                 "failure_risk_reason": reasons.get(sid, "unknown"),
                 "missing_assignments": missing.get(sid, 0),
             }
-
-            # Enrich with SQL submission data if available
-            if student_data:
-                sql_match = _find_student_sql_data(sid, student_data)
-                if sql_match:
-                    student_entry["sql_submissions"] = sql_match
-
             flagged_details.append(student_entry)
 
         report["risk_groups"][risk_key] = {
@@ -110,32 +105,11 @@ def extract_report(data, dlg_id, student_data=None):
     return report
 
 
-def _find_student_sql_data(synthetic_id, student_data):
-    """
-    Find SQL submission data for a synthetic student ID.
-    Uses position-based mapping: first flagged synthetic ID maps to
-    first real student in student_data, etc.
-
-    This is a placeholder — the real mapping file will be created next.
-    Returns None if no mapping exists yet.
-    """
-    # For now, return None. Mapping will be added later.
-    return None
-
-
-def load_student_data(path):
-    """Load flagged student SQL submission data."""
-    if not path or not os.path.exists(path):
-        return None
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
 def main():
     parser = argparse.ArgumentParser(description="Extract PredAct report from dialogue")
     parser.add_argument("--data", required=True, help="Path to data.json")
     parser.add_argument("--dlg", required=True, help="Dialogue ID (e.g. DLG_0072.json)")
-    parser.add_argument("--student-data", default=None, help="Path to flagged student SQL data")
+    parser.add_argument("--grades", default=None, help="Path to grades log file (e.g. DLG_0072_grades.json)")
     parser.add_argument("--output", default=None, help="Output path for report JSON")
     args = parser.parse_args()
 
@@ -144,15 +118,29 @@ def main():
     with open(args.data, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Load student data if provided
-    student_data = load_student_data(args.student_data)
-    if student_data:
-        print(f"Loaded {len(student_data)} flagged student records")
-
     # Extract report
-    report = extract_report(data, args.dlg, student_data)
+    report = extract_report(data, args.dlg)
     if report is None:
         return
+
+    # Build and save grades lookup if grades file provided
+    if args.grades and os.path.exists(args.grades):
+        print(f"Loading grades from {args.grades}...")
+        with open(args.grades, "r", encoding="utf-8") as f:
+            grades_data = json.load(f)
+
+        grades_lookup = build_grades_lookup(grades_data)
+        print(f"Built grades lookup for {len(grades_lookup)} students")
+
+        # Save grades lookup alongside the report
+        if args.output:
+            grades_output = args.output.replace("_report.json", "_grades_lookup.json")
+            os.makedirs(os.path.dirname(grades_output), exist_ok=True)
+            with open(grades_output, "w", encoding="utf-8") as f:
+                json.dump(grades_lookup, f, indent=2, ensure_ascii=False)
+            print(f"Grades lookup saved to {grades_output}")
+    else:
+        print("No grades file provided — grades lookup not built")
 
     # Print summary
     overview = report["class_overview"]
@@ -174,7 +162,7 @@ def main():
 
     print(f"\n  Intervention: {list(report['intervention'].keys())}")
 
-    # Save if output specified
+    # Save report
     if args.output:
         os.makedirs(os.path.dirname(args.output), exist_ok=True)
         with open(args.output, "w", encoding="utf-8") as f:
