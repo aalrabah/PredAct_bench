@@ -9,6 +9,16 @@ V7 — Base: V6
              Fallback to V6 k-NN only when no graded work available.
      Safety: UIUC path identical to V6. OULAD detected via department=="oulad".
      Result: 71.9% → 86.4% on 20 dialogues (+14.5%).
+
+V8 — Base: V7
+     Added for human study (per-student, on-demand tools):
+       - predict_final_grade_for_student(student_id, course_id, up_to_week, feature_set)
+           Per-student k-NN prediction. Supports feature sets "minimal" and "full"
+           which naturally land around 60% and 85% accuracy depending on week.
+       - suggest_intervention_for_student(student_id, grades_lookup)
+           Returns a dict with student profile + a prompt string. Caller handles
+           the actual LLM call. No ML training, no fake probabilities.
+     Everything else is unchanged.
 """
 
 import json
@@ -814,7 +824,303 @@ def process_students(db, course_id, unseen_students):
         "intervention_plan": intervention_plan,
     }
 
-    # =============================================================================
+
+# =============================================================================
+# V8 HUMAN STUDY TOOLS (per-student, on-demand)
+# =============================================================================
+
+def _truncate_student_to_week(student_record, up_to_week):
+    """Return a copy of the student with only data up through up_to_week."""
+    if up_to_week is None:
+        return student_record
+    truncated_weeks = [
+        w for w in student_record.get("weeks", []) if w["week"] <= up_to_week
+    ]
+    return {
+        "student_id": student_record.get("student_id", "unknown"),
+        "weeks": truncated_weeks,
+        "final_grade": student_record.get("final_grade"),
+    }
+
+
+def _filter_scores_by_feature_set(scores, syllabus, feature_set):
+    """
+    Apply a feature set filter to a score dict.
+
+    Feature sets:
+      - "minimal": keep graded assignments only (drop engagement/participation);
+                   used for noisy-tool condition (paired with early weeks → ~60%)
+      - "full":    keep everything; used for clean-tool condition
+                   (paired with late weeks → ~85%)
+    """
+    if feature_set == "full":
+        return dict(scores)
+
+    if feature_set == "minimal":
+        # Keep only non-engagement, non-participation components with real weight
+        allowed = set()
+        for comp in syllabus:
+            atype = comp.get("type", "unknown")
+            if atype in ("participation",):
+                continue
+            if atype in ("unknown",):
+                continue
+            allowed.add(comp["name"])
+        return {name: score for name, score in scores.items() if name in allowed}
+
+    # Unknown feature set → fall back to full
+    return dict(scores)
+
+
+def predict_final_grade_for_student(
+    db,
+    course_id,
+    student_record,
+    up_to_week=None,
+    feature_set="full",
+):
+    """
+    Per-student, on-demand grade prediction for the human study.
+
+    Same k-NN algorithm as process_students(), but:
+      - Runs on ONE student at a time
+      - Truncates data to `up_to_week`
+      - Applies `feature_set` ("minimal" or "full")
+
+    The SAME k-NN is used for both operating points. The accuracy difference
+    comes from the data we feed in, not from changing the algorithm.
+
+    Returns:
+      {
+        "student_id": str,
+        "predicted_grade": "a" | "b" | "c" | "d" | "f" | "unknown",
+        "confidence": float,
+        "failure_risk": None | "medium" | "high" | "critical",
+        "up_to_week": int,
+        "feature_set": str,
+        "match_count": int,
+        "grade_distribution": dict,
+      }
+    """
+    course_info, intervention_data, historical_students = lookup_course(db, course_id)
+    if course_info is None:
+        return {"error": f"Course {course_id} not found in database"}
+
+    # Truncate student to the requested week
+    student = _truncate_student_to_week(student_record, up_to_week)
+    sid = student.get("student_id", "unknown")
+
+    # Build syllabus up to that week
+    syllabus = get_syllabus(historical_students, up_to_week=up_to_week)
+    learned_thresholds = learn_grade_thresholds(historical_students, syllabus)
+    adaptive_tol = compute_adaptive_tolerance(historical_students, syllabus)
+
+    is_oulad = course_info.get("department") == "oulad"
+
+    # Extract scores, apply feature-set filter
+    scores, weight_covered, max_week = extract_scores(student)
+    graded_scores, _, _ = extract_graded_scores(student)
+
+    scores = _filter_scores_by_feature_set(scores, syllabus, feature_set)
+    graded_scores = _filter_scores_by_feature_set(graded_scores, syllabus, feature_set)
+
+    has_vle = detect_vle_data(historical_students) and feature_set == "full"
+    hist_engagements = None
+    hist_eng_scores = None
+    if has_vle:
+        hist_engagements = build_engagement_distribution(historical_students)
+        hist_eng_scores = [
+            normalize_engagement(eng, hist_engagements) for eng in hist_engagements
+        ]
+
+    predicted_grade = None
+    confidence = 0.0
+    distribution = {}
+    match_count = 0
+
+    # OULAD: UK threshold first
+    if is_oulad:
+        weighted_score, _ = compute_weighted_score(scores, syllabus)
+        threshold_pred = uk_threshold_predict(weighted_score)
+        if threshold_pred is not None:
+            predicted_grade = threshold_pred
+            confidence = 1.0
+            distribution = {"uk_threshold": True}
+
+    # UIUC path, or OULAD with no graded work
+    if predicted_grade is None:
+        unseen_eng_score = None
+        unseen_eng = None
+        if has_vle:
+            unseen_eng = extract_engagement(student)
+            if unseen_eng["has_vle"]:
+                unseen_eng_score = normalize_engagement(unseen_eng, hist_engagements)
+
+        matches, distances = match_students(
+            graded_scores,
+            historical_students,
+            tolerance=adaptive_tol,
+            unseen_eng_score=unseen_eng_score,
+            hist_eng_scores=hist_eng_scores,
+            use_engagement=has_vle,
+        )
+        match_count = len(matches)
+        predicted_grade, confidence, distribution = predict_grade(matches, distances)
+
+        if predicted_grade == "no_match":
+            weighted_score, _ = compute_weighted_score(scores, syllabus)
+            effective_score = weighted_score
+            if effective_score is None:
+                effective_score = compute_raw_average_score(scores)
+            if effective_score is not None:
+                predicted_grade, confidence = fallback_predict_from_distribution(
+                    effective_score, historical_students, syllabus
+                )
+            if predicted_grade in ("unknown", "no_match") and effective_score is not None:
+                predicted_grade = score_to_grade_adaptive(effective_score, learned_thresholds)
+                confidence = 0.0
+            if predicted_grade in ("unknown", "no_match") and has_vle and unseen_eng is not None:
+                eng_grade, eng_conf, _ = predict_from_engagement(
+                    unseen_eng, historical_students, hist_engagements
+                )
+                if eng_grade not in ("unknown", "no_match"):
+                    predicted_grade = eng_grade
+                    confidence = eng_conf
+            if predicted_grade in ("unknown", "no_match"):
+                predicted_grade, confidence = class_prior_predict(historical_students)
+            distribution = {"fallback_used": True}
+
+    risk = map_risk(predicted_grade)
+
+    return {
+        "student_id": sid,
+        "predicted_grade": predicted_grade,
+        "confidence": round(confidence, 4),
+        "failure_risk": risk,
+        "up_to_week": up_to_week,
+        "feature_set": feature_set,
+        "match_count": match_count,
+        "grade_distribution": distribution,
+    }
+
+
+def suggest_intervention_for_student(student_id, grades_lookup):
+    """
+    Build a prompt + structured context for an LLM to generate intervention options.
+
+    This tool does NOT call the LLM itself. It returns:
+      - a student profile summary (grades, patterns, concerns)
+      - a formatted prompt the caller can send to any LLM
+    The caller (orchestrator or Streamlit app) handles the actual LLM call.
+
+    This keeps tools.py free of LLM dependencies and honest — we don't pretend
+    this is a trained ML tool. It's LLM-generated suggestions, nothing more.
+
+    Returns:
+      {
+        "student_id": str,
+        "profile": {...},     # structured facts about the student
+        "prompt": str,        # ready-to-send LLM prompt
+      }
+      or {"error": "..."} if student not found.
+    """
+    if student_id not in grades_lookup:
+        return {"error": f"Student {student_id} not found."}
+
+    scores = grades_lookup[student_id]
+
+    # Compute summary stats
+    total_weighted = 0.0
+    total_weight = 0.0
+    missing_assignments = []
+    low_scores = []
+    scores_by_week = {}
+
+    for name, info in scores.items():
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
+        week = info.get("week", 0)
+        atype = info.get("type", "unknown")
+
+        if score is None:
+            missing_assignments.append({"name": name, "type": atype, "week": week})
+        elif weight > 0:
+            total_weighted += score * weight
+            total_weight += weight
+            if score < 65:
+                low_scores.append({"name": name, "score": score, "type": atype, "week": week})
+
+            scores_by_week.setdefault(week, []).append(score)
+
+    weighted_avg = round(total_weighted / total_weight, 2) if total_weight > 0 else None
+
+    # Simple trend: compare first half vs second half weekly averages
+    trend = "unknown"
+    if scores_by_week:
+        weeks = sorted(scores_by_week.keys())
+        if len(weeks) >= 4:
+            mid = len(weeks) // 2
+            early_avg = sum(
+                sum(scores_by_week[w]) / len(scores_by_week[w]) for w in weeks[:mid]
+            ) / mid
+            late_avg = sum(
+                sum(scores_by_week[w]) / len(scores_by_week[w]) for w in weeks[mid:]
+            ) / (len(weeks) - mid)
+            diff = late_avg - early_avg
+            if diff > 5:
+                trend = "improving"
+            elif diff < -5:
+                trend = "declining"
+            else:
+                trend = "stable"
+
+    profile = {
+        "student_id": student_id,
+        "weighted_average": weighted_avg,
+        "missing_assignment_count": len(missing_assignments),
+        "missing_assignments": missing_assignments,
+        "low_score_count": len(low_scores),
+        "low_scores": low_scores,
+        "trend": trend,
+    }
+
+    # Build a prompt the caller can send to any LLM
+    # Format the weak assignments with specifics
+    weak_detail = "\n".join([
+        f"  - {x['name']} (week {x['week']}, type {x['type']}): scored {x['score']}"
+        for x in low_scores[:5]
+    ]) if low_scores else "  (none)"
+
+    missing_detail = "\n".join([
+        f"  - {x['name']} (week {x['week']}, type {x['type']})"
+        for x in missing_assignments[:5]
+    ]) if missing_assignments else "  (none)"
+
+    prompt_parts = [
+        f"Student {student_id} is at risk. Profile:",
+        f"- Weighted average: {weighted_avg if weighted_avg is not None else 'N/A'}",
+        f"- Grade trend: {trend}",
+        f"- Weak assignments (score <65):",
+        weak_detail,
+        f"- Missing assignments:",
+        missing_detail,
+        "",
+        "Suggest 2-3 SPECIFIC interventions grounded in this student's actual weak "
+        "areas. Reference the specific assignment names and types above. Avoid "
+        "generic advice like 'one-on-one meeting' unless you tie it to a specific "
+        "topic or assignment. Keep each suggestion to one sentence. The instructor "
+        "decides what to apply.",
+    ]
+    prompt = "\n".join(prompt_parts)
+
+    return {
+        "student_id": student_id,
+        "profile": profile,
+        "prompt": prompt,
+    }
+
+
+# =============================================================================
 # DRILL-DOWN TOOLS (for human study / Streamlit app)
 # =============================================================================
 
@@ -888,19 +1194,32 @@ def get_student_grades(student_id, grades_lookup):
     }
 
 
-def recalculate_grade(student_id, grades_lookup, drop=None, override=None):
+def recalculate_grade(student_id, grades_lookup, drop=None, override=None,
+                     simulate_remaining=None, full_syllabus=None):
     """
     Recalculate a student's weighted average with modifications.
 
     Args:
-        drop: list of assignment names to exclude (e.g. ["Quiz 1"])
-        override: dict of {assignment_name: new_score} (e.g. {"HW 3": 75})
+        drop: list of assignment names to exclude
+        override: dict of {assignment_name: new_score} for existing assignments
+        simulate_remaining: dict of {assignment_name: score} for FUTURE assignments
+                            not yet in the gradebook
+        full_syllabus: list of all course assignments (from get_course_syllabus)
+                       needed when simulate_remaining is used, to get weights
     """
     if student_id not in grades_lookup:
         return {"error": f"Student {student_id} not found."}
 
     drop = drop or []
     override = override or {}
+    simulate_remaining = simulate_remaining or {}
+    # Agent sometimes sends a list of {assignment_name, score} instead of a dict
+    if isinstance(simulate_remaining, list):
+        simulate_remaining = {
+            item.get("assignment_name") or item.get("name"): item.get("score")
+            for item in simulate_remaining
+            if isinstance(item, dict)
+        }
     scores = grades_lookup[student_id]
 
     original_weighted = 0.0
@@ -909,13 +1228,18 @@ def recalculate_grade(student_id, grades_lookup, drop=None, override=None):
     new_weight = 0.0
     changes = []
 
+    # Original average (based on existing graded work only)
     for name, info in scores.items():
         score = info.get("score")
         weight = info.get("weight", 0.0)
-
         if score is not None and weight > 0:
             original_weighted += score * weight
             original_weight += weight
+
+    # Recalculated: apply drops / overrides on existing scores
+    for name, info in scores.items():
+        score = info.get("score")
+        weight = info.get("weight", 0.0)
 
         if name in drop:
             changes.append({"assignment": name, "action": "dropped", "original_score": score})
@@ -924,10 +1248,8 @@ def recalculate_grade(student_id, grades_lookup, drop=None, override=None):
         if name in override:
             new_score = override[name]
             changes.append({
-                "assignment": name,
-                "action": "overridden",
-                "original_score": score,
-                "new_score": new_score,
+                "assignment": name, "action": "overridden",
+                "original_score": score, "new_score": new_score,
             })
             if weight > 0:
                 new_weighted += new_score * weight
@@ -936,6 +1258,22 @@ def recalculate_grade(student_id, grades_lookup, drop=None, override=None):
             if score is not None and weight > 0:
                 new_weighted += score * weight
                 new_weight += weight
+
+    # Add simulated future scores using full syllabus weights
+    if simulate_remaining and full_syllabus:
+        weight_lookup = {a["name"]: a.get("weight", 0.0) for a in full_syllabus}
+        existing_names = set(scores.keys())
+        for name, sim_score in simulate_remaining.items():
+            if name in existing_names:
+                continue  # can't simulate an already-graded assignment, use override instead
+            weight = weight_lookup.get(name, 0.0)
+            if weight > 0:
+                new_weighted += sim_score * weight
+                new_weight += weight
+                changes.append({
+                    "assignment": name, "action": "simulated",
+                    "simulated_score": sim_score, "weight": weight,
+                })
 
     original_avg = round(original_weighted / original_weight, 2) if original_weight > 0 else None
     new_avg = round(new_weighted / new_weight, 2) if new_weight > 0 else None
@@ -1018,6 +1356,56 @@ def filter_students(assignment_name, threshold, grades_lookup, direction="below"
     }
 
 
+def filter_students_by_grade(target_grade, grades_lookup):
+    """
+    Find students whose cumulative weighted average falls in a letter grade range.
+    A: >=90, B: 80-89, C: 70-79, D: 60-69, F: <60
+
+    NOTE: This is based on CURRENT weighted average, not a prediction.
+    For predicted final grades, use predict_final_grade_for_student().
+    """
+    grade_ranges = {
+        "a": (90, 100),
+        "b": (80, 89.99),
+        "c": (70, 79.99),
+        "d": (60, 69.99),
+        "f": (0, 59.99),
+    }
+
+    target = target_grade.lower()
+    if target not in grade_ranges:
+        return {"error": f"Unknown grade: {target_grade}. Use A, B, C, D, or F."}
+
+    low, high = grade_ranges[target]
+    matches = []
+
+    for sid, student_scores in grades_lookup.items():
+        total_weighted = 0.0
+        total_weight = 0.0
+        for name, info in student_scores.items():
+            score = info.get("score")
+            weight = info.get("weight", 0.0)
+            if score is not None and weight > 0:
+                total_weighted += score * weight
+                total_weight += weight
+
+        if total_weight == 0:
+            continue
+
+        avg = round(total_weighted / total_weight, 2)
+        if low <= avg <= high:
+            matches.append({"student_id": sid, "weighted_average": avg})
+
+    matches.sort(key=lambda x: x["weighted_average"], reverse=True)
+
+    return {
+        "target_grade": target_grade.upper(),
+        "range": f"{low}-{high}",
+        "count": len(matches),
+        "students": matches,
+    }
+
+
 def minimum_score_needed(student_id, target_grade, grades_lookup):
     """
     Calculate the minimum score needed on remaining assignments to reach a target grade.
@@ -1070,6 +1458,69 @@ def minimum_score_needed(student_id, target_grade, grades_lookup):
         "achievable": needed_score <= 100,
     }
 
+def get_course_syllabus(db, course_id, current_week=None):
+    """
+    Return the FULL course syllabus from the training DB (all weeks, not truncated).
+
+    For the human study: the agent uses this to tell the instructor what
+    assignments are still remaining in the semester.
+
+    Args:
+        db: the training database (loaded from cs_db_train.json)
+        course_id: e.g. "CS 461"
+        current_week: if provided, each assignment is marked "graded" or "remaining"
+
+    Returns:
+        {
+          "course_id": str,
+          "current_week": int or None,
+          "assignments": [
+              {name, type, weight, week, status: "graded"|"remaining"}
+          ],
+          "total_weight": float,
+          "graded_weight": float,
+          "remaining_weight": float,
+        }
+    """
+    course_info, _, historical_students = lookup_course(db, course_id)
+    if course_info is None:
+        return {"error": f"Course {course_id} not found in training DB"}
+
+    # Pull the full syllabus (no week cap)
+    full_syllabus = get_syllabus(historical_students, up_to_week=None)
+
+    assignments = []
+    total_weight = 0.0
+    graded_weight = 0.0
+    remaining_weight = 0.0
+
+    for comp in sorted(full_syllabus, key=lambda c: (c["week"], c["name"])):
+        week = comp.get("week", 0)
+        weight = comp.get("weight", 0.0)
+        if current_week is not None and week <= current_week:
+            status = "graded"
+            graded_weight += weight
+        else:
+            status = "remaining"
+            remaining_weight += weight
+        total_weight += weight
+
+        assignments.append({
+            "name": comp["name"],
+            "type": comp.get("type", "unknown"),
+            "weight": round(weight, 4),
+            "week": week,
+            "status": status,
+        })
+
+    return {
+        "course_id": course_id,
+        "current_week": current_week,
+        "assignments": assignments,
+        "total_weight": round(total_weight, 4),
+        "graded_weight": round(graded_weight, 4),
+        "remaining_weight": round(remaining_weight, 4),
+    }
 
 def list_all_assignments(grades_lookup):
     """
@@ -1088,3 +1539,82 @@ def list_all_assignments(grades_lookup):
 
     sorted_assignments = sorted(assignments.values(), key=lambda x: x["week"])
     return {"assignments": sorted_assignments, "count": len(sorted_assignments)}
+
+def get_class_average(grades_lookup):
+    """Compute the class-wide average weighted grade."""
+    averages = []
+    for sid in grades_lookup:
+        rec = get_student_grades(sid, grades_lookup)
+        if "error" in rec:
+            continue
+        avg = rec.get("weighted_average")
+        if avg is not None:
+            averages.append(avg)
+    if not averages:
+        return {"error": "No students with graded work."}
+    return {
+        "class_average": round(sum(averages) / len(averages), 2),
+        "student_count": len(averages),
+        "min": round(min(averages), 2),
+        "max": round(max(averages), 2),
+    }
+
+def simulate_uniform_remaining(db, course_id, current_week, student_id, grades_lookup, uniform_score):
+    """
+    Guarantee-style counterfactual: assume the student scores `uniform_score` on every
+    remaining (not-yet-graded) assignment. Returns new weighted average + letter grade.
+
+    Args:
+        db: training DB (from load_db)
+        course_id: course ID string
+        current_week: current week cutoff
+        student_id: student to simulate
+        grades_lookup: existing grades lookup
+        uniform_score: score to apply to all remaining assignments (e.g. 80)
+    """
+    if student_id not in grades_lookup:
+        return {"error": f"Student {student_id} not found."}
+
+    # Get full syllabus to know what's remaining
+    syl_result = get_course_syllabus(db, course_id, current_week=current_week)
+    full_syllabus = syl_result.get("assignments", [])
+    remaining = [a for a in full_syllabus if a.get("status") == "remaining"]
+
+    if not remaining:
+        return {
+            "student_id": student_id,
+            "note": "No remaining assignments — everything is already graded.",
+            "current_weighted_average": None,
+            "simulated_weighted_average": None,
+        }
+
+    # Build simulate_remaining dict
+    simulate_remaining = {a["name"]: uniform_score for a in remaining}
+
+    # Call recalculate with the dict
+    result = recalculate_grade(
+        student_id, grades_lookup,
+        simulate_remaining=simulate_remaining,
+        full_syllabus=full_syllabus,
+    )
+
+    # Add letter grade
+    avg = result.get("recalculated_weighted_average")
+    if avg is not None:
+        if avg >= 90:
+            letter = "A"
+        elif avg >= 80:
+            letter = "B"
+        elif avg >= 70:
+            letter = "C"
+        elif avg >= 60:
+            letter = "D"
+        else:
+            letter = "F"
+        result["simulated_letter_grade"] = letter
+
+    result["uniform_score_applied"] = uniform_score
+    result["n_remaining_assignments"] = len(remaining)
+    result["remaining_assignment_names"] = [a["name"] for a in remaining]
+
+    return result

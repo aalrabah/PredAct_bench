@@ -1,16 +1,23 @@
 """
-Convert student records CSV + intervention timing CSV into a consolidated
-MultiWOZ-style JSON file, grouped by course.
+Convert student records CSV into a consolidated JSON file, grouped by course.
+
+Removed: intervention timing CSV (interventions are no longer hardcoded rules;
+         the instructor decides intervention in the human study, and the new
+         agent-to-agent pipeline does not use intervention timing).
 
 Usage:
-    python convert_to_json.py --students students.csv --interventions interventions.csv --output db.json
+    python convert_to_json.py --students synthetic_students.csv
+    python convert_to_json.py --students synthetic_students.csv --output /custom/path/cs_db.json
 """
 
 import argparse
 import csv
 import json
-import re
+import os
 from collections import defaultdict
+
+
+DEFAULT_OUTPUT_DIR = "/home/alrabah2/PredAct_bench/results/uiuc"
 
 
 def parse_students(filepath):
@@ -22,7 +29,7 @@ def parse_students(filepath):
             student_id = row["student_id"].strip()
             course_id = row["course_id"].strip()
 
-            # Course-level info
+            # Course-level info (same across all rows of a course)
             course_info = {}
             for key, json_key in [
                 ("course_avg_gpa", "avg_gpa"),
@@ -37,7 +44,7 @@ def parse_students(filepath):
                 if val:
                     course_info[json_key] = float(val)
 
-            # Parse weekly slots
+            # Parse weekly slots (up to 16 weeks, up to 7 slots per week)
             weeks = []
             for week_num in range(1, 17):
                 activities = []
@@ -72,44 +79,15 @@ def parse_students(filepath):
     return records
 
 
-def parse_interventions(filepath):
-    """Parse the intervention timing CSV into a dict keyed by course_id."""
-    interventions = {}
-    with open(filepath, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f, delimiter=",")
-        for row in reader:
-            course_id = row["course_id"].strip()
-
-            total = row.get("total_components", "").strip()
-            approx_week = row.get("atrisk_approx_week", "").strip()
-            components_raw = row.get("atrisk_components", "").strip()
-
-            # Skip courses with no intervention data
-            if not approx_week:
-                interventions[course_id] = None
-                continue
-
-            components = [c.strip() for c in components_raw.split(",") if c.strip()] if components_raw else []
-
-            interventions[course_id] = {
-                "total_components": int(total) if total else None,
-                "atrisk_approx_week": int(approx_week),
-                "atrisk_components": components,
-            }
-    return interventions
-
-
-def build_db(students_path, interventions_path):
-    """Merge both datasets into course-grouped JSON."""
+def build_db(students_path):
+    """Merge student records into course-grouped JSON."""
     records = parse_students(students_path)
-    interventions = parse_interventions(interventions_path)
 
     # Group students by course
     courses = defaultdict(lambda: {"course_info": {}, "students": []})
 
     for rec in records:
         cid = rec["course_id"]
-        # Set course_info from first student seen (identical across students)
         if not courses[cid]["course_info"]:
             courses[cid]["course_info"] = rec["course_info"]
 
@@ -119,13 +97,11 @@ def build_db(students_path, interventions_path):
             "final_grade": rec["final_grade"],
         })
 
-    # Build final output
     output = []
     for course_id, data in sorted(courses.items()):
         entry = {
             "course_id": course_id,
             "course_info": data["course_info"],
-            "intervention": interventions.get(course_id, None),
             "students": data["students"],
         }
         output.append(entry)
@@ -134,23 +110,25 @@ def build_db(students_path, interventions_path):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Convert CSVs to MultiWOZ-style JSON")
-    parser.add_argument("--students", required=True, help="Path to student records CSV (tab-separated)")
-    parser.add_argument("--interventions", required=True, help="Path to intervention timing CSV (tab-separated)")
-    parser.add_argument("--output", default="db.json", help="Output JSON path")
+    parser = argparse.ArgumentParser(description="Convert student CSV to JSON grouped by course")
+    parser.add_argument("--students", required=True, help="Path to student records CSV")
+    parser.add_argument(
+        "--output",
+        default=os.path.join(DEFAULT_OUTPUT_DIR, "cs_db.json"),
+        help=f"Output JSON path (default: {DEFAULT_OUTPUT_DIR}/cs_db.json)",
+    )
     args = parser.parse_args()
 
-    db = build_db(args.students, args.interventions)
+    os.makedirs(os.path.dirname(args.output), exist_ok=True)
+
+    db = build_db(args.students)
 
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=2, ensure_ascii=False)
 
-    # Summary
     total_students = sum(len(c["students"]) for c in db)
-    print(f"Done! {len(db)} courses, {total_students} student records → {args.output}")
+    print(f"Done! {len(db)} courses, {total_students} student records -> {args.output}")
 
 
 if __name__ == "__main__":
     main()
-
-    
