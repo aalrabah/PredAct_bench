@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# Secrets — NEVER commit
+.env
+.env.*
+*.key
+credentials.json
+
+# Folders: keep structure, ignore contents
+data/*
+!data/.gitkeep
+
+CS-411/*
+!CS-411/.gitkeep
+
+experiments/*
+!experiments/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+results/*
+!results/.gitkeep
+
+study_logs/*
+!study_logs/.gitkeep
+
+# Generated outputs (regenerable from scripts)
+agent_error_scan.csv
+intervention_table_updated.csv
+results_summary.csv
+tool_test_results.txt
+
+# Student data — IRB-sensitive, keep out
+synthetic_students.csv
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
