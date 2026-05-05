@@ -20,9 +20,6 @@ credentials.json
 data/*
 !data/.gitkeep
 
-CS-411/*
-!CS-411/.gitkeep
-
 experiments/*
 !experiments/.gitkeep
 
@@ -40,6 +37,7 @@ agent_error_scan.csv
 intervention_table_updated.csv
 results_summary.csv
 tool_test_results.txt
+ontology.json
 
 # Student data — IRB-sensitive, keep out
 synthetic_students.csv
