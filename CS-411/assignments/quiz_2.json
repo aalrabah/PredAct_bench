@@ -1,0 +1,18 @@
+{
+  "quiz_id": "quiz_2",
+  "week": 4,
+  "questions": [
+    {
+      "question_id": "Q11",
+      "text": "Consider the following database schema for a mobile phone store:\n\nCustomers(CustomerId INT, FirstName VARCHAR(255), LastName VARCHAR(255), PhoneNumber REAL)\nPurchases(PurchaseId INT, CustomerId INT, ProductId INT, Price INT)\nProducts(ProductId INT, ProductName VARCHAR(255), BrandName VARCHAR(255), YearReleased INT)\nBrands(BrandName VARCHAR(255), YearEstablished INT, CEO VARCHAR(255))\n\nWe want to know the list of Customers who have not purchased any expensive products (i.e., products whose average Price is 3000 or more) so that we encourage them to spend more.\n\nWrite an SQL query that, for every such customer, returns the CustomerId, FirstName and PhoneNumber. Return the results in the ascending order of CustomerId.",
+      "concept_tags": ["SQL", "JOIN", "Subquery", "Aggregation"],
+      "correct_solution": "SELECT CustomerId, FirstName, PhoneNumber FROM Customers WHERE CustomerId NOT IN (SELECT CustomerId FROM Customers NATURAL JOIN Purchases NATURAL JOIN (SELECT ProductId, Avg(Price) AS AvgPrice FROM Purchases NATURAL JOIN Customers GROUP BY ProductId HAVING AvgPrice >= 3000) T) ORDER BY CustomerId;"
+    },
+    {
+      "question_id": "Q12",
+      "text": "Consider the following database schema for a mobile phone store:\n\nCustomers(CustomerId INT, FirstName VARCHAR(255), LastName VARCHAR(255), PhoneNumber REAL)\nPurchases(PurchaseId INT, CustomerId INT, ProductId INT, Price INT)\nProducts(ProductId INT, ProductName VARCHAR(255), BrandName VARCHAR(255), YearReleased INT)\nBrands(BrandName VARCHAR(255), YearEstablished INT, CEO VARCHAR(255))\n\nA Mobile Phone company wants to promote products that are not well perceived by Champaign residents. The company wants you to return details of products that have NOT been purchased by Champaign customers. (Champaign customers have their PhoneNumber starting with 217).\n\nFor these products, write an SQL query that returns their ProductId, ProductName, BrandName and the average Price customers paid for that product. Please round the average price using a call to ROUND(foo, 2). Please return the results in the decreasing order of ProductId.",
+      "concept_tags": ["SQL", "JOIN", "Aggregation", "Subquery"],
+      "correct_solution": "SELECT ProductId, ProductName, BrandName, ROUND(AVG(Price), 2) AS AvgPrice FROM Products NATURAL JOIN Purchases LEFT JOIN (Select CustomerId, PhoneNumber FROM Customers WHERE PhoneNumber LIKE '217%') T ON Purchases.CustomerId = T.CustomerId GROUP BY ProductId, ProductName, BrandName HAVING COUNT(T.CustomerId) = 0 ORDER BY ProductId DESC;"
+    }
+  ]
+}

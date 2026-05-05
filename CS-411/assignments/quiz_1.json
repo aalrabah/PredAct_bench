@@ -1,0 +1,18 @@
+{
+  "quiz_id": "quiz_1",
+  "week": 2,
+  "questions": [
+    {
+      "question_id": "Q5",
+      "text": "Consider the following relations:\n\nStudents(NetId VARCHAR(10), FirstName VARCHAR(255), LastName VARCHAR(255), Department VARCHAR(100))\nEnrollments(NetId VARCHAR(10), CRN INT, Credits INT, Score REAL)\nCourses(CRN INT, Title VARCHAR(255), Department VARCHAR(100), Instructor VARCHAR(255))\n\nWe want to find information on students who are enrolled in \"high GPA\" courses, and have aced them. A course is considered \"high GPA\" if the course's average score is greater than or equal to 80, and a student is considered aced the course if they earn more than 85 points in Score.\n\nWrite an SQL query that returns, for every \"high GPA\" course with the student who aced this course: the CRN, the average score of the course (CourseAvgScore), the student's NetId, and the student's Score. Note that the average score of a course (CourseAvgScore) is computed as [sum(Score_i * Credits_i)] / [sum(Credits_i)], where the sum is computed over all enrollments in that course.\n\nReturn the results in descending order of CRN, Score.",
+      "concept_tags": ["SQL", "JOIN", "Subquery", "Aggregation"],
+      "correct_solution": "SELECT CRN, CourseAvgScore, NetId, Score FROM Enrollments NATURAL JOIN (SELECT CRN, SUM(Score * Credits)/SUM(Credits) AS CourseAvgScore FROM Enrollments GROUP BY CRN ORDER BY CourseAvgScore DESC) CourseStats WHERE CourseStats.CourseAvgScore >= 80 AND Score > 85 ORDER BY CRN DESC, Score DESC;"
+    },
+    {
+      "question_id": "Q8",
+      "text": "Consider the following database schema for a mobile phone store:\n\nCustomers(CustomerId INT, FirstName VARCHAR(255), LastName VARCHAR(255), PhoneNumber REAL)\nPurchases(PurchaseId INT, CustomerId INT, ProductId INT, Price INT)\nProducts(ProductId INT, ProductName VARCHAR(255), BrandName VARCHAR(255), YearReleased INT)\nBrands(BrandName VARCHAR(255), YearEstablished INT, CEO VARCHAR(255))\n\nAn advertising company has changed its company to work on commission. Their policy states that the more your brand is worth, the more they charge for advertising fees. The company wants to find out brands they should reach out to establish a business relationship.\n\nWrite an SQL query that returns the BrandName and the average purchase price of products (AveragePurchasePrice) for each Brand, but only include brands where the AveragePurchasePrice is greater than $3000 (exclusive) and the brand is established in an even-numbered year (i.e. 2020, 2022, 2024, etc.). Sort the results in descending order by AveragePurchasePrice.",
+      "concept_tags": ["SQL", "JOIN", "Aggregation", "Constraint"],
+      "correct_solution": "SELECT Brands.BrandName, AVG(Purchases.Price) AS AveragePurchasePrice FROM Brands JOIN Products ON Brands.BrandName = Products.BrandName JOIN Purchases ON Products.ProductId = Purchases.ProductId WHERE Brands.YearEstablished % 2 = 0 GROUP BY Brands.BrandName HAVING AveragePurchasePrice > 3000 ORDER BY AveragePurchasePrice DESC;"
+    }
+  ]
+}
