@@ -3,7 +3,7 @@ import zipfile
 import urllib.request
 from pathlib import Path
 
-OULAD_URL = "please insert the data url"
+OULAD_URL = "https://analyse.kmi.open.ac.uk/open-dataset/download"
 
 # Local paths
 DATA_DIR = Path("data/oulad")
