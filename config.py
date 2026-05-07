@@ -92,10 +92,10 @@ DEFAULT_CONTACT_MODE = {
 # FILE PATHS
 # =============================================================================
 
-CS_DB_PATH = "results/dataset/cs_db.json"
+CS_DB_PATH = "results/predact_cs/cs_db.json"
 ONTOLOGY_PATH = "ontology.json"
-OUTPUT_DATA_PATH = "results/dataset/data.json"
-LOGS_DIR = "results/dataset/logs/"
+OUTPUT_DATA_PATH = "results/predact_cs/data.json"
+LOGS_DIR = "results/predact_cs/logs/"
 
 # =============================================================================
 # EVALUATION

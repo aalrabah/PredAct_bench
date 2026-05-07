@@ -16,13 +16,11 @@ env/
 *.key
 credentials.json
 
-# Folders: keep structure, ignore contents
-data/*
-!data/.gitkeep
+# Raw data — never commit real student/course data
+data/data_*/
+data/*.csv
 
-experiments/*
-!experiments/.gitkeep
-
+# Logs and results — regenerable outputs
 logs/*
 !logs/.gitkeep
 
@@ -37,7 +35,6 @@ agent_error_scan.csv
 intervention_table_updated.csv
 results_summary.csv
 tool_test_results.txt
-ontology.json
 
 # Student data — IRB-sensitive, keep out
 synthetic_students.csv

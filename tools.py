@@ -7,7 +7,7 @@ V7 — Base: V6
      Change: OULAD uses UK threshold prediction as primary method.
              weighted_score → UK thresholds (70/60/50/40) → A/B/C/D/F
              Fallback to V6 k-NN only when no graded work available.
-     Safety: Primary dataset path identical to V6. OULAD detected via department=="oulad".
+     Safety: PredAct-CS path identical to V6. OULAD detected via department=="oulad".
      Result: 71.9% → 86.4% on 20 dialogues (+14.5%).
 
 V8 — Base: V7
@@ -23,6 +23,7 @@ V8 — Base: V7
 
 import json
 import math
+import random
 from collections import Counter
 from config import (
     CS_DB_PATH,
@@ -55,6 +56,34 @@ UK_GRADE_THRESHOLDS = [
     (0,  "f"),
 ]
 
+# Per-grading-system targets used by the assistant tools
+# (minimum_score_needed, simulate_uniform_remaining, get_assignment_stats,
+# filter_students_by_grade). PredAct-CS uses US (default), OULAD uses UK.
+GRADE_TARGETS_BY_SYSTEM = {
+    "us": {"a": 90, "b": 80, "c": 70, "d": 60},
+    "uk": {"a": 70, "b": 60, "c": 50, "d": 40},
+}
+
+GRADE_RANGES_BY_SYSTEM = {
+    "us": {"a": (90, 100), "b": (80, 89.99), "c": (70, 79.99),
+           "d": (60, 69.99), "f": (0, 59.99)},
+    "uk": {"a": (70, 100), "b": (60, 69.99), "c": (50, 59.99),
+           "d": (40, 49.99), "f": (0, 39.99)},
+}
+
+GRADE_BUCKETS_BY_SYSTEM = {
+    "us": [("90-100", 90), ("80-89", 80), ("70-79", 70), ("60-69", 60), ("below_60", 0)],
+    "uk": [("70-100", 70), ("60-69", 60), ("50-59", 50), ("40-49", 40), ("below_40", 0)],
+}
+
+
+def detect_grading_system(course_id):
+    """OULAD course IDs match AAA_2013J / BBB_2014B; PredAct-CS uses 'Course_A'."""
+    import re
+    if course_id and re.match(r"^[A-Z]{3}_\d{4}[A-Z]$", course_id):
+        return "uk"
+    return "us"
+
 ENGAGEMENT_TYPES = {
     "oucontent", "forumng", "homepage", "ouwiki", "resource",
     "subpage", "url", "glossary", "dataplus", "ouelluminate",
@@ -68,22 +97,21 @@ COURSE_NAME_MAP = {
     "Course_01": "intro_programming", "Course_02": "intro_programming",
     "Course_03": "intro_programming", "Course_04": "intro_programming",
     "Course_05": "intro_programming", "Course_06": "intro_programming",
-    "Course_07": "discrete_math", "Course A": "data_structures",
-    "Course_09": "other", "Course_10": "other", "Course_11": "other",
-    "Course_12": "other", "Course_13": "other", "Course B": "other",
-    "Course_15": "other", "Course_16": "other", "Course D": "other",
-    "Course_18": "other", "Course_19": "other", "Course_20": "other",
-    "Course C": "other", "Course_22": "other", "Course_23": "other",
-    "Course_24": "other", "Course_25": "other",
-    "MATH 220": "calculus_i", "MATH 221": "calculus_ii",
-    "MATH 231": "calculus_ii", "MATH 241": "calculus_ii",
-    "MATH 257": "linear_algebra", "MATH 415": "linear_algebra",
-    "MATH 416": "linear_algebra",
-    "STAT 100": "statistics", "STAT 200": "statistics",
-    "STAT 400": "statistics",
-    "CHEM 102": "general_chemistry", "CHEM 104": "general_chemistry",
-    "PHYS 211": "general_physics", "PHYS 212": "general_physics",
-    "RHET 105": "academic_writing",
+    "Course_07": "discrete_math",    "Course_D":  "data_structures",
+    "Course_08": "other", "Course_09": "other", "Course_10": "other",
+    "Course_11": "other", "Course_12": "other", "Course_A":  "other",
+    "Course_13": "other", "Course_X":  "other", "Course_C":  "other",
+    "Course_14": "other", "Course_15": "other", "Course_16": "other",
+    "Course_B":  "other", "Course_17": "other", "Course_18": "other",
+    "Course_19": "other", "Course_20": "other",
+    "Course_21": "calculus_i",    "Course_22": "calculus_ii",
+    "Course_23": "calculus_ii",   "Course_24": "calculus_ii",
+    "Course_25": "linear_algebra","Course_26": "linear_algebra",
+    "Course_27": "linear_algebra",
+    "Course_28": "statistics", "Course_29": "statistics", "Course_30": "statistics",
+    "Course_31": "general_chemistry", "Course_32": "general_chemistry",
+    "Course_33": "general_physics",   "Course_34": "general_physics",
+    "Course_35": "academic_writing",
     "AAA": "social_sciences", "BBB": "social_sciences",
     "CCC": "stem_module", "DDD": "stem_module",
     "EEE": "stem_module", "FFF": "stem_module",
@@ -663,7 +691,7 @@ def process_students(db, course_id, unseen_students):
                     distribution = {"fallback_used": True}
 
         # =================================================================
-        # V6 path (completely unchanged)
+        # PredAct-CS — V6 path (completely unchanged)
         # =================================================================
         else:
             unseen_eng_score = None
@@ -947,7 +975,7 @@ def predict_final_grade_for_student(
             confidence = 1.0
             distribution = {"uk_threshold": True}
 
-    # Primary dataset path, or OULAD with no graded work
+    # PredAct-CS path, or OULAD with no graded work
     if predicted_grade is None:
         unseen_eng_score = None
         unseen_eng = None
@@ -1287,9 +1315,13 @@ def recalculate_grade(student_id, grades_lookup, drop=None, override=None,
     }
 
 
-def get_assignment_stats(assignment_name, grades_lookup):
+def get_assignment_stats(assignment_name, grades_lookup, grading_system="us"):
     """
     Get class-wide statistics for a specific assignment.
+
+    `grading_system` controls the score-bucket ranges:
+      "us" → 90-100 / 80-89 / 70-79 / 60-69 / below_60 (PredAct-CS)
+      "uk" → 70-100 / 60-69 / 50-59 / 40-49 / below_40 (OULAD)
     """
     scores = []
     for sid, student_scores in grades_lookup.items():
@@ -1305,18 +1337,13 @@ def get_assignment_stats(assignment_name, grades_lookup):
     min_score = round(min(scores), 2)
     max_score = round(max(scores), 2)
 
-    buckets = {"90-100": 0, "80-89": 0, "70-79": 0, "60-69": 0, "below_60": 0}
+    bucket_defs = GRADE_BUCKETS_BY_SYSTEM.get(grading_system, GRADE_BUCKETS_BY_SYSTEM["us"])
+    buckets = {label: 0 for label, _ in bucket_defs}
     for s in scores:
-        if s >= 90:
-            buckets["90-100"] += 1
-        elif s >= 80:
-            buckets["80-89"] += 1
-        elif s >= 70:
-            buckets["70-79"] += 1
-        elif s >= 60:
-            buckets["60-69"] += 1
-        else:
-            buckets["below_60"] += 1
+        for label, threshold in bucket_defs:
+            if s >= threshold:
+                buckets[label] += 1
+                break
 
     return {
         "assignment": assignment_name,
@@ -1356,21 +1383,17 @@ def filter_students(assignment_name, threshold, grades_lookup, direction="below"
     }
 
 
-def filter_students_by_grade(target_grade, grades_lookup):
+def filter_students_by_grade(target_grade, grades_lookup, grading_system="us"):
     """
     Find students whose cumulative weighted average falls in a letter grade range.
-    A: >=90, B: 80-89, C: 70-79, D: 60-69, F: <60
+    Ranges depend on `grading_system`:
+      "us" (PredAct-CS) → A:>=90, B:80-89, C:70-79, D:60-69, F:<60
+      "uk" (OULAD) → A:>=70, B:60-69, C:50-59, D:40-49, F:<40
 
     NOTE: This is based on CURRENT weighted average, not a prediction.
     For predicted final grades, use predict_final_grade_for_student().
     """
-    grade_ranges = {
-        "a": (90, 100),
-        "b": (80, 89.99),
-        "c": (70, 79.99),
-        "d": (60, 69.99),
-        "f": (0, 59.99),
-    }
+    grade_ranges = GRADE_RANGES_BY_SYSTEM.get(grading_system, GRADE_RANGES_BY_SYSTEM["us"])
 
     target = target_grade.lower()
     if target not in grade_ranges:
@@ -1406,11 +1429,19 @@ def filter_students_by_grade(target_grade, grades_lookup):
     }
 
 
-def minimum_score_needed(student_id, target_grade, grades_lookup):
+def minimum_score_needed(student_id, target_grade, grades_lookup, full_syllabus=None,
+                         grading_system="us"):
     """
-    Calculate the minimum score needed on remaining assignments to reach a target grade.
+    Calculate the minimum uniform score needed on REMAINING assignments to reach a target grade.
+
+    `full_syllabus` is the list of assignments returned by get_course_syllabus().
+    Required, because the truncated grades_lookup does not contain future-week assignments.
+
+    `grading_system` selects the score→letter cutoffs:
+      "us" → A:90 B:80 C:70 D:60 (PredAct-CS)
+      "uk" → A:70 B:60 C:50 D:40 (OULAD)
     """
-    grade_thresholds = {"a": 90, "b": 80, "c": 70, "d": 60}
+    grade_thresholds = GRADE_TARGETS_BY_SYSTEM.get(grading_system, GRADE_TARGETS_BY_SYSTEM["us"])
     target_threshold = grade_thresholds.get(target_grade.lower())
     if target_threshold is None:
         return {"error": f"Invalid target grade: {target_grade}. Use a, b, c, or d."}
@@ -1418,22 +1449,28 @@ def minimum_score_needed(student_id, target_grade, grades_lookup):
     if student_id not in grades_lookup:
         return {"error": f"Student {student_id} not found."}
 
+    if not full_syllabus:
+        return {"error": "full_syllabus is required to compute remaining-weight assignments."}
+
     scores = grades_lookup[student_id]
 
     current_weighted = 0.0
     current_weight = 0.0
-    remaining_weight = 0.0
-    remaining_names = []
-
     for name, info in scores.items():
         score = info.get("score")
         weight = info.get("weight", 0.0)
         if score is not None and weight > 0:
             current_weighted += score * weight
             current_weight += weight
-        elif score is None and weight > 0:
-            remaining_weight += weight
-            remaining_names.append(name)
+
+    remaining_weight = 0.0
+    remaining_names = []
+    for comp in full_syllabus:
+        if comp.get("status") == "remaining":
+            w = comp.get("weight", 0.0)
+            if w > 0:
+                remaining_weight += w
+                remaining_names.append(comp.get("name"))
 
     total_weight = current_weight + remaining_weight
     if total_weight <= 0 or remaining_weight <= 0:
@@ -1467,7 +1504,7 @@ def get_course_syllabus(db, course_id, current_week=None):
 
     Args:
         db: the training database (loaded from cs_db_train.json)
-        course_id: e.g. "Course C"
+        course_id: e.g. "Course_B"
         current_week: if provided, each assignment is marked "graded" or "remaining"
 
     Returns:
@@ -1598,19 +1635,16 @@ def simulate_uniform_remaining(db, course_id, current_week, student_id, grades_l
         full_syllabus=full_syllabus,
     )
 
-    # Add letter grade
+    # Add letter grade — uses UK cutoffs for OULAD, US for PredAct-CS
     avg = result.get("recalculated_weighted_average")
     if avg is not None:
-        if avg >= 90:
-            letter = "A"
-        elif avg >= 80:
-            letter = "B"
-        elif avg >= 70:
-            letter = "C"
-        elif avg >= 60:
-            letter = "D"
-        else:
-            letter = "F"
+        grading_system = detect_grading_system(course_id)
+        targets = GRADE_TARGETS_BY_SYSTEM[grading_system]
+        if   avg >= targets["a"]: letter = "A"
+        elif avg >= targets["b"]: letter = "B"
+        elif avg >= targets["c"]: letter = "C"
+        elif avg >= targets["d"]: letter = "D"
+        else:                      letter = "F"
         result["simulated_letter_grade"] = letter
 
     result["uniform_score_applied"] = uniform_score

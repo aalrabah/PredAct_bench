@@ -3,10 +3,10 @@ PredAct Benchmark - Human Study Interface
 
 Ten scenarios (all week 8) organized into 4 blocks, each followed by a questionnaire:
 
-  Block 1: no_agent        - Course A, week 8 (25 students)
-  Block 2: GPT-4o-mini    - Course B (40%), Course C (60%), Course D (80%)
-  Block 3: Qwen3.5-9B     - Course B (40%), Course C (60%), Course D (80%)
-  Block 4: Qwen3.5-35B-A3B - Course B (40%), Course C (60%), Course D (80%)
+  Block 1: no_agent        - Course_D, week 8 (25 students)
+  Block 2: GPT-4o-mini    - Course_A (40%), Course_B (60%), Course_C (80%)
+  Block 3: Qwen3.5-9B     - Course_A (40%), Course_B (60%), Course_C (80%)
+  Block 4: Qwen3.5-35B-A3B - Course_A (40%), Course_B (60%), Course_C (80%)
 
 Same courses repeat across LLM blocks (within-subjects on LLM with course held
 constant). Each (LLM x accuracy) cell uses an independent noise seed
@@ -50,10 +50,13 @@ from tools import (
 # CONFIG
 # =============================================================================
 
-TRAIN_DB_PATH = "results/dataset/cs_db_train.json"
-TEST_SETS_DIR = "results/dataset/test_sets"
-GROUND_TRUTH_PATH = "results/dataset/ground_truth_for_cutoff_data.json"
-LOGS_OUTPUT_DIR = "study_logs"
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA_ROOT = os.environ.get("PREDACT_DATA_ROOT", PROJECT_ROOT)
+
+TRAIN_DB_PATH = os.path.join(DATA_ROOT, "results", "predact_cs", "cs_db_train.json")
+TEST_SETS_DIR = os.path.join(DATA_ROOT, "results", "predact_cs", "test_sets")
+GROUND_TRUTH_PATH = os.path.join(DATA_ROOT, "results", "predact_cs", "ground_truth_for_cutoff_data.json")
+LOGS_OUTPUT_DIR = os.path.join(DATA_ROOT, "study_logs")
 
 # Per-LLM provider configuration. All OpenAI-compatible endpoints.
 LLM_CONFIGS = {
@@ -80,6 +83,15 @@ LLM_CONFIGS = {
 N_AT_RISK = 5
 SAMPLE_SEED = 42
 
+# Per-condition (sample_seed, calib_seed) pairs found by exhaustive search
+# to guarantee >=2 truly at-risk students appear in the displayed flagged set.
+# Re-run /tmp/seed2d.py if AGENT_COURSES, calibration logic, or predictor change.
+COND_SEEDS = {
+    "gpt_40": (6, 1),  "gpt_60": (0, 0),  "gpt_80": (0, 25),
+    "q9b_40": (6, 1),  "q9b_60": (0, 0),  "q9b_80": (0, 25),
+    "q35_40": (6, 1),  "q35_60": (0, 0),  "q35_80": (0, 25),
+}
+
 STUDENT_ID_REGEX = re.compile(r"syn_\d{6}")
 
 # Shared drill-down section for agent scenarios
@@ -105,14 +117,13 @@ AGENT_DRILL_DOWN_GUIDE = (
 )
 
 
-def build_agent_intro(course_id, week, pct):
-    """Build the standard intro for an agent scenario at given accuracy."""
+def build_agent_intro(course_id, week, pct=None):
+    """Build the standard intro for an agent scenario."""
     return (
         f"This is **week {week}** of **{course_id}**.\n\n"
-        f"**An AI agent is available.** The agent's grade-prediction tool is about "
-        f"**{pct}% accurate** in this course. Its lookup tools (grades, assignments, "
-        f"class stats, counterfactuals) are always correct. Only its *predictions* "
-        f"can be wrong.\n\n"
+        f"**An AI agent is available.** The agent has a grade-prediction tool. "
+        f"Its lookup tools (grades, assignments, class stats, counterfactuals) are "
+        f"always correct. Only its *predictions* can be wrong.\n\n"
         f"**You will NOT see student data directly.** You can only learn about students "
         f"through the agent.\n\n"
         f"---\n\n"
@@ -123,17 +134,16 @@ def build_agent_intro(course_id, week, pct):
         f"based only on what the agent reports. You cannot use the chat yet. Submit.\n\n"
         + AGENT_DRILL_DOWN_GUIDE +
         f"---\n\n"
-        f"**Definition of at-risk:** The student will finish the course with a D or F.\n\n"
-        f"Remember: the agent is about ~{pct}% accurate in this course."
+        f"**Definition of at-risk:** The student will finish the course with a D or F. D is between 60-69 and F is below 60."
     )
 
 
 # Courses used in all agent scenarios
 AGENT_COURSES = [
     # (course_id, course_file, sample_size, target_accuracy)
-    ("Course B", "CourseB_week8.json", 195, 0.40),
-    ("Course C", "CourseC_week8.json", 147, 0.60),
-    ("Course D", "CourseD_week8.json", 265, 0.80),
+    ("Course_A", "CourseA_week8.json", 195, 0.40),
+    ("Course_B", "CourseB_week8.json", 147, 0.60),
+    ("Course_C", "CourseC_week8.json", 265, 0.80),
 ]
 
 # LLM block definitions: (prefix for cond_id, LLM_CONFIGS key, block number)
@@ -154,8 +164,8 @@ CONDITIONS = [
         "id": "no_agent",
         "block": 1,
         "title": "Scenario 1 - No AI Agent",
-        "course_id": "Course A",
-        "course_file": "CourseA_week8.json",
+        "course_id": "Course_D",
+        "course_file": "CourseD_week8.json",
         "week": 8,
         "feature_set": None,
         "has_agent": False,
@@ -163,7 +173,7 @@ CONDITIONS = [
         "target_accuracy": None,
         "llm": None,
         "intro": (
-            "This is **week 8** of **Course A**. You have a set of students to review.\n\n"
+            "This is **week 8** of **Course_D**. You have a set of students to review.\n\n"
             "**No AI agent is available here.** All student data is shown to you directly "
             "as cards — each with the student's weighted average, submission rate, and a "
             "breakdown of every assignment.\n\n"
@@ -180,10 +190,12 @@ _scenario_num = 2
 for prefix, llm_key, block_num in LLM_BLOCKS:
     for course_id, course_file, sample_size, target_acc in AGENT_COURSES:
         pct = int(target_acc * 100)
+        cond_id = f"{prefix}_{pct}"
+        sample_seed, calib_seed = COND_SEEDS.get(cond_id, (SAMPLE_SEED, hash(cond_id) & 0xFFFFFFFF))
         CONDITIONS.append({
-            "id": f"{prefix}_{pct}",
+            "id": cond_id,
             "block": block_num,
-            "title": f"Scenario {_scenario_num} - AI Agent (~{pct}% accurate)",
+            "title": f"Scenario {_scenario_num} - AI Agent",
             "course_id": course_id,
             "course_file": course_file,
             "week": 8,
@@ -192,6 +204,8 @@ for prefix, llm_key, block_num in LLM_BLOCKS:
             "sample_size": sample_size,
             "target_accuracy": target_acc,
             "llm": llm_key,
+            "sample_seed": sample_seed,
+            "calib_seed": calib_seed,
             "intro": build_agent_intro(course_id, 8, pct),
         })
         _scenario_num += 1
@@ -208,25 +222,25 @@ BLOCK_QUESTIONS = {
         "I would have wanted an AI assistant during this scenario.",
     ],
     2: [
-        "I felt confident in my decisions in Scenario 2 (~40% accurate agent).",
-        "I felt confident in my decisions in Scenario 3 (~60% accurate agent).",
-        "I felt confident in my decisions in Scenario 4 (~80% accurate agent).",
+        "I felt confident in my decisions in Scenario 2 (Agent 1).",
+        "I felt confident in my decisions in Scenario 3 (Agent 1).",
+        "I felt confident in my decisions in Scenario 4 (Agent 1).",
         "The AI agent in Scenarios 2-4 was a useful collaborator.",
         "I could tell when the agent's predictions were wrong in Scenarios 2-4.",
         "I trusted the agent more as its stated accuracy increased.",
     ],
     3: [
-        "I felt confident in my decisions in Scenario 5 (~40% accurate agent).",
-        "I felt confident in my decisions in Scenario 6 (~60% accurate agent).",
-        "I felt confident in my decisions in Scenario 7 (~80% accurate agent).",
+        "I felt confident in my decisions in Scenario 5 (Agent 2).",
+        "I felt confident in my decisions in Scenario 6 (Agent 2).",
+        "I felt confident in my decisions in Scenario 7 (Agent 2).",
         "The AI agent in Scenarios 5-7 was a useful collaborator.",
         "I could tell when the agent's predictions were wrong in Scenarios 5-7.",
         "I trusted the agent more as its stated accuracy increased.",
     ],
     4: [
-        "I felt confident in my decisions in Scenario 8 (~40% accurate agent).",
-        "I felt confident in my decisions in Scenario 9 (~60% accurate agent).",
-        "I felt confident in my decisions in Scenario 10 (~80% accurate agent).",
+        "I felt confident in my decisions in Scenario 8 (Agent 3).",
+        "I felt confident in my decisions in Scenario 9 (Agent 3).",
+        "I felt confident in my decisions in Scenario 10 (Agent 3).",
         "The AI agent in Scenarios 8-10 was a useful collaborator.",
         "I could tell when the agent's predictions were wrong in Scenarios 8-10.",
         "I trusted the agent more as its stated accuracy increased.",
@@ -467,7 +481,7 @@ def predict_all_students_for_scenario(cond, grades_lookup, db, students):
 
     # Step 2: apply noise to hit target accuracy
     if target_acc is not None and raw_preds:
-        rng = random.Random(hash(cond["id"]) & 0xFFFFFFFF)
+        rng = random.Random(cond.get("calib_seed", hash(cond["id"]) & 0xFFFFFFFF))
         total = len(raw_preds)
         target_correct = round(target_acc * total)
         currently_correct = sum(1 for _, _, _, c in raw_preds if c)
@@ -521,13 +535,10 @@ def predict_all_students_for_scenario(cond, grades_lookup, db, students):
     at_risk = picked
     at_risk.sort(key=lambda r: -r["confidence"])  # display highest first
 
-    acc_pct = f"{int(target_acc * 100)}%" if target_acc is not None else "—"
-
     return {
         "at_risk_students": at_risk,
         "at_risk_count": len(at_risk),
         "total_students": len(results),
-        "note": f"Predictions roughly {acc_pct} accurate in this course.",
     }
 
 
@@ -623,8 +634,11 @@ def execute_tool(tool_name, args, cond, grades_lookup, db, students):
         elif tool_name == "get_class_average":
             result = get_class_average(grades_lookup)
         elif tool_name == "minimum_score_needed":
+            full_syl = get_course_syllabus(db, course_id, current_week=week)
+            full_syllabus = full_syl.get("assignments", [])
             result = minimum_score_needed(
                 args["student_id"], args["target_grade"], grades_lookup,
+                full_syllabus=full_syllabus,
             )
         else:
             result = {"error": f"Unknown tool: {tool_name}"}
@@ -655,9 +669,6 @@ def get_llm_response(messages, cond, grades_lookup, db, students):
     if not cfg["api_key"]:
         return f"[API key missing for {llm_key}. Check your .env file.]", set()
 
-    target_acc = cond.get("target_accuracy")
-    accuracy_str = f"{int(target_acc * 100)}%" if target_acc is not None else "unknown"
-
     system_msg = {
         "role": "system",
         "content": (
@@ -677,8 +688,7 @@ def get_llm_response(messages, cond, grades_lookup, db, students):
             f"- When asked about class size or how many students, use list_students and read total_count. "
             f"Never count the list manually.\n"
             f"- Be concise and data-driven.\n"
-            f"- Predictions in this course are about {accuracy_str} accurate. "
-            f"Remind the instructor when appropriate that low-confidence predictions are more likely wrong."
+            f"- Remind the instructor when appropriate that low-confidence predictions are more likely wrong."
         ),
     }
 
@@ -852,16 +862,15 @@ def page_consent():
     ### Welcome
 
     You will complete **10 scenarios** grouped into **4 blocks**. After each block
-    you will answer a short questionnaire. Plan for roughly **2.5-3 hours total**;
-    feel free to take a short break between blocks.
+    you will answer a short questionnaire. Plan for roughly **45 min to an total**;
 
     In each scenario, your task is to **flag students you believe will finish with
-    a D or F**.
+    a D or F**. D is between 60-69 and F is below 60.
 
     - **Block 1 (Scenario 1):** No AI agent. Student data shown directly.
-    - **Block 2 (Scenarios 2-4):** AI agent at 40%, 60%, 80% stated accuracy.
-    - **Block 3 (Scenarios 5-7):** A different AI agent at 40%, 60%, 80%.
-    - **Block 4 (Scenarios 8-10):** A different AI agent at 40%, 60%, 80%.
+    - **Block 2 (Scenarios 2-4):** AI agent 1.
+    - **Block 3 (Scenarios 5-7):** AI agent 2.
+    - **Block 4 (Scenarios 8-10):** AI agent 3.
 
     Your chat, decisions, and timing will be logged for research. Your progress is
     saved automatically after every block.
@@ -943,6 +952,25 @@ def render_no_agent_cards(cond):
                 render_no_agent_card(s, cid, final_decisions)
 
 
+def _confidence_color(conf):
+    """Return a (text_color, bg_color) tuple for a confidence percentage."""
+    if conf >= 75:
+        return "#0f5132", "#d1e7dd"   # green
+    if conf >= 50:
+        return "#664d03", "#fff3cd"   # amber
+    return "#842029", "#f8d7da"       # red
+
+
+def _confidence_chip(conf):
+    """Inline HTML chip for a confidence percentage."""
+    fg, bg = _confidence_color(conf)
+    return (
+        f"<span style='display:inline-block; padding:3px 10px; border-radius:12px; "
+        f"background:{bg}; color:{fg}; font-weight:700; font-size:14px;'>"
+        f"{conf:.0f}% conf</span>"
+    )
+
+
 def render_no_agent_card(student_info, cond_id, final_decisions):
     sid = student_info["student_id"]
     current = final_decisions.get(sid, {})
@@ -961,10 +989,12 @@ def render_no_agent_card(student_info, cond_id, final_decisions):
     st.markdown(
         f"""
         <div style="border: 2px solid {border}; background: {bg};
-                    border-radius: 8px; padding: 14px; margin-bottom: 6px;">
-            <div style='font-weight:700; font-size:16px;'>{sid}</div>
-            <div style='font-size:14px; color:#555; margin-top:6px;'>Avg: <b>{avg_str}</b> | Submitted {submitted}/{total}</div>
-            <div style='font-size:13px; color:{status_color}; font-weight:700; margin-top:8px;'>{status}</div>
+                    border-radius: 8px; padding: 18px; margin-bottom: 6px;">
+            <div style='font-weight:700; font-size:20px; color:#000;'>{sid}</div>
+            <div style='font-size:17px; color:#222; margin-top:10px;'>
+                Avg: <b>{avg_str}</b> &nbsp;|&nbsp; Submitted <b>{submitted}/{total}</b>
+            </div>
+            <div style='font-size:15px; color:{status_color}; font-weight:700; margin-top:12px; letter-spacing:0.5px;'>{status}</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -998,25 +1028,29 @@ def render_reveal_stage(cond):
         "You will then make an **initial decision** for each flagged student."
     )
     if st.button("Show me the agent's flagged students", type="primary"):
-        db = get_db()
-        students, lookup = get_students_and_lookup(cond["course_file"], cond["sample_size"])
-        result = predict_all_students_for_scenario(cond, lookup, db, students)
-        print(f"[REVEAL] at-risk count: {len(result.get('at_risk_students', []))}", flush=True)
-        print(f"[REVEAL] total: {result.get('total_students')}", flush=True)
+        with st.spinner("Running the agent's predictions across all students... this may take a few seconds."):
+            db = get_db()
+            students, lookup = get_students_and_lookup(
+                cond["course_file"], cond["sample_size"],
+                seed=cond.get("sample_seed", SAMPLE_SEED),
+            )
+            result = predict_all_students_for_scenario(cond, lookup, db, students)
+            print(f"[REVEAL] at-risk count: {len(result.get('at_risk_students', []))}", flush=True)
+            print(f"[REVEAL] total: {result.get('total_students')}", flush=True)
 
-        st.session_state.all_predictions_cache[cid] = result
+            st.session_state.all_predictions_cache[cid] = result
 
-        agent_flagged = [s["student_id"] for s in result.get("at_risk_students", [])]
-        agent_details = {
-            s["student_id"]: {
-                "predicted_grade": s["predicted_grade"],
-                "confidence": s["confidence"],
-                "primary_driver": s["primary_driver"],
+            agent_flagged = [s["student_id"] for s in result.get("at_risk_students", [])]
+            agent_details = {
+                s["student_id"]: {
+                    "predicted_grade": s["predicted_grade"],
+                    "confidence": s["confidence"],
+                    "primary_driver": s["primary_driver"],
+                }
+                for s in result.get("at_risk_students", [])
             }
-            for s in result.get("at_risk_students", [])
-        }
-        st.session_state.agent_flagged_in_scenario[cid] = agent_flagged
-        st.session_state.agent_flag_details[cid] = agent_details
+            st.session_state.agent_flagged_in_scenario[cid] = agent_flagged
+            st.session_state.agent_flag_details[cid] = agent_details
         st.rerun()
 
 
@@ -1026,11 +1060,22 @@ def render_initial_decision_stage(cond):
     agent_details = st.session_state.agent_flag_details[cid]
     initial = st.session_state.initial_decisions[cid]
 
-    st.markdown("### Initial Decision")
     st.markdown(
-        f"The agent has flagged **{len(agent_flagged)} students** as at-risk. "
-        "Without using the chat, click **Flag** on the ones you agree with. "
-        "Leave the rest unflagged. Click a flagged card again to unflag it."
+        f"""
+        <div style="background:#fff8e1; border-left:6px solid #f59e0b;
+                    padding:14px 18px; border-radius:6px; margin-bottom:14px;">
+            <div style='font-size:13px; font-weight:700; color:#b45309; letter-spacing:1px;'>
+                STAGE 1 OF 2 &nbsp;•&nbsp; INITIAL DECISION
+            </div>
+            <div style='font-size:17px; color:#1a1a1a; margin-top:6px;'>
+                The agent has flagged <b>{len(agent_flagged)} students</b> as at-risk.
+                <b>Without</b> using the chat, click <b>Flag</b> on the ones you agree with.
+                Leave the rest unflagged. After you submit, you will chat with the agent
+                and can revise your choices in <b>Stage 2</b>.
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
     if not agent_flagged:
@@ -1082,12 +1127,12 @@ def render_initial_card(sid, details, cond_id, initial):
     st.markdown(
         f"""
         <div style="border: 2px solid {border}; background: {bg};
-                    border-radius: 8px; padding: 12px; margin-bottom: 6px;">
-            <div style='font-weight:700; font-size:15px;'>{sid}</div>
-            <div style='font-size:13px; color:#555; margin-top:4px;'>
-                Agent: <b>{pred}</b> ({conf:.0f}% conf)
+                    border-radius: 8px; padding: 18px; margin-bottom: 6px;">
+            <div style='font-weight:700; font-size:20px; color:#000;'>{sid}</div>
+            <div style='font-size:17px; color:#222; margin-top:10px;'>
+                Agent prediction: <b>{pred}</b> &nbsp; {_confidence_chip(conf)}
             </div>
-            <div style='font-size:12px; color:#777; margin-top:3px;'>{driver}</div>
+            <div style='font-size:15px; color:#444; margin-top:8px;'>{driver}</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -1107,12 +1152,32 @@ def render_initial_card(sid, details, cond_id, initial):
 def render_chat_and_final_stage(cond):
     cid = cond["id"]
     db = get_db()
-    students, lookup = get_students_and_lookup(cond["course_file"], cond["sample_size"])
+    students, lookup = get_students_and_lookup(
+        cond["course_file"], cond["sample_size"],
+        seed=cond.get("sample_seed", SAMPLE_SEED),
+    )
     agent_flagged = st.session_state.agent_flagged_in_scenario[cid]
     agent_details = st.session_state.agent_flag_details[cid]
     initial = st.session_state.initial_decisions[cid]
     final = st.session_state.final_decisions[cid]
     history = st.session_state.chat_history[cid]
+
+    n_initial = sum(1 for v in initial.values() if v == "accept")
+    st.markdown(
+        f"""
+        <div style="background:#e7f3ff; border-left:6px solid #0d6efd;
+                    padding:14px 18px; border-radius:6px; margin-bottom:14px;">
+            <div style='font-size:13px; font-weight:700; color:#0d6efd; letter-spacing:1px;'>
+                STAGE 2 OF 2 &nbsp;•&nbsp; FINAL DECISION
+            </div>
+            <div style='font-size:17px; color:#1a1a1a; margin-top:6px;'>
+                Your initial decisions ({n_initial} flagged) are saved. Now chat with the AI agent
+                on the left, then update your <b>final flag decisions</b> in the panel on the right.
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
     chat_col, panel_col = st.columns([7, 3])
 
@@ -1133,8 +1198,13 @@ def render_chat_and_final_stage(cond):
 
     with panel_col:
         n_flagged = sum(1 for d in final.values() if d.get("decision") == "accept")
-        st.markdown(f"### Flagged ({n_flagged})")
-        st.caption(f"Total agent-flagged: {len(agent_flagged)}")
+        st.markdown("### Final Decisions")
+        st.markdown(
+            f"<div style='font-size:15px; color:#444; margin-bottom:10px;'>"
+            f"Currently flagged: <b>{n_flagged}</b> of {len(agent_flagged)} agent-flagged students"
+            f"</div>",
+            unsafe_allow_html=True,
+        )
 
         if not agent_flagged:
             st.info("No students were flagged by the agent.")
@@ -1146,27 +1216,40 @@ def render_chat_and_final_stage(cond):
             is_flagged = current.get("decision") == "accept"
             initial_dec = initial.get(sid)
 
-            dot = "🔴" if is_flagged else "⚪"
-            initial_label = "🟥" if initial_dec == "accept" else "⬜"
+            border = "#d62728" if is_flagged else "#cccccc"
+            bg = "#fff5f5" if is_flagged else "#fafafa"
+            pred = details.get("predicted_grade", "?")
+            conf = details.get("confidence", 0)
+            driver = details.get("primary_driver", "")
+            initial_text = "Flagged" if initial_dec == "accept" else "Not flagged"
+            initial_color = "#d62728" if initial_dec == "accept" else "#888"
 
-            with st.container(border=True):
-                st.markdown(
-                    f"**{dot} {sid}**  \n"
-                    f"<span style='font-size:11px; color:#777;'>"
-                    f"Agent: {details.get('predicted_grade','?')} ({details.get('confidence',0):.0f}%) | "
-                    f"Initial: {initial_label}</span>",
-                    unsafe_allow_html=True,
-                )
+            st.markdown(
+                f"""
+                <div style="border:2px solid {border}; background:{bg};
+                            border-radius:8px; padding:14px; margin-bottom:6px;">
+                    <div style='font-weight:700; font-size:17px; color:#000;'>{sid}</div>
+                    <div style='font-size:15px; color:#222; margin-top:8px;'>
+                        Agent: <b>{pred}</b> &nbsp; {_confidence_chip(conf)}
+                    </div>
+                    <div style='font-size:14px; color:#444; margin-top:6px;'>{driver}</div>
+                    <div style='font-size:13px; color:{initial_color}; margin-top:8px;'>
+                        Your initial: <b>{initial_text}</b>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
-                btn_label = "Unflag" if is_flagged else "Flag"
-                btn_type = "primary" if is_flagged else "secondary"
-                if st.button(btn_label, key=f"final_{cid}_{sid}",
-                             type=btn_type, use_container_width=True):
-                    if is_flagged:
-                        final[sid] = {"decision": "reject"}
-                    else:
-                        final[sid] = {"decision": "accept"}
-                    st.rerun()
+            btn_label = "Unflag" if is_flagged else "Flag"
+            btn_type = "primary" if is_flagged else "secondary"
+            if st.button(btn_label, key=f"final_{cid}_{sid}",
+                         type=btn_type, use_container_width=True):
+                if is_flagged:
+                    final[sid] = {"decision": "reject"}
+                else:
+                    final[sid] = {"decision": "accept"}
+                st.rerun()
 
 
 # -----------------------------------------------------------------------------
@@ -1185,12 +1268,23 @@ def page_scenario_work():
         1 for d in st.session_state.final_decisions.get(cid, {}).values()
         if d.get("decision") == "accept"
     )
+    in_stage_2 = cond["has_agent"] and st.session_state.initial_submitted.get(cid, False)
+    user_msg_count = sum(
+        1 for m in st.session_state.chat_history.get(cid, [])
+        if m.get("role") == "user"
+    )
+    needs_chat = in_stage_2 and user_msg_count < 1
+
     top_left, top_right = st.columns([4, 1])
     with top_left:
         st.markdown(f"**Flagged so far:** {flagged_count} students")
+        if needs_chat:
+            st.caption("⚠️ You must send at least one message to the agent before submitting.")
     with top_right:
         can_submit = True
         if cond["has_agent"] and not st.session_state.initial_submitted.get(cid, False):
+            can_submit = False
+        if needs_chat:
             can_submit = False
 
         if st.button("Submit & Continue", type="primary", disabled=not can_submit):

@@ -1,5 +1,0 @@
-python -m vllm.entrypoints.openai.api_server --model meta-llama/Llama-3.1-8B-Instruct --port 8000
-
-python tod.py
-
-python evaluate.py --dialogues results/dataset/data.json --ground-truth results/dataset/ground_truth.json --output results/dataset/eval_results.json --verbose

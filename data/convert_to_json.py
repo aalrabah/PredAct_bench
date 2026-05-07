@@ -17,7 +17,8 @@ import os
 from collections import defaultdict
 
 
-DEFAULT_OUTPUT_DIR = "results/dataset"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_OUTPUT_DIR = os.path.join(PROJECT_ROOT, "results", "predact_cs")
 
 
 def parse_students(filepath):

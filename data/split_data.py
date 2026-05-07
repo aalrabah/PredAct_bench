@@ -6,7 +6,7 @@ Splits cs_db.json into:
   2. test_sets/{course}_week{N}.json   - truncated test students at each cutoff week
   3. ground_truth_for_cutoff_data.json - answer key (final grades) for every test set
 
-Everything saves to results/dataset by default.
+Everything saves to <project-root>/results/predact_cs by default.
 
 The split ensures NO overlap between training and test students, so k-NN
 cannot leak by matching a test student to themselves.
@@ -27,7 +27,8 @@ import argparse
 from collections import defaultdict, Counter
 
 
-DEFAULT_DIR = "results/dataset"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_DIR = os.path.join(PROJECT_ROOT, "results", "predact_cs")
 DEFAULT_DB = os.path.join(DEFAULT_DIR, "cs_db.json")
 
 
@@ -105,7 +106,7 @@ def split_course(course_data, test_ratio, rng):
 
 
 def safe_filename(course_id):
-    """Turn 'Course A' into 'CourseA' etc."""
+    """Turn 'Course_D' into 'CourseD' etc."""
     return course_id.replace(" ", "").replace("/", "_").replace("\\", "_")
 
 
@@ -230,7 +231,7 @@ def main():
             if test_set is None:
                 continue
 
-            # File name: e.g. CourseA_week4.json
+            # File name: e.g. CourseD_week4.json
             test_filename = f"{cid_safe}_week{cutoff_week}.json"
             test_path = os.path.join(test_sets_dir, test_filename)
             with open(test_path, "w", encoding="utf-8") as f:
