@@ -1,7 +1,7 @@
 """
 Exp 1 — Tool Characterization
 
-Measures k-NN prediction accuracy across the semester on UIUC and OULAD.
+Measures k-NN prediction accuracy across the semester on PredAct-CS and OULAD.
 
 For each (dataset, course, cutoff_week, feature_set, student):
   - run predict_final_grade_for_student
@@ -38,10 +38,10 @@ RESULTS_ROOT = os.path.join(PROJECT_ROOT, "results")
 
 DATASETS = [
     {
-        "name": "uiuc",
-        "train_db": os.path.join(RESULTS_ROOT, "uiuc", "cs_db_train.json"),
-        "test_sets_dir": os.path.join(RESULTS_ROOT, "uiuc", "test_sets"),
-        "ground_truth": os.path.join(RESULTS_ROOT, "uiuc", "ground_truth_for_cutoff_data.json"),
+        "name": "predact_cs",
+        "train_db": os.path.join(RESULTS_ROOT, "predact_cs", "cs_db_train.json"),
+        "test_sets_dir": os.path.join(RESULTS_ROOT, "predact_cs", "test_sets"),
+        "ground_truth": os.path.join(RESULTS_ROOT, "predact_cs", "ground_truth_for_cutoff_data.json"),
     },
     {
         "name": "oulad",
@@ -342,7 +342,7 @@ def plot_accuracy_and_ece(summary, output_path):
 
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 7), sharex=True)
 
-    colors = {"uiuc": "#1f77b4", "oulad": "#d62728"}
+    colors = {"predact_cs": "#1f77b4", "oulad": "#d62728"}
     linestyles = {"full": "-", "minimal": "--"}
 
     for (dataset, feature_set), points in lines.items():
@@ -388,8 +388,8 @@ def main():
     parser.add_argument("--feature-sets", nargs="+", default=["full"],
                         choices=["minimal", "full"])
     parser.add_argument("--output-dir", default=os.path.join(RESULTS_ROOT, "exp1"))
-    parser.add_argument("--datasets", nargs="+", default=["uiuc", "oulad"],
-                        choices=["uiuc", "oulad"])
+    parser.add_argument("--datasets", nargs="+", default=["predact_cs", "oulad"],
+                        choices=["predact_cs", "oulad"])
     args = parser.parse_args()
 
     all_rows = []

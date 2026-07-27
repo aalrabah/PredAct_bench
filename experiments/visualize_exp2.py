@@ -3,7 +3,7 @@ Exp 2 — visualization.
 
 Reads the per-cell CSV from exp2_aggregate.py and plots three panels
 (F1-final, Trajectory-RAIR, Trajectory-RSR) vs target accuracy on the
-x-axis, one curve per instructor LLM, faceted by dataset (UIUC | OULAD).
+x-axis, one curve per instructor LLM, faceted by dataset (PredAct-CS | OULAD).
 
 Usage:
     python -m experiments.visualize_exp2
@@ -26,7 +26,7 @@ METRICS = [
     ("rsr_mean",        "rsr_std",        "Trajectory-RSR"),
 ]
 
-DATASETS = ["uiuc", "oulad"]
+DATASETS = ["predact_cs", "oulad"]
 
 
 def load_rows(path):

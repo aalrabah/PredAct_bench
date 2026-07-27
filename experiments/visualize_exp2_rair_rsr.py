@@ -21,8 +21,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
-CSV_PATH = "/Users/abdulrahmanalrabah/PredAct/results/exp2/exp2_per_cell.csv"
-OUT_DIR  = "/Users/abdulrahmanalrabah/PredAct/"
+CSV_PATH = "results/exp2/exp2_per_cell.csv"
+OUT_DIR  = "."
 PREFIX   = os.path.join(OUT_DIR, "figure2")
 
 DISPLAY = {
@@ -61,8 +61,8 @@ for fam, info in FAMILIES.items():
     for c, m in zip(info["colors"], info["models"]):
         MODEL_COLOR[m] = c
 
-DATASET_DISPLAY = {"oulad": "OULAD", "uiuc": "PredAct-CS"}
-DATASET_MARKER  = {"uiuc": "o", "oulad": "s"}   # circle / square
+DATASET_DISPLAY = {"oulad": "OULAD", "predact_cs": "PredAct-CS"}
+DATASET_MARKER  = {"predact_cs": "o", "oulad": "s"}   # circle / square
 
 # Order models for the legend (same blocking as the paper table)
 CLOSED = ["gpt5_5", "gpt5_4_mini", "gpt4o_mini",
@@ -85,7 +85,7 @@ def model_means(metric):
     """Returns dict[(model, dataset)] -> mean metric across the 5 cutoffs."""
     out = {}
     for m in MODEL_ORDER:
-        for ds in ("uiuc", "oulad"):
+        for ds in ("predact_cs", "oulad"):
             sub = df[(df["instructor_llm"] == m) & (df["dataset"] == ds)]
             vals = sub[metric].dropna().tolist()
             out[(m, ds)] = sum(vals) / len(vals) if vals else float("nan")
@@ -96,7 +96,7 @@ def per_acc_means(metric):
     """Returns dict[(model, dataset, t)] -> mean metric for that cell."""
     out = {}
     for m in MODEL_ORDER:
-        for ds in ("uiuc", "oulad"):
+        for ds in ("predact_cs", "oulad"):
             for t in targets:
                 row = df[(df["instructor_llm"] == m)
                         & (df["dataset"] == ds)
@@ -143,7 +143,7 @@ def fig_scatter_overlaid():
     fig, ax = plt.subplots(figsize=(8.5, 7))
 
     for m in MODEL_ORDER:
-        for ds in ("uiuc", "oulad"):
+        for ds in ("predact_cs", "oulad"):
             x = rair[(m, ds)]
             y = rsr[(m, ds)]
             if math.isnan(x) or math.isnan(y):
@@ -188,7 +188,7 @@ def fig_scatter_panels():
     rsr  = model_means("rsr_mean")
 
     fig, axes = plt.subplots(1, 2, figsize=(14, 6.5), sharey=True)
-    for ax, ds in zip(axes, ("uiuc", "oulad")):
+    for ax, ds in zip(axes, ("predact_cs", "oulad")):
         for m in MODEL_ORDER:
             x = rair[(m, ds)]; y = rsr[(m, ds)]
             if math.isnan(x) or math.isnan(y):
@@ -217,7 +217,7 @@ def fig_scatter_panels():
 def fig_rsr_lines():
     cells = per_acc_means("rsr_mean")
     fig, axes = plt.subplots(1, 2, figsize=(14, 5.5), sharey=True)
-    for ax, ds in zip(axes, ("uiuc", "oulad")):
+    for ax, ds in zip(axes, ("predact_cs", "oulad")):
         for m in MODEL_ORDER:
             ys = [cells[(m, ds, t)] for t in targets]
             ax.plot(targets, ys, marker="o", linewidth=1.6, markersize=6,
@@ -248,7 +248,7 @@ def fig_rsr_lines():
 def fig_rair_lines():
     cells = per_acc_means("rair_mean")
     fig, axes = plt.subplots(1, 2, figsize=(14, 5.5), sharey=True)
-    for ax, ds in zip(axes, ("uiuc", "oulad")):
+    for ax, ds in zip(axes, ("predact_cs", "oulad")):
         for m in MODEL_ORDER:
             ys = [cells[(m, ds, t)] for t in targets]
             ax.plot(targets, ys, marker="o", linewidth=1.6, markersize=6,
@@ -286,7 +286,7 @@ def fig_combined():
     # --- Left: scatter ---
     ax = axes[0]
     for m in MODEL_ORDER:
-        for ds in ("uiuc", "oulad"):
+        for ds in ("predact_cs", "oulad"):
             x = rair[(m, ds)]; y = rsr[(m, ds)]
             if math.isnan(x) or math.isnan(y):
                 continue
@@ -312,7 +312,7 @@ def fig_combined():
     for m in MODEL_ORDER:
         ys = []
         for t in targets:
-            vals = [cells[(m, ds, t)] for ds in ("uiuc", "oulad")
+            vals = [cells[(m, ds, t)] for ds in ("predact_cs", "oulad")
                     if not math.isnan(cells[(m, ds, t)])]
             ys.append(sum(vals) / len(vals) if vals else float("nan"))
         ax.plot(targets, ys, marker="o", linewidth=1.7, markersize=6,
@@ -354,7 +354,7 @@ def _heatmap_grid(metric_key, title_fragment, out_suffix,
         scored = []
         for m in keys:
             vals = []
-            for ds in ("uiuc", "oulad"):
+            for ds in ("predact_cs", "oulad"):
                 for t in targets:
                     v = cells[(m, ds, t)]
                     if not math.isnan(v):
@@ -374,7 +374,7 @@ def _heatmap_grid(metric_key, title_fragment, out_suffix,
                              gridspec_kw={"width_ratios": [1, 1.04]})
     norm = plt.matplotlib.colors.TwoSlopeNorm(vmin=vmin, vcenter=vcenter, vmax=vmax)
 
-    for ax, ds in zip(axes, ("uiuc", "oulad")):
+    for ax, ds in zip(axes, ("predact_cs", "oulad")):
         # Build the matrix: rows × cutoffs.
         mat = np.full((len(row_keys), len(targets)), np.nan)
         for i, m in enumerate(row_keys):
@@ -446,7 +446,7 @@ def fig_heatmap_rair_rsr_stacked():
         cells = per_acc_means(metric_key)
         scored = []
         for m in keys:
-            vals = [cells[(m, ds, t)] for ds in ("uiuc", "oulad") for t in targets
+            vals = [cells[(m, ds, t)] for ds in ("predact_cs", "oulad") for t in targets
                     if not math.isnan(cells[(m, ds, t)])]
             scored.append((m, sum(vals) / len(vals) if vals else float("nan")))
         scored.sort(key=lambda kv: -kv[1] if not math.isnan(kv[1]) else 1)
@@ -463,7 +463,7 @@ def fig_heatmap_rair_rsr_stacked():
         row_label = ([DISPLAY[m] for m in closed_sorted] + [""]
                      + [DISPLAY[m] for m in open_sorted])
 
-        for col_idx, ds in enumerate(("uiuc", "oulad")):
+        for col_idx, ds in enumerate(("predact_cs", "oulad")):
             ax = all_axes[row_idx, col_idx]
             mat = np.full((len(row_keys), len(targets)), np.nan)
             for i, m in enumerate(row_keys):

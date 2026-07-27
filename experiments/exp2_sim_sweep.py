@@ -10,7 +10,7 @@ Usage:
     python -m experiments.exp2_sim_sweep                # full enabled grid
     python -m experiments.exp2_sim_sweep --dry-run      # print plan, do nothing
     python -m experiments.exp2_sim_sweep --instructor claude_haiku_4_5
-    python -m experiments.exp2_sim_sweep --dataset uiuc --accuracy 0.6
+    python -m experiments.exp2_sim_sweep --dataset predact_cs --accuracy 0.6
     python -m experiments.exp2_sim_sweep --runs 5       # override N_RUNS_PER_CELL
 """
 
@@ -89,8 +89,8 @@ def _get_scenario_data(dataset, course_file):
 
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-    if dataset == "uiuc":
-        # load_scenario_data already loads the UIUC training DB by default.
+    if dataset == "predact_cs":
+        # load_scenario_data already loads the PredAct-CS training DB by default.
         db, all_students, _, gt_grades = load_scenario_data(course_file)
     elif dataset == "oulad":
         # OULAD has its own training DB and test sets.
@@ -183,7 +183,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--instructor", action="append",
                         help="Restrict to one or more instructor llm_key(s). Repeatable.")
-    parser.add_argument("--dataset", choices=["uiuc", "oulad"],
+    parser.add_argument("--dataset", choices=["predact_cs", "oulad"],
                         help="Restrict to one dataset.")
     parser.add_argument("--accuracy", type=float,
                         help="Restrict to one accuracy level (e.g. 0.6).")

@@ -9,8 +9,8 @@ import os
 import math
 import pandas as pd
 
-CSV_PATH = "/Users/abdulrahmanalrabah/PredAct/results/exp2/exp2_per_cell.csv"
-OUT_DIR  = "/Users/abdulrahmanalrabah/PredAct/results/exp2"
+CSV_PATH = "results/exp2/exp2_per_cell.csv"
+OUT_DIR  = "results/exp2"
 OUT_TEX  = os.path.join(OUT_DIR, "exp2_table_paper.tex")
 
 DISPLAY = {
@@ -38,7 +38,7 @@ OPEN_SOURCE = {
     "mistral_small_24b", "ministral_3_14b",
     "qwen_35b", "qwen_9b",
 }
-DATASETS_ORDER = [("uiuc", "PredAct-CS"), ("oulad", "OULAD")]
+DATASETS_ORDER = [("predact_cs", "PredAct-CS"), ("oulad", "OULAD")]
 ACCURACIES = [0.4, 0.5, 0.6, 0.7, 0.8]
 
 # (CSV mean column, CSV std column, header label)

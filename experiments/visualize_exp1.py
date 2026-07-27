@@ -37,8 +37,7 @@ DISPLAY_NAME = {
     "PredAct-CS": "PredAct",
     "predact-cs": "PredAct",
     "predact": "PredAct",
-    "uiuc":    "PredAct",
-    "UIUC":    "PredAct",
+    "predact_cs":    "PredAct",
     "oulad":   "OULAD",
     "OULAD":   "OULAD",
 }

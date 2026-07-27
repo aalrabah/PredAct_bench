@@ -165,30 +165,30 @@ INSTRUCTOR_LLM_KEYS = [
 # k-NN accuracy lands near the target (verified from results/exp1/exp1_raw.csv).
 
 CELLS = [
-    # UIUC — week 8 everywhere (40/60/80 match the human study)
+    # PredAct-CS — week 8 everywhere (40/60/80 match the human study)
     {
-        "dataset": "uiuc", "target_accuracy": 0.40,
-        "course_id": "CS 374", "course_file": "CS374_week8.json",
+        "dataset": "predact_cs", "target_accuracy": 0.40,
+        "course_id": "C3-01", "course_file": "C3-01_week8.json",
         "week": 8, "feature_set": "full",
     },
     {
-        "dataset": "uiuc", "target_accuracy": 0.50,
-        "course_id": "CS 450", "course_file": "CS450_week8.json",
+        "dataset": "predact_cs", "target_accuracy": 0.50,
+        "course_id": "C4-02", "course_file": "C4-02_week8.json",
         "week": 8, "feature_set": "full",
     },
     {
-        "dataset": "uiuc", "target_accuracy": 0.60,
-        "course_id": "CS 461", "course_file": "CS461_week8.json",
+        "dataset": "predact_cs", "target_accuracy": 0.60,
+        "course_id": "C4-25", "course_file": "C4-25_week8.json",
         "week": 8, "feature_set": "full",
     },
     {
-        "dataset": "uiuc", "target_accuracy": 0.70,
-        "course_id": "CS 105", "course_file": "CS105_week8.json",
+        "dataset": "predact_cs", "target_accuracy": 0.70,
+        "course_id": "C1-02", "course_file": "C1-02_week8.json",
         "week": 8, "feature_set": "full",
     },
     {
-        "dataset": "uiuc", "target_accuracy": 0.80,
-        "course_id": "CS 421", "course_file": "CS421_week8.json",
+        "dataset": "predact_cs", "target_accuracy": 0.80,
+        "course_id": "C4-29", "course_file": "C4-29_week8.json",
         "week": 8, "feature_set": "full",
     },
     # OULAD — per-(course, week) anchors near each target

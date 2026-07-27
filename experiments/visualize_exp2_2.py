@@ -1,7 +1,7 @@
 """
 Figure 1 candidates for PredAct.
 Generates 3 visualization styles so you can pick which one to use.
-Datasets: OULAD, PredAct-CS (renamed from UIUC).
+Datasets: OULAD, PredAct-CS.
 Metric on y-axis: f1_final_mean (change METRIC below to swap).
 """
 import pandas as pd
@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
 # --- Config ---
-CSV_PATH = "/Users/abdulrahmanalrabah/PredAct/results/exp2/exp2_per_cell.csv"
+CSV_PATH = "results/exp2/exp2_per_cell.csv"
 METRIC = "f1_final_mean"          # y-axis metric
 METRIC_STD = "f1_final_std"       # matching std column
 METRIC_LABEL = "F1"       # axis label # f1 final
@@ -32,7 +32,7 @@ DISPLAY_NAMES = {
     "qwen_9b":           "Qwen 9B",
     "qwen_35b":          "Qwen 35B",
 }
-DATASET_NAMES = {"oulad": "OULAD", "uiuc": "PredAct-CS"}
+DATASET_NAMES = {"oulad": "OULAD", "predact_cs": "PredAct-CS"}
 
 # Target accuracy → color (sequential)
 TARGET_COLORS = {0.4: "#A8C8E8", 0.5: "#5B95C9", 0.6: "#1F5A9E",
@@ -190,7 +190,7 @@ def plot_combined_single_panel():
     fig, ax = plt.subplots(figsize=(12, 6))
     x = np.arange(len(model_order))
     bar_w = 0.38
-    DS_COLORS = {"uiuc": "#2E86AB", "oulad": "#E63946"}
+    DS_COLORS = {"predact_cs": "#2E86AB", "oulad": "#E63946"}
 
     for i, ds in enumerate(datasets):
         sub = df[df["dataset"] == ds]
@@ -300,7 +300,7 @@ def plot_figure1():
 # Single panel. X-axis = target accuracy (5 values).
 # 12 grouped bars per accuracy, colored by MODEL FAMILY.
 # Each family has 2 variants distinguished by darker/lighter shade.
-# F1 averaged across both datasets (UIUC + OULAD).
+# F1 averaged across both datasets (PredAct-CS + OULAD).
 # =============================================================
 def plot_figure1_combined_families():
     # Model family groupings + colors
@@ -414,9 +414,9 @@ def plot_figure1_two_datasets_one_panel():
     for j, (fam, m, base_color) in enumerate(flat_models):
         # PredAct-CS bar (solid)
         offset_u = (2 * j - (n_models * 2 - 1) / 2) * bar_w
-        u_means = [df[(df["instructor_llm"]==m) & (df["dataset"]=="uiuc") &
+        u_means = [df[(df["instructor_llm"]==m) & (df["dataset"]=="predact_cs") &
                        (df["target_accuracy"]==t)][METRIC].iloc[0]
-                   if not df[(df["instructor_llm"]==m) & (df["dataset"]=="uiuc") &
+                   if not df[(df["instructor_llm"]==m) & (df["dataset"]=="predact_cs") &
                              (df["target_accuracy"]==t)].empty else 0
                    for t in targets]
         # OULAD bar (hatched)
@@ -532,7 +532,7 @@ def plot_per_dataset_separate():
                   labelspacing=1.2, title="Model")
 
         plt.tight_layout()
-        ds_slug = "predact-cs" if ds == "uiuc" else ds
+        ds_slug = "predact-cs" if ds == "predact_cs" else ds
         out = f"{OUTPUT_PREFIX}_H_{ds_slug}.pdf"
         plt.savefig(out, bbox_inches="tight", dpi=300)
         plt.savefig(out.replace(".pdf", ".png"), bbox_inches="tight", dpi=300)
@@ -579,7 +579,7 @@ def plot_overlaid_datasets():
         offset = (j - (n_models - 1) / 2) * bar_w
         u_means, o_means = [], []
         for t in targets:
-            u_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "uiuc") &
+            u_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "predact_cs") &
                         (df["target_accuracy"] == t)][METRIC]
             o_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "oulad") &
                         (df["target_accuracy"] == t)][METRIC]
@@ -667,7 +667,7 @@ def plot_dumbbell():
     for j, (fam, m, color) in enumerate(flat_models):
         offset = (j - (n_models - 1) / 2) * dot_dx
         for ti, t in enumerate(targets):
-            u_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "uiuc") &
+            u_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "predact_cs") &
                         (df["target_accuracy"] == t)][METRIC]
             o_row = df[(df["instructor_llm"] == m) & (df["dataset"] == "oulad") &
                         (df["target_accuracy"] == t)][METRIC]
