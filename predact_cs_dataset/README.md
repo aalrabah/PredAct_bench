@@ -34,4 +34,5 @@ Decompress the databases with `gunzip cs_db.json.gz cs_db_train.json.gz`.
 
 ## License
 
-Released under CC BY 4.0.
+Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+See the `LICENSE` file for the full terms.
